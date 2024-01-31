@@ -48,12 +48,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/workspace/FastCampus/default_board/fastcampus-project-board/project-board",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Issue.Navigation"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\FastCampus\default_board\fastcampus-project-board\project-board" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.D:/workspace/FastCampus/default_board/fastcampus-project-board/project-board [init]">
+    <configuration name="D:/workspace/FastCampus/default_board/fastcampus-project-board/project-board [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="ProjectBoardApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -80,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.D:/workspace/FastCampus/default_board/fastcampus-project-board/project-board [init]" />
         <item itemvalue="Gradle.ProjectBoardApplicationTests" />
       </list>
     </recent_temporary>
