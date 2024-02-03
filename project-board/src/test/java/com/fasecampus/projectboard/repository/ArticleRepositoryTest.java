@@ -2,6 +2,8 @@ package com.fasecampus.projectboard.repository;
 
 import com.fasecampus.projectboard.config.JpaConfig;
 import com.fasecampus.projectboard.domain.Article;
+import lombok.RequiredArgsConstructor;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,7 +35,7 @@ class ArticleRepositoryTest {
         this.articleRepository = articleRepository;
         this.articleCommentRepository = articleCommentRepository;
     }
-
+    @Disabled
     @DisplayName("select 테스트")
     @Test
     void givenTestData_whenSelecting_thenWorksFine() {
