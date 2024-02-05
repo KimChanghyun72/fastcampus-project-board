@@ -1,10 +1,12 @@
 package com.fasecampus.projectboard.controller;
 
+import com.fasecampus.projectboard.config.SecurityConfig;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.context.annotation.Import;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
@@ -16,6 +18,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.view;
 
 @DisplayName("View Controller - Board")
+@Import(SecurityConfig.class)       // spring security config 설정 적용.
 @WebMvcTest(ArticleController.class)
 class ArticleControllerTest {
 
@@ -26,7 +29,6 @@ class ArticleControllerTest {
     }
 
     @DisplayName("[view][GET] 게시글 리스트(게시판) 페이지 - 정상 호출")
-    @Disabled("구현 중")
     @Test
     public void givenNothing_whenRequestingArticlesView_thenReturnsArticlesView() throws Exception {
         // Given
@@ -44,7 +46,6 @@ class ArticleControllerTest {
     }
 
     @DisplayName("[view][GET] 게시글 상세 페이지 - 정상 호출")
-    @Disabled("구현 중")
     @Test
     public void givenNothing_whenRequestingArticleView_thenReturnsArticleView() throws Exception {
         // Given
@@ -61,7 +62,7 @@ class ArticleControllerTest {
     }
 
     @DisplayName("[view][GET] 게시글 검색 전용 페이지 - 정상 호출")
-    @Disabled("구현 중")
+    @Disabled("구현중")
     @Test
     public void givenNothing_whenRequestingArticleSearchView_thenReturnsArticleSearchView() throws Exception {
         // Given
@@ -76,7 +77,7 @@ class ArticleControllerTest {
     }
 
     @DisplayName("[view][GET] 게시글 해시태그 검색 페이지 - 정상 호출")
-    @Disabled("구현 중")
+    @Disabled("구현중")
     @Test
     public void givenNothing_whenRequestingArticleHashtagView_thenReturnsArticleHashtagView() throws Exception {
         // Given
