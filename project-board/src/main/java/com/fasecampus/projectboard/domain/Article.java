@@ -18,7 +18,8 @@ import java.util.Objects;
 import java.util.Set;
 
 @Getter
-@ToString
+//@ToString
+@ToString(callSuper = true)     // 연관된 extends한 객체까지 들어가서 toString을 찍겠다.
 //@EqualsAndHashCode
 @Table(indexes = {
         @Index(columnList = "title"),
@@ -39,7 +40,7 @@ public class Article extends AuditingFields {
     @Setter private String hashtag;     // 해시태그
 
     @ToString.Exclude
-    @OrderBy("id")
+    @OrderBy("createdAt DESC")
     @OneToMany(mappedBy = "article", cascade = CascadeType.ALL)
     private final Set<ArticleComment> articleComments = new LinkedHashSet<>();
 

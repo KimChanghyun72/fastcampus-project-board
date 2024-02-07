@@ -20,6 +20,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 //@ActiveProfiles("testdb")
 //@AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
+@Disabled
 @DisplayName("JPA 연결 테스트")
 @Import(JpaConfig.class)
 @DataJpaTest

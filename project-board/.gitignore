@@ -1,5 +1,9 @@
 ### queryDsl
 src/main/generated
+
+### JPA Buddy
+.jpb
+
 #
 # HELP.md
 # .gradle

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfccce44-ebe2-4211-9d80-7a042cf4d71e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/project-board">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/project-board">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2boaiwH0K7zVXJhJrPfxrOVIcKy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/workspace/FastCampus/default_board/fastcampus-project-board",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4779874",
+    "settings.editor.selected.configurable": "configurable.group.com.haulmont.jpb.tools"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fasecampus.projectboard.service" />
+      <recent name="com.fasecampus.projectboard.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProjectBoardApplication">
+    <configuration name="ProjectBoardApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fasecampus.projectboard.ProjectBoardApplication" />
+      <module name="project-board.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fasecampus.projectboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleServiceTest.givenArticleIdAndModifiedInfo_whenUpdatingArticle_thenUpdateArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-board.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fasecampus.projectboard.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fasecampus.projectboard.service" />
+      <option name="MAIN_CLASS_NAME" value="com.fasecampus.projectboard.service.ArticleServiceTest" />
+      <option name="METHOD_NAME" value="givenArticleIdAndModifiedInfo_whenUpdatingArticle_thenUpdateArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleServiceTest.givenArticleId_whenDeletingArticle_thenDeleteArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-board.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fasecampus.projectboard.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fasecampus.projectboard.service" />
+      <option name="MAIN_CLASS_NAME" value="com.fasecampus.projectboard.service.ArticleServiceTest" />
+      <option name="METHOD_NAME" value="givenArticleId_whenDeletingArticle_thenDeleteArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleServiceTest.givenArticleInfo_whenSavingArticle_thenSavesArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-board.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fasecampus.projectboard.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fasecampus.projectboard.service" />
+      <option name="MAIN_CLASS_NAME" value="com.fasecampus.projectboard.service.ArticleServiceTest" />
+      <option name="METHOD_NAME" value="givenArticleInfo_whenSavingArticle_thenSavesArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest.givenNothing_whenRequestingRootPage_thenRedirectsArticlesPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-board.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fasecampus.projectboard.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fasecampus.projectboard.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.fasecampus.projectboard.controller.MainControllerTest" />
+      <option name="METHOD_NAME" value="givenNothing_whenRequestingRootPage_thenRedirectsArticlesPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectBoardApplication" />
+        <item itemvalue="JUnit.ArticleServiceTest.givenArticleId_whenDeletingArticle_thenDeleteArticle" />
+        <item itemvalue="JUnit.ArticleServiceTest.givenArticleIdAndModifiedInfo_whenUpdatingArticle_thenUpdateArticle" />
+        <item itemvalue="JUnit.ArticleServiceTest.givenArticleInfo_whenSavingArticle_thenSavesArticle" />
+        <item itemvalue="JUnit.MainControllerTest.givenNothing_whenRequestingRootPage_thenRedirectsArticlesPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfccce44-ebe2-4211-9d80-7a042cf4d71e" name="Changes" comment="" />
+      <created>1706884015282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706884015282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
