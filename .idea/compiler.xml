@@ -21,8 +21,12 @@
         <module name="project-board.main" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="project-board.querydsl" target="17" />
     </bytecodeTargetLevel>
+=======
+    <bytecodeTargetLevel target="17" />
+>>>>>>> feature/#21-service
   </component>
 </project>

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/fastcampus-project-board.iml" filepath="$PROJECT_DIR$/.idea/fastcampus-project-board.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-board.main.iml" filepath="$PROJECT_DIR$/.idea/modules/project-board.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-board.test.iml" filepath="$PROJECT_DIR$/.idea/modules/project-board.test.iml" />
+>>>>>>> feature/#21-service
     </modules>
   </component>
 </project>
