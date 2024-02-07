@@ -1,4 +1,4 @@
-package com.fasecampus.projectboard.controller;
+package com.fastcampus.projectboard.controller;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

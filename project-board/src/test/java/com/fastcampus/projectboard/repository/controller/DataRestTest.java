@@ -1,6 +1,5 @@
-package com.fasecampus.projectboard.repository.controller;
+package com.fastcampus.projectboard.repository.controller;
 
-import lombok.RequiredArgsConstructor;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

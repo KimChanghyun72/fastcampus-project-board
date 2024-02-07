@@ -1,6 +1,4 @@
-package com.fasecampus.projectboard.dto;
-
-import java.io.Serializable;
+package com.fastcampus.projectboard.dto;
 
 public record ArticleUpdateDTO(
         String title,

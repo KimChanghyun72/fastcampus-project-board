@@ -1,5 +1,4 @@
-package com.fasecampus.projectboard.config;
-
+package com.fastcampus.projectboard.config;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -17,26 +16,21 @@ public class ThymeleafConfig {
             SpringResourceTemplateResolver defaultTemplateResolver,
             Thymeleaf3Properties thymeleaf3Properties
     ) {
-        defaultTemplateResolver.setUseDecoupledLogic(thymeleaf3Properties.decoupledLogic());
+        defaultTemplateResolver.setUseDecoupledLogic(thymeleaf3Properties.isDecoupledLogic());
 
         return defaultTemplateResolver;
     }
 
 
-    // gist에 있는 코드.
+    @RequiredArgsConstructor
+    @Getter
+    //@ConstructorBinding
     @ConfigurationProperties("spring.thymeleaf3")
-    public record Thymeleaf3Properties(boolean decoupledLogic) {}
-
-    // 강의에 있는 코드
-//    @RequiredArgsConstructor
-//    @Getter
-//    @ConstructorBinding
-//    @ConfigurationProperties("spring.thymeleaf3")
-//    public static class Thymeleaf3Properties {
-//        /*
-//        Use Thymeleaf 3 Decoupled Logic
-//         */
-//        private final boolean decoupledLogic;
-//    }
+    public static class Thymeleaf3Properties {
+        /**
+         * Use Thymeleaf 3 Decoupled Logic
+         */
+        private final boolean decoupledLogic;
+    }
 
 }

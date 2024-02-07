@@ -1,4 +1,4 @@
-package com.fasecampus.projectboard.controller;
+package com.fastcampus.projectboard.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -8,7 +8,6 @@ public class MainController {
 
     @GetMapping("/")
     public String root() {
-        //return "redirect:/articles";
         return "forward:/articles";
     }
 }
