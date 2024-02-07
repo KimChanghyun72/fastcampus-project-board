@@ -1,4 +1,4 @@
-package com.fasecampus.projectboard.config;
+package com.fastcampus.projectboard.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -13,6 +13,7 @@ public class JpaConfig {
 
     @Bean
     public AuditorAware<String> auditorAware() {
-        return () -> Optional.of("uno");        // TODO: 스프링 시큐리티 사용할 때 수정해야 함.
+        return () -> Optional.of("uno"); // TODO: 스프링 시큐리티로 인증 기능을 붙이게 될 때, 수정하자
     }
+
 }

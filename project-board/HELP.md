@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.fasecampus.project-board' is invalid and this project uses 'com.fasecampus.projectboard' instead.
+* The original package name 'com.fastcampus.project-board' is invalid and this project uses 'com.fastcampus.projectboard' instead.
 
 # Getting Started
 
