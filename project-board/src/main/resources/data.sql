@@ -1,1203 +1,684 @@
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gabtype', '4-900 - Masonry Restoration and Cleaning', 'Puce', '2023-05-17 13:58:48', 'uno', '2023-11-26 23:28:14', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Blogspan', '5-600 - Hydraulic Fabrications', 'Maroon', '2023-05-28 02:37:54', 'uno', '2023-12-06 23:24:13', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Blogtags', '2-930 - Exterior Plants', 'Green', '2023-03-31 21:34:41', 'uno', '2023-12-21 17:27:57', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jabbercube', '14-700 - Turntables', 'Green', '2023-03-23 19:21:49', 'uno', '2023-03-26 12:02:26', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Blogtag', '9 - Finishes', 'Purple', '2023-06-19 21:59:48', 'uno', '2023-03-12 05:37:34', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Browsedrive', '15-500 - Heat-Generation Equipment', 'Teal', '2023-10-06 05:42:50', 'uno', '2023-05-23 12:51:23', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Minyx', '2-621 - Foundatation Drainage Piping', 'Orange', '2023-03-05 05:57:18', 'uno', '2023-10-01 21:26:38', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jabbercube', '5-200 - Metal Joists', 'Maroon', '2023-06-23 23:09:16', 'uno', '2023-11-17 01:15:10', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Eadel', '2-813 - Lawn Sprinkling and Irrigation', 'Violet', '2023-12-05 00:04:41', 'uno', '2023-07-24 03:59:24', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Kanoodle', '1 - General Requirements', 'Fuscia', '2023-02-26 03:47:54', 'uno', '2023-08-17 21:31:53', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Eazzy', '11-450 - Residential Equipment', 'Teal', '2023-08-10 04:15:57', 'uno', '2023-06-01 07:10:06', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Fivebridge', '2-924 - Sodding', 'Khaki', '2023-05-15 12:11:31', 'uno', '2023-06-27 10:49:59', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Wikizz', '7 - Thermal and Moisture Protection', 'Turquoise', '2023-03-22 20:14:10', 'uno', '2023-03-19 20:46:18', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('BlogXS', '11-160 - Loading Dock Equipment', 'Aquamarine', '2023-07-20 18:51:55', 'uno', '2023-06-02 18:52:57', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Blogspan', '2-781 - Asphalt Pavers', 'Pink', '2023-12-20 13:32:36', 'uno', '2023-08-16 12:47:03', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Eazzy', '2-917 - Soil Preparation', 'Red', '2023-09-03 14:19:41', 'uno', '2023-11-15 03:25:01', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Aimbu', '2-317 - Select Borrow', 'Pink', '2023-07-27 12:43:57', 'uno', '2023-12-28 09:26:45', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Rooxo', '2-824 - Wire Fences and Gates', 'Orange', '2023-10-17 06:38:13', 'uno', '2023-05-12 07:50:09', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Edgetag', '4-600 - Corrosion-Resistant Masonry', 'Goldenrod', '2023-07-28 05:27:40', 'uno', '2023-09-29 03:33:31', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Feedbug', '2-790 - Athletic Surfacing', 'Goldenrod', '2023-06-13 10:27:46', 'uno', '2023-12-20 09:41:58', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skipstorm', '11-500 - Industrial and Process Equipment', 'Mauv', '2023-08-13 13:59:03', 'uno', '2023-11-03 12:50:10', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Innotype', '2-900 - Landscaping', 'Goldenrod', '2023-09-25 20:36:08', 'uno', '2023-12-30 12:12:45', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jabberbean', '6 - Wood and Plastics', 'Crimson', '2023-11-28 13:11:34', 'uno', '2023-03-10 12:03:07', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Twitterwire', '16-200 - Electrical Power', 'Blue', '2023-05-09 14:03:02', 'uno', '2023-12-13 17:48:57', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Bluejam', '13-110 - Cathodic Protection', 'Fuscia', '2023-06-03 03:37:34', 'uno', '2023-08-07 14:10:59', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Pixope', '3-400 - Precast Concrete', 'Indigo', '2023-04-05 05:54:38', 'uno', '2023-03-02 17:47:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topiczoom', '13-400 - Measurement and Control Instrumentation', 'Pink', '2024-01-05 19:43:44', 'uno', '2023-10-19 03:38:36', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Dablist', '11-090 - Checkroom Equipment', 'Aquamarine', '2023-05-25 03:08:17', 'uno', '2024-01-10 07:29:43', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Flashspan', '3-210 - Cast-In-Place Concrete', 'Orange', '2023-07-28 04:51:19', 'uno', '2023-07-31 11:11:23', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trudoo', '2-935 - Plant Maintenance', 'Turquoise', '2023-03-06 22:34:59', 'uno', '2023-08-11 21:31:33', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Snaptags', '1-010 - Project Manager', 'Orange', '2023-03-17 13:20:53', 'uno', '2023-06-12 07:53:01', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Edgetag', '2-850 - Bridges/Footbridges', 'Teal', '2023-12-17 12:58:05', 'uno', '2023-10-06 10:51:42', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Lazzy', '1-000 - Purpose', 'Red', '2023-10-10 15:01:15', 'uno', '2023-04-02 12:36:23', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Voonyx', '3-350 - Concrete Finishing', 'Violet', '2023-06-24 23:01:47', 'uno', '2023-05-26 17:51:43', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtstorm', '2-625 - Retaining Wall Drainage Piping', 'Orange', '2023-06-08 10:27:48', 'uno', '2023-10-18 14:44:04', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Edgetag', '2-540 - Septic Tank', 'Maroon', '2024-01-15 12:15:59', 'uno', '2023-03-27 19:40:13', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Snaptags', '11-160 - Loading Dock Equipment', 'Aquamarine', '2023-04-28 17:41:08', 'uno', '2023-11-19 11:46:32', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Izio', '2-362 - Termite Control', 'Violet', '2023-07-14 00:21:41', 'uno', '2023-11-04 13:54:03', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Yakitri', '5-200 - Metal Joists', 'Pink', '2023-05-22 07:37:38', 'uno', '2023-11-12 08:40:22', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topicblab', '15-300 - Fire Protection Piping', 'Mauv', '2024-01-22 20:16:03', 'uno', '2023-06-14 06:25:42', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topdrive', '2-625 - Retaining Wall Drainage Piping', 'Khaki', '2024-02-02 15:48:13', 'uno', '2023-06-01 22:54:25', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Flashset', '14-300 - Escalators and Moving Walks', 'Blue', '2023-02-24 08:30:44', 'uno', '2024-02-01 09:15:29', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jaxbean', '7 - Thermal and Moisture Protection', 'Yellow', '2023-04-10 00:31:28', 'uno', '2023-12-09 14:53:59', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gigabox', '7-800 - Fire and Smoke Protection', 'Khaki', '2023-04-11 21:50:38', 'uno', '2023-04-17 13:12:05', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trilith', '10-530 - Protective Covers', 'Pink', '2023-07-11 05:23:51', 'uno', '2023-04-29 17:19:56', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtstorm', '14-200 - Elevators', 'Orange', '2023-03-13 01:51:00', 'uno', '2023-05-03 20:32:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Pixope', '13-090 - Radiation Protection', 'Purple', '2023-11-07 05:14:05', 'uno', '2023-09-19 23:03:19', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Agivu', '8-050 - Basic Door and Window Materials and Methods', 'Green', '2023-08-10 18:05:26', 'uno', '2023-03-18 02:20:36', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Vitz', '2-850 - Bridges/Footbridges', 'Pink', '2023-02-15 23:36:35', 'uno', '2023-11-17 14:42:16', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('JumpXS', '1-904 - Hazardous Materials Removal and Disposal', 'Purple', '2023-07-08 16:12:52', 'uno', '2024-01-03 06:44:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Livefish', '8-800 - Glazing', 'Yellow', '2023-03-04 20:42:23', 'uno', '2023-02-07 08:42:22', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Bubbletube', '11-900 - Exhibit Equipment', 'Puce', '2023-04-18 11:38:38', 'uno', '2023-12-30 11:13:49', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Nlounge', '14-900 - Transportation', 'Crimson', '2023-10-14 08:56:57', 'uno', '2023-03-12 19:31:30', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gabcube', '10-900 - Wardrobe and Closet Specialties', 'Goldenrod', '2023-09-11 13:20:46', 'uno', '2023-06-24 10:29:00', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gevee', '6-050 - Basic Wood and Plastic Materials and Methods', 'Indigo', '2023-03-25 07:16:44', 'uno', '2023-05-21 04:20:18', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Riffpath', '2-311 - Final Grading', 'Pink', '2023-08-08 13:45:07', 'uno', '2023-02-06 18:26:51', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Eimbee', '2-822 - Ornamental Metal Fences and Gates', 'Aquamarine', '2023-04-10 02:30:31', 'uno', '2023-06-19 18:16:10', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Muxo', '6-400 - Architectural Woodwork', 'Yellow', '2023-06-08 07:54:31', 'uno', '2023-10-28 22:53:49', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Yodo', '2-621 - Foundatation Drainage Piping', 'Yellow', '2023-12-03 12:06:13', 'uno', '2023-12-21 07:47:22', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Voonte', '17-030 - Bond', 'Puce', '2023-05-11 06:11:44', 'uno', '2023-03-24 15:08:29', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Innojam', '16-050 - Basic Electrical Materials and Methods', 'Yellow', '2023-09-12 21:34:17', 'uno', '2023-06-18 08:48:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Mudo', '2-783 - Interlocking Concrete Unit Paving', 'Puce', '2023-04-22 05:40:51', 'uno', '2023-10-17 23:22:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Mydo', '16-500 - Lighting', 'Orange', '2023-10-23 17:05:54', 'uno', '2023-06-24 16:32:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Meeveo', '10-550 - Postal Specialties', 'Blue', '2023-09-19 23:12:16', 'uno', '2023-09-16 06:55:04', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('LiveZ', '13-170 - Tubs and Pools', 'Aquamarine', '2023-09-03 05:00:15', 'uno', '2023-08-28 01:21:14', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Yoveo', '11-030 - Teller and Service Equipment', 'Purple', '2023-02-08 02:25:03', 'uno', '2023-02-03 09:38:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Ntag', '13-260 - Sludge Conditioning Systems', 'Goldenrod', '2023-07-14 06:35:13', 'uno', '2024-01-12 13:59:19', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Zoomcast', '13-090 - Radiation Protection', 'Indigo', '2023-05-06 04:22:21', 'uno', '2023-11-27 01:38:38', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trunyx', '10-100 - Visual Display Boards', 'Maroon', '2023-12-08 18:53:49', 'uno', '2023-11-25 01:33:21', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Dabtype', '10-350 - Flagpoles', 'Crimson', '2023-12-13 12:45:31', 'uno', '2023-08-17 00:57:15', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gigabox', '2-000 - General', 'Khaki', '2023-09-15 23:47:33', 'uno', '2023-11-07 06:04:16', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Roombo', '14-200 - Elevators', 'Orange', '2023-09-16 09:34:22', 'uno', '2023-06-05 23:44:54', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Leexo', '9 - Finishes', 'Maroon', '2023-12-31 19:24:27', 'uno', '2023-12-04 06:49:05', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Fivespan', '13-850 - Detection and Alarm', 'Orange', '2024-01-20 16:06:52', 'uno', '2023-08-23 08:38:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Yakitri', '5-500 - Metal Fabrications', 'Maroon', '2023-06-23 22:44:43', 'uno', '2023-10-28 16:23:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skyble', '3 - Concrete', 'Puce', '2023-12-28 23:05:33', 'uno', '2023-08-01 16:28:23', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jabbercube', '3-000 - General', 'Green', '2023-03-20 22:11:44', 'uno', '2023-03-22 08:33:53', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Bubblebox', '13-240 - Oxygenation Systems', 'Teal', '2023-09-04 07:55:15', 'uno', '2023-04-22 12:35:26', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtbridge', '1 - General Requirements', 'Green', '2023-03-12 08:49:20', 'uno', '2023-11-18 02:27:42', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skilith', '17 - Markup and Contingency', 'Maroon', '2023-10-15 16:50:00', 'uno', '2023-07-24 18:06:32', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skalith', '2-820 - Fences and Gates', 'Orange', '2024-01-28 01:48:46', 'uno', '2023-05-28 04:07:33', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Devpoint', '3-100 - Concrete Reinforcement', 'Purple', '2023-02-22 05:31:45', 'uno', '2023-11-20 08:15:23', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Photobean', '2-000 - General', 'Yellow', '2023-03-21 08:37:17', 'uno', '2024-01-03 07:54:01', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trilia', '9-600 - Flooring', 'Green', '2024-01-18 21:46:57', 'uno', '2023-05-22 19:31:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Vinder', '8-400 - Entrances and Storefronts', 'Red', '2024-01-08 18:26:56', 'uno', '2023-02-05 15:07:07', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gabvine', '1-523 - Sanitary Facilities', 'Orange', '2023-03-02 16:28:34', 'uno', '2024-01-08 06:18:05', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Kamba', '11-160 - Loading Dock Equipment', 'Pink', '2023-11-08 23:22:49', 'uno', '2024-01-12 03:08:56', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Gigaclub', '12-100 - Art', 'Purple', '2024-01-25 07:05:30', 'uno', '2023-10-24 13:24:39', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Edgeblab', '11-020 - Security and Vault Equipment', 'Aquamarine', '2024-01-17 06:24:48', 'uno', '2024-01-10 16:24:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Brightdog', '2-825 - Wood Fences and Gates', 'Violet', '2023-08-29 16:58:33', 'uno', '2023-07-29 03:14:14', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Mydo', '2-820 - Fences and Gates', 'Yellow', '2023-03-31 12:37:22', 'uno', '2023-06-16 15:38:39', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Browsedrive', '14-600 - Hoists and Cables', 'Aquamarine', '2023-03-22 23:05:14', 'uno', '2023-11-18 00:29:13', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Livetube', '11-030 - Teller and Service Equipment', 'Green', '2023-12-17 17:41:51', 'uno', '2023-02-04 01:11:53', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Muxo', '8-900 - Glazed Curtain Wall', 'Fuscia', '2023-03-05 16:56:52', 'uno', '2023-10-10 03:14:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Zoomcast', '10-200 - Louvers and Vents', 'Yellow', '2023-04-12 05:43:19', 'uno', '2023-10-24 08:51:20', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Quinu', '13-850 - Detection and Alarm', 'Teal', '2023-06-27 04:17:52', 'uno', '2024-01-21 07:18:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Cogibox', '10 - Specialties', 'Purple', '2023-06-28 08:00:27', 'uno', '2023-05-09 13:35:42', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Rhybox', '10-240 - Grilles and Screens', 'Violet', '2023-11-07 14:34:42', 'uno', '2023-02-16 05:10:50', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skivee', '2-230 - Site Clearing', 'Puce', '2023-05-20 07:52:38', 'uno', '2023-08-11 04:02:59', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Kwinu', '1-014 - Project Executive', 'Purple', '2023-08-03 19:43:14', 'uno', '2023-09-28 23:53:16', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Quatz', '1-540 - Construction Aids', 'Turquoise', '2023-12-22 18:32:33', 'uno', '2023-04-19 07:44:52', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skiptube', '16-500 - Lighting', 'Red', '2023-04-02 03:45:38', 'uno', '2023-07-14 12:38:16', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtstorm', '11-120 - Vending Equipment', 'Khaki', '2023-12-03 01:32:22', 'uno', '2023-04-12 14:18:28', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jetpulse', '1-514 - Temporary Heating, Cooling and Ventilation', 'Maroon', '2023-10-15 05:28:57', 'uno', '2023-03-18 23:43:30', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Oyoloo', '15-200 - Process Piping', 'Crimson', '2023-10-12 13:28:42', 'uno', '2023-10-31 21:22:40', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Kayveo', '8 - Doors and Windows', 'Yellow', '2023-04-02 19:53:27', 'uno', '2023-05-14 00:48:33', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Eabox', '14-600 - Hoists and Cables', 'Mauv', '2023-11-08 23:13:35', 'uno', '2023-07-20 14:56:56', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Fatz', '1-580 - Project Identification', 'Mauv', '2023-10-24 14:57:14', 'uno', '2023-07-21 17:39:31', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Npath', '5-200 - Metal Joists', 'Mauv', '2023-03-01 02:23:24', 'uno', '2023-09-20 13:22:27', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Plambee', '2-621 - Foundatation Drainage Piping', 'Blue', '2023-09-19 03:38:02', 'uno', '2023-08-27 12:29:20', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trudeo', '11-300 - Fluid Waste Treatment and Disposal Equipment', 'Crimson', '2023-12-28 05:10:28', 'uno', '2023-04-07 17:17:21', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Blogtag', '13-030 - Special Purpose Rooms', 'Purple', '2023-04-11 14:08:48', 'uno', '2023-02-08 14:35:58', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Fivechat', '10-880 - Scales', 'Fuscia', '2023-12-30 14:37:44', 'uno', '2023-07-21 13:43:41', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('DabZ', '7-050 - Basic Thermal and Moisture Protection Materials and Methods', 'Turquoise', '2023-05-22 21:25:02', 'uno', '2024-01-27 02:00:43', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Wikizz', '2-924 - Sodding', 'Maroon', '2023-10-20 03:56:41', 'uno', '2023-12-23 12:16:25', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Devshare', '1-570 - Temporary Controls', 'Yellow', '2024-01-08 04:37:10', 'uno', '2024-01-20 10:34:55', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Plambee', '1-002 - Instructions', 'Orange', '2023-10-02 14:29:52', 'uno', '2024-01-15 19:03:39', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Photobug', '7-200 - Thermal Protection - Insulation', 'Purple', '2023-10-14 20:12:24', 'uno', '2023-04-10 09:08:37', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jaxnation', '1-540 - Construction Aids', 'Yellow', '2023-06-09 00:29:54', 'uno', '2023-05-21 01:45:16', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Einti', '2-923 - Seeding and Soil Supplements', 'Goldenrod', '2023-11-18 01:41:22', 'uno', '2023-03-30 23:26:01', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trudoo', '15-600 - Refrigeration Equipment', 'Goldenrod', '2023-05-21 07:35:49', 'uno', '2024-01-23 10:48:03', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Flipstorm', '5-500 - Metal Fabrications', 'Green', '2023-07-14 20:43:00', 'uno', '2023-03-25 11:17:00', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jabberstorm', '11-700 - Medical Equipment', 'Green', '2024-01-27 10:52:00', 'uno', '2023-12-17 04:56:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtmix', '10-500 - Lockers', 'Maroon', '2023-07-23 14:02:07', 'uno', '2023-06-23 03:09:07', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Rooxo', '8-300 - Specialty Doors', 'Goldenrod', '2024-01-26 08:54:47', 'uno', '2024-01-06 22:51:36', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Meeveo', '7-700 - Roof Specialties and Accessories', 'Orange', '2023-04-23 09:55:14', 'uno', '2024-01-12 12:08:54', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Brainsphere', '10-880 - Scales', 'Yellow', '2023-07-25 09:22:28', 'uno', '2023-02-28 17:45:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Izio', '3-320 - Slab Foundations', 'Orange', '2023-08-25 19:07:15', 'uno', '2023-06-16 08:08:15', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jayo', '2-870 - Sculpture/Ornamental', 'Orange', '2023-02-10 00:09:14', 'uno', '2024-01-05 07:30:33', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topicware', '11-110 - Commercial Laundry and Dry Cleaning Equipment', 'Mauv', '2023-11-02 08:28:13', 'uno', '2023-08-15 05:13:12', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Devify', '13-900 - Fire Suppression', 'Green', '2023-07-20 19:19:59', 'uno', '2023-08-13 04:18:02', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Aivee', '4 - Masonry', 'Teal', '2023-03-12 07:07:23', 'uno', '2023-07-18 13:19:39', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtstorm', '1-012 - Superintendent', 'Goldenrod', '2023-08-13 20:33:47', 'uno', '2023-09-15 01:50:21', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Dabvine', '1-010 - Project Manager', 'Yellow', '2023-08-14 08:06:59', 'uno', '2023-08-26 08:24:51', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Chatterbridge', '3-000 - General', 'Crimson', '2023-05-12 10:53:21', 'uno', '2023-02-08 05:52:02', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Realmix', '11-010 - Maintenance Equipment', 'Teal', '2023-09-30 21:30:53', 'uno', '2024-01-04 21:17:40', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Livefish', '8-300 - Specialty Doors', 'Fuscia', '2023-03-18 16:57:08', 'uno', '2023-04-19 02:45:51', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Tagpad', '13-010 - Air-Supported Structures', 'Crimson', '2023-02-25 05:55:44', 'uno', '2023-06-03 02:45:51', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtblab', '2-795 - Porous Paving', 'Crimson', '2023-10-08 00:55:49', 'uno', '2023-04-06 18:04:07', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Browsecat', '1-530 - Temporary Construction', 'Violet', '2023-09-18 02:56:09', 'uno', '2023-11-14 03:11:39', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Midel', '2-800 - Site Amenities', 'Pink', '2023-10-29 09:10:13', 'uno', '2023-03-10 20:45:01', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('DabZ', '2-932 - PLants and Bulbs', 'Khaki', '2023-03-12 14:01:57', 'uno', '2023-11-02 07:38:31', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Demizz', '10-880 - Scales', 'Pink', '2023-04-23 11:36:09', 'uno', '2023-05-16 10:15:24', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Wordpedia', '1-510 - Temporary Utilities', 'Mauv', '2023-06-03 14:43:09', 'uno', '2023-09-21 06:30:07', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Tazzy', '8-500 - Windows', 'Mauv', '2023-02-17 08:23:46', 'uno', '2023-03-29 16:42:20', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Demizz', '1-515 - Temporary Lighting', 'Mauv', '2023-02-14 16:24:32', 'uno', '2023-06-27 20:09:03', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('InnoZ', '11-660 - Observatory Equipment', 'Turquoise', '2023-07-04 02:00:00', 'uno', '2023-05-25 20:22:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Wordpedia', '7-050 - Basic Thermal and Moisture Protection Materials and Methods', 'Aquamarine', '2023-03-18 15:06:23', 'uno', '2023-06-16 16:42:50', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Realblab', '11-020 - Security and Vault Equipment', 'Yellow', '2023-10-11 04:59:07', 'uno', '2023-10-21 19:45:16', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jayo', '11-050 - Library Equipment', 'Aquamarine', '2023-11-10 09:31:35', 'uno', '2023-05-02 17:44:55', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Photofeed', '15-700 - Heating, Venting and Air Conditioning', 'Crimson', '2023-02-12 00:36:47', 'uno', '2023-11-02 18:37:52', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Thoughtbridge', '2-924 - Sodding', 'Purple', '2023-12-05 03:44:45', 'uno', '2023-02-24 17:24:06', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Realfire', '11-900 - Exhibit Equipment', 'Turquoise', '2024-01-11 06:52:12', 'uno', '2023-03-13 21:24:23', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jabbersphere', '10-350 - Flagpoles', 'Green', '2023-05-31 00:07:34', 'uno', '2023-12-15 15:48:29', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Tavu', '13-190 - Site-Constructed Incinerators', 'Purple', '2023-10-09 14:04:07', 'uno', '2023-12-31 12:55:41', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Rhybox', '16-700 - Communications', 'Puce', '2023-03-15 19:28:24', 'uno', '2024-01-02 11:24:41', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Edgewire', '17-020 - Insurance', 'Goldenrod', '2023-07-28 09:42:09', 'uno', '2023-02-10 14:34:06', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Voomm', '4-600 - Corrosion-Resistant Masonry', 'Teal', '2023-10-05 19:10:52', 'uno', '2023-06-06 00:32:32', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('DabZ', '12-600 - Multiple Seating', 'Violet', '2023-09-20 11:07:18', 'uno', '2023-07-20 16:12:24', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Meezzy', '10-700 - Exterior Protection', 'Teal', '2024-01-25 07:47:14', 'uno', '2023-08-26 21:48:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Digitube', '10-200 - Louvers and Vents', 'Maroon', '2023-04-17 09:56:52', 'uno', '2023-07-07 17:53:18', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Eamia', '2-783 - Interlocking Concrete Unit Paving', 'Blue', '2024-01-13 11:32:36', 'uno', '2024-01-01 02:27:25', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Kanoodle', '11-850 - Navigation Equipment', 'Khaki', '2023-10-12 00:51:02', 'uno', '2023-10-08 03:57:33', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Fanoodle', '3-500 - Cementitious Decks and Underlayments', 'Teal', '2023-11-14 07:43:11', 'uno', '2023-12-26 18:43:59', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skyba', '10-550 - Postal Specialties', 'Turquoise', '2024-01-18 07:15:52', 'uno', '2023-04-23 22:08:00', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jetwire', '5-300 - Metal Deck', 'Goldenrod', '2023-09-24 22:54:56', 'uno', '2023-04-15 02:25:12', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Photojam', '3-300 - Footings', 'Red', '2023-05-16 06:03:45', 'uno', '2023-05-21 01:42:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Flashdog', '7-100 - Damproofing and Waterproofing', 'Goldenrod', '2023-10-09 10:04:29', 'uno', '2023-04-06 06:13:02', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Brainsphere', '2-625 - Retaining Wall Drainage Piping', 'Goldenrod', '2023-10-04 14:51:43', 'uno', '2023-08-01 07:25:56', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Edgeify', '14-400 - Lifts', 'Maroon', '2023-08-26 15:20:36', 'uno', '2023-08-20 04:37:12', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Meemm', '2-932 - PLants and Bulbs', 'Indigo', '2023-06-25 11:59:37', 'uno', '2023-06-12 05:53:22', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Dabtype', '12-400 - Furnishings and Accessories', 'Khaki', '2023-05-21 06:01:41', 'uno', '2023-03-19 11:24:06', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Vinder', '8-100 - Doors', 'Mauv', '2023-10-09 07:35:05', 'uno', '2023-05-23 18:03:40', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Yodel', '13-030 - Special Purpose Rooms', 'Maroon', '2023-04-12 07:58:33', 'uno', '2023-08-27 10:31:03', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trunyx', '13-160 - Aquariums', 'Crimson', '2024-01-20 03:46:43', 'uno', '2023-06-11 04:41:51', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Wikivu', '11-010 - Maintenance Equipment', 'Khaki', '2023-12-15 09:48:45', 'uno', '2023-04-12 07:20:28', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Browsebug', '8-100 - Doors', 'Maroon', '2023-09-02 08:15:47', 'uno', '2023-06-28 08:02:57', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Oodoo', '2-924 - Sodding', 'Teal', '2023-07-09 19:08:14', 'uno', '2023-05-18 15:02:46', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topiclounge', '16-800 - Sound and Video', 'Yellow', '2023-10-24 14:22:32', 'uno', '2023-10-16 21:53:54', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Camido', '9-700 - Wall Finishes', 'Teal', '2023-08-02 12:58:06', 'uno', '2023-03-29 09:15:44', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topicstorm', '9-900 - Paints and Coatings', 'Purple', '2023-05-05 03:15:17', 'uno', '2023-11-11 12:36:45', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topicstorm', '10-400 - Identification Devices', 'Orange', '2023-03-06 22:25:16', 'uno', '2023-08-18 19:15:02', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Zoovu', '2-850 - Bridges/Footbridges', 'Red', '2023-05-10 22:20:45', 'uno', '2023-05-25 03:49:40', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Tagtune', '11-850 - Navigation Equipment', 'Violet', '2023-11-08 12:00:42', 'uno', '2023-02-15 16:49:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Buzzbean', '1-700 - Execution Requirements', 'Puce', '2023-08-15 06:23:19', 'uno', '2023-04-29 02:57:01', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Aibox', '13-240 - Oxygenation Systems', 'Aquamarine', '2023-09-08 09:36:16', 'uno', '2023-11-02 09:24:11', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Skidoo', '3-600 - Grouts', 'Violet', '2023-09-27 23:38:43', 'uno', '2023-03-21 00:37:48', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jamia', '2-320 - Excavation and Fill', 'Green', '2023-04-01 14:00:14', 'uno', '2023-08-07 01:00:39', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Photospace', '10-340 - Manufactured Exterior Specialties', 'Turquoise', '2023-03-25 10:11:38', 'uno', '2023-08-24 10:06:51', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Ozu', '14-400 - Lifts', 'Puce', '2024-01-13 07:46:52', 'uno', '2023-08-19 15:30:25', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Photobean', '15-600 - Refrigeration Equipment', 'Fuscia', '2023-10-22 23:38:11', 'uno', '2023-08-25 11:42:49', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Livefish', '17 - Markup and Contingency', 'Yellow', '2023-10-06 00:14:45', 'uno', '2023-06-16 16:49:07', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Topdrive', '9-700 - Wall Finishes', 'Crimson', '2023-07-18 13:31:32', 'uno', '2023-10-15 18:26:38', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Riffpath', '10-290 - Pest Control', 'Green', '2023-02-06 13:27:59', 'uno', '2023-06-02 00:17:38', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Mynte', '1-000 - Purpose', 'Orange', '2024-01-20 20:00:28', 'uno', '2024-01-28 22:08:44', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Trudoo', '10-290 - Pest Control', 'Turquoise', '2023-02-20 19:13:07', 'uno', '2024-02-02 04:42:45', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Shufflester', '10-150 - Compartments and Cubicles', 'Crimson', '2023-03-27 17:39:20', 'uno', '2023-09-11 12:07:02', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Dabtype', '10-200 - Louvers and Vents', 'Fuscia', '2023-06-05 21:02:01', 'uno', '2024-01-03 21:27:29', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Jatri', '5-900 - Metal Restoration and Cleaning', 'Violet', '2023-05-03 23:05:01', 'uno', '2023-06-22 19:06:37', 'uno');
-insert into ARTICLE (title, content, hashtag, created_at, created_by, modified_at, modified_by) values ('Feedspan', '1-514 - Temporary Heating, Cooling and Ventilation', 'Aquamarine', '2023-03-28 02:33:13', 'uno', '2023-06-28 21:29:09', 'uno');
+-- 테스트 계정
+-- TODO: 테스트용이지만 비밀번호가 노출된 데이터 세팅. 개선하는 것이 좋을 지 고민해 보자.
+insert into user_account (user_id, user_password, nickname, email, memo, created_at, created_by, modified_at, modified_by) values
+('uno', 'asdf1234', 'Uno', 'uno@mail.com', 'I am Uno.', now(), 'uno', now(), 'uno')
+;
 
+-- 123 게시글
+insert into article (user_account_id, title, content, hashtag, created_by, modified_by, created_at, modified_at) values
+(1, 'Quisque ut erat.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
--- Article Comment data. 1000 rows.
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-090 - Checkroom Equipment', 159, '2023-10-23 07:48:48', 'uno', '2023-10-07 15:08:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-170 - Solid Waste Handling Equipment', 8, '2023-09-30 19:23:17', 'uno', '2024-01-25 03:01:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-000 - General', 188, '2023-12-03 12:26:57', 'uno', '2023-08-10 11:50:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-260 - Wall and Corner Guards', 162, '2023-10-22 00:00:43', 'uno', '2023-10-11 02:55:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-800 - Interior Plants and Planters', 128, '2023-08-01 09:29:06', 'uno', '2023-06-03 00:34:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-400 - Lifts', 21, '2023-04-29 02:35:18', 'uno', '2023-02-07 23:45:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-500 - Recording Instrumentation', 185, '2023-08-06 10:31:45', 'uno', '2023-08-29 08:53:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 139, '2023-02-28 17:58:35', 'uno', '2023-03-08 23:20:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-000 - General', 67, '2023-07-29 04:20:41', 'uno', '2024-01-24 01:51:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-500 - Material Handling', 67, '2024-02-01 16:01:31', 'uno', '2023-06-12 17:56:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-700 - Execution Requirements', 62, '2023-10-28 03:02:13', 'uno', '2023-03-11 04:43:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-824 - Wire Fences and Gates', 156, '2023-07-23 18:45:38', 'uno', '2023-10-29 22:25:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-500 - Industrial and Process Equipment', 65, '2023-04-06 13:05:18', 'uno', '2023-02-10 23:10:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-800 - Acoustical Treatment', 106, '2023-06-06 14:53:20', 'uno', '2023-04-24 21:47:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-530 - Temporary Construction', 65, '2024-01-21 05:07:52', 'uno', '2023-06-07 09:37:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-650 - Planetarium Equipment', 86, '2023-05-09 14:37:18', 'uno', '2023-12-13 08:45:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-070 - Instrumental Equipment', 176, '2023-06-01 09:51:17', 'uno', '2023-05-18 07:00:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-700 - Simulated Masonry', 108, '2023-06-30 04:45:43', 'uno', '2023-02-15 04:48:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-570 - Temporary Controls', 135, '2023-04-16 19:22:15', 'uno', '2024-02-01 07:08:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-200 - Masonry Units', 141, '2023-05-26 10:41:59', 'uno', '2023-08-08 22:19:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-270 - Access Flooring', 57, '2023-08-23 21:21:05', 'uno', '2023-02-17 18:56:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-540 - Septic Tank', 107, '2023-07-05 21:03:50', 'uno', '2023-12-27 11:47:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-220 - Site Demolition', 107, '2023-08-22 05:35:43', 'uno', '2023-08-24 03:37:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-640 - Owner Furnished Products', 192, '2023-10-20 13:19:58', 'uno', '2023-10-28 02:25:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-315 - Excavation', 137, '2023-06-20 02:10:18', 'uno', '2023-06-08 10:34:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-520 - Fire Protection Specialties', 182, '2023-05-09 14:31:49', 'uno', '2023-06-14 15:12:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1 - General Requirements', 147, '2023-11-16 14:28:55', 'uno', '2023-11-05 13:48:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-000 - Purpose', 46, '2023-06-03 19:43:41', 'uno', '2023-05-29 00:38:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-821 - Chain Link Fences', 154, '2023-02-13 17:35:33', 'uno', '2023-02-09 08:32:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 112, '2023-08-17 01:05:36', 'uno', '2023-08-07 00:07:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-040 - Ecclesiastical Equipment', 94, '2023-03-09 08:15:08', 'uno', '2023-09-10 22:34:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-900 - Paints and Coatings', 48, '2023-12-09 21:58:29', 'uno', '2023-06-11 11:53:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-100 - Damproofing and Waterproofing', 54, '2023-10-20 03:18:33', 'uno', '2023-04-09 16:21:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-370 - Erosion and Sedimentation Control', 63, '2023-05-27 20:38:23', 'uno', '2024-01-07 17:38:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-362 - Termite Control', 161, '2023-05-17 13:22:55', 'uno', '2023-05-02 04:27:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-316 - Backfilling', 77, '2023-02-06 21:27:58', 'uno', '2023-07-23 06:01:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-825 - Wood Fences and Gates', 10, '2023-11-20 06:09:31', 'uno', '2023-04-18 15:57:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-530 - Temporary Construction', 117, '2023-07-16 12:34:14', 'uno', '2023-09-07 08:54:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-600 - Laboratory Equipment', 181, '2023-05-23 13:02:57', 'uno', '2023-07-15 08:58:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-240 - Grilles and Screens', 32, '2023-08-11 17:26:16', 'uno', '2023-08-20 08:30:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-010 - Air-Supported Structures', 98, '2023-04-01 16:06:11', 'uno', '2023-03-06 23:45:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-030 - Special Purpose Rooms', 119, '2023-03-03 13:55:45', 'uno', '2023-07-13 13:38:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-400 - Food Service Equipment', 94, '2023-06-09 01:09:18', 'uno', '2024-01-26 01:48:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-820 - Fences and Gates', 170, '2023-02-15 21:26:43', 'uno', '2023-02-03 13:59:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-511 - Temporary Electricity', 76, '2023-04-03 17:48:30', 'uno', '2023-02-05 14:29:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-517 - Temporary Telephone', 119, '2023-06-22 09:29:42', 'uno', '2023-11-26 12:28:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-100 - Concrete Reinforcement', 156, '2023-05-15 06:20:00', 'uno', '2023-03-30 09:28:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-090 - Radiation Protection', 136, '2023-07-06 19:43:14', 'uno', '2023-04-30 23:46:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-900 - HVAC Instruments and Controls', 142, '2023-07-28 21:40:57', 'uno', '2023-04-25 18:17:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-100 - Rough Carpentry', 159, '2023-11-23 14:09:35', 'uno', '2023-10-02 15:51:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-310 - Expansion Joints', 158, '2023-11-08 21:28:20', 'uno', '2023-06-22 19:05:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-160 - Loading Dock Equipment', 147, '2023-12-12 22:01:31', 'uno', '2023-07-05 20:40:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-900 - Joint Sealers', 98, '2023-03-11 21:45:30', 'uno', '2023-12-02 03:06:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-880 - Scales', 59, '2023-11-05 07:22:22', 'uno', '2023-05-05 06:22:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-300 - Transmission and Distribution', 74, '2023-04-02 19:23:12', 'uno', '2023-06-23 01:14:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-300 - Earthwork', 115, '2023-03-23 07:57:53', 'uno', '2023-10-16 11:21:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-621 - Foundatation Drainage Piping', 88, '2023-12-23 02:57:50', 'uno', '2023-09-30 17:14:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-400 - Low-Voltage Distribution', 117, '2023-10-18 21:18:04', 'uno', '2023-11-23 15:12:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-550 - Vehicular Access and Parking', 182, '2024-01-30 14:04:07', 'uno', '2023-07-15 10:42:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-900 - Landscaping', 9, '2023-12-08 05:16:57', 'uno', '2024-01-29 01:09:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-270 - Access Flooring', 198, '2023-12-18 05:04:52', 'uno', '2023-12-02 16:34:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-540 - Construction Aids', 183, '2023-11-03 22:13:59', 'uno', '2023-03-17 00:26:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-010 - Maintenance Equipment', 142, '2023-07-17 13:27:39', 'uno', '2023-03-14 11:57:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-700 - Ornamental Metal', 189, '2023-11-16 07:51:07', 'uno', '2023-07-18 00:59:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-900 - Wardrobe and Closet Specialties', 25, '2023-09-20 21:49:57', 'uno', '2023-03-22 09:09:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-010 - Contingency', 17, '2023-02-25 03:05:10', 'uno', '2023-10-15 00:36:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-542 - Construction Scaffolding and Platforms', 17, '2023-03-25 12:26:39', 'uno', '2023-04-11 06:26:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-100 - Mercantile Equipment', 14, '2023-03-28 21:30:17', 'uno', '2023-05-30 15:50:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-560 - Temporary Barriers and Enclosures', 70, '2023-10-11 12:05:00', 'uno', '2023-12-28 11:30:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-523 - Sanitary Facilities', 149, '2023-07-04 14:52:47', 'uno', '2023-04-19 16:11:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-220 - Filter Underdrains and Media', 153, '2023-12-16 13:28:14', 'uno', '2023-02-18 01:09:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 30, '2023-12-08 22:54:38', 'uno', '2023-07-14 19:28:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-915 - Mulch', 198, '2023-11-28 07:58:01', 'uno', '2023-07-04 17:05:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-200 - Thermal Protection - Insulation', 77, '2023-05-23 17:19:25', 'uno', '2023-04-26 01:40:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-600 - Hoists and Cables', 133, '2023-11-23 23:10:44', 'uno', '2024-01-16 07:53:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-080 - Registration Equipment', 195, '2023-11-17 12:42:10', 'uno', '2023-04-10 08:59:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-600 - Grouts', 9, '2023-10-07 08:10:25', 'uno', '2023-06-23 23:58:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-300 - Manufactured Casework', 173, '2023-11-17 12:31:18', 'uno', '2023-05-03 10:56:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-523 - Sanitary Facilities', 158, '2024-01-10 15:35:22', 'uno', '2023-12-04 03:04:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-815 - Fountains', 61, '2023-04-01 12:27:00', 'uno', '2023-09-11 02:15:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-010 - Project Manager', 25, '2023-12-05 18:33:38', 'uno', '2023-06-27 21:35:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-480 - Athletic, Recreational, and Therapeutic Equipment', 190, '2023-12-25 21:14:20', 'uno', '2023-03-21 17:31:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-904 - Hazardous Materials Removal and Disposal', 133, '2023-07-20 00:54:10', 'uno', '2023-02-07 17:10:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-100 - Doors', 2, '2023-12-10 23:22:32', 'uno', '2023-11-19 10:08:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-900 - Wardrobe and Closet Specialties', 73, '2023-11-05 14:12:47', 'uno', '2024-01-19 04:30:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-500 - Utility Services', 111, '2023-08-17 20:13:42', 'uno', '2023-09-10 16:36:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-050 - Basic Mechanical Materials and Methods', 130, '2024-01-10 06:08:18', 'uno', '2023-06-25 05:47:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-780 - Mortuary Equipment', 85, '2023-07-25 11:36:05', 'uno', '2023-09-16 00:54:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-700 - Heating, Venting and Air Conditioning', 198, '2023-06-07 11:10:28', 'uno', '2023-02-16 20:35:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-870 - Sculpture/Ornamental', 145, '2023-08-05 19:27:23', 'uno', '2023-12-27 09:14:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-621 - Foundatation Drainage Piping', 100, '2023-04-05 23:39:29', 'uno', '2024-01-20 15:29:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-240 - Dewatering', 177, '2023-10-22 22:41:13', 'uno', '2023-02-05 07:53:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-200 - Wood and Plastic Doors', 119, '2024-01-26 08:26:08', 'uno', '2023-10-14 18:46:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-830 - Retaining Walls', 70, '2023-07-30 13:29:27', 'uno', '2024-01-13 07:28:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-260 - Excavation Support and Protection', 181, '2023-11-29 21:07:42', 'uno', '2023-04-26 11:24:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-400 - Cold-Formed Metal Framing', 164, '2023-03-09 06:03:38', 'uno', '2024-01-07 08:53:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-900 - Joint Sealers', 64, '2023-03-11 22:57:56', 'uno', '2023-05-17 00:46:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 3, '2024-01-31 08:04:31', 'uno', '2023-03-15 17:20:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 138, '2023-09-21 19:03:54', 'uno', '2023-02-28 04:50:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-500 - Structural Plastics', 58, '2024-01-08 22:50:45', 'uno', '2023-09-22 09:15:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-820 - Bathroom Accessories', 186, '2023-06-06 18:14:38', 'uno', '2023-10-27 14:24:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-400 - Roofing and Siding Panels', 21, '2023-09-01 15:06:27', 'uno', '2023-03-28 08:36:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-400 - Plumbing Fixtures and Equipment', 99, '2023-04-04 00:47:56', 'uno', '2023-07-15 08:28:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-900 - Joint Sealers', 174, '2023-02-21 07:12:52', 'uno', '2023-05-03 14:28:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 190, '2023-07-04 07:42:06', 'uno', '2023-02-25 10:47:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-700 - Security Access and Surveillance', 72, '2023-06-24 09:09:21', 'uno', '2023-04-27 23:32:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-700 - Execution Requirements', 103, '2023-10-28 10:01:43', 'uno', '2023-11-30 10:38:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-600 - Refrigeration Equipment', 128, '2023-12-09 08:32:31', 'uno', '2023-03-16 08:22:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-350 - Concrete Finishing', 136, '2023-03-11 11:29:18', 'uno', '2024-01-29 09:27:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-935 - Plant Maintenance', 189, '2023-08-03 14:00:34', 'uno', '2023-02-26 11:58:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-200 - Storage Tanks', 16, '2023-06-21 07:49:02', 'uno', '2023-10-09 11:48:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-640 - Owner Furnished Products', 191, '2023-06-08 15:46:37', 'uno', '2023-11-12 15:15:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16 - Electrical', 89, '2023-06-27 06:00:39', 'uno', '2024-01-06 03:51:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-600 - Grouts', 44, '2023-07-28 08:07:33', 'uno', '2023-07-25 20:30:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-050 - Basic Metal Materials and Methods', 39, '2023-04-09 09:46:23', 'uno', '2024-01-25 11:19:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-700 - Wall Finishes', 127, '2023-05-25 15:30:39', 'uno', '2023-10-04 18:24:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14 - Conveying Systems', 185, '2023-02-26 06:42:17', 'uno', '2023-03-21 16:56:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-520 - Construction Facilities', 116, '2023-05-12 03:17:11', 'uno', '2023-02-06 12:02:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-370 - Erosion and Sedimentation Control', 25, '2023-12-19 04:45:29', 'uno', '2023-07-08 18:58:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-520 - Fire Protection Specialties', 8, '2023-03-30 08:09:47', 'uno', '2023-09-27 02:21:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 60, '2023-06-03 22:56:14', 'uno', '2023-04-27 18:58:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-570 - Temporary Controls', 32, '2023-08-25 08:14:05', 'uno', '2023-05-24 21:48:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3 - Concrete', 75, '2023-06-07 03:47:57', 'uno', '2023-09-15 09:36:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-100 - Metal Support Assemblies', 173, '2024-01-17 07:40:12', 'uno', '2023-10-01 14:15:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 54, '2023-08-05 16:59:26', 'uno', '2023-09-29 19:36:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-520 - Construction Facilities', 29, '2023-10-15 15:52:43', 'uno', '2023-10-06 12:10:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-400 - Architectural Woodwork', 48, '2023-08-21 18:52:57', 'uno', '2024-01-05 12:47:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-040 - Profit', 32, '2023-08-06 15:37:11', 'uno', '2023-07-02 01:26:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-320 - Slab Foundations', 31, '2023-02-26 13:06:12', 'uno', '2023-07-19 06:23:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4 - Masonry', 24, '2023-05-25 10:06:33', 'uno', '2023-08-17 19:51:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 161, '2023-05-31 13:57:59', 'uno', '2023-06-04 02:43:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2 - Site Construction', 169, '2023-09-12 18:11:08', 'uno', '2023-04-06 17:53:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-600 - Plastic Fabrications', 57, '2023-09-18 12:03:04', 'uno', '2023-11-12 01:09:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-050 - Basic Electrical Materials and Methods', 164, '2023-02-19 06:24:40', 'uno', '2023-09-21 19:51:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-050 - Basic Thermal and Moisture Protection Materials and Methods', 115, '2023-04-03 14:35:40', 'uno', '2023-02-15 23:21:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-160 - Aquariums', 64, '2023-03-21 05:33:02', 'uno', '2023-12-18 07:17:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-800 - Expansion Control', 105, '2023-06-30 11:16:01', 'uno', '2023-08-11 07:43:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-090 - Radiation Protection', 6, '2024-01-29 22:42:40', 'uno', '2023-09-20 19:42:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-200 - Wood and Plastic Doors', 179, '2024-01-05 10:04:52', 'uno', '2023-06-29 09:06:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-300 - Metal Deck', 194, '2024-01-14 16:35:45', 'uno', '2023-10-05 10:52:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1 - General Requirements', 176, '2024-01-31 02:50:10', 'uno', '2023-03-23 11:59:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-740 - Cleaning', 124, '2023-10-27 21:02:15', 'uno', '2023-11-14 10:50:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-500 - Metal Fabrications', 116, '2023-12-04 08:32:44', 'uno', '2023-03-16 03:18:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12 - Furnishings', 173, '2023-08-30 20:00:48', 'uno', '2023-08-12 11:40:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-900 - Paints and Coatings', 106, '2023-12-13 15:30:02', 'uno', '2023-04-23 18:35:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-700 - Simulated Masonry', 35, '2023-10-20 20:52:49', 'uno', '2024-01-13 07:47:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-030 - Teller and Service Equipment', 133, '2024-01-01 22:39:21', 'uno', '2023-04-09 08:50:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-900 - Landscaping', 194, '2023-11-18 03:50:39', 'uno', '2023-02-17 08:01:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-300 - Escalators and Moving Walks', 131, '2023-06-20 09:02:28', 'uno', '2023-08-04 16:38:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-250 - Shoring and Underpinning', 189, '2023-06-08 00:14:25', 'uno', '2024-01-18 05:04:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-100 - Metal Support Assemblies', 125, '2023-04-28 08:56:06', 'uno', '2023-04-05 00:33:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-900 - Wood and Plastic Restoration and Cleaning', 195, '2023-10-22 15:01:29', 'uno', '2024-01-08 21:12:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-014 - Project Executive', 163, '2023-10-14 14:00:04', 'uno', '2023-03-31 15:17:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-317 - Select Borrow', 163, '2023-10-24 01:25:03', 'uno', '2023-06-01 20:16:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-370 - Erosion and Sedimentation Control', 44, '2023-05-01 19:00:58', 'uno', '2023-03-31 04:08:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-200 - Thermal Protection - Insulation', 190, '2023-06-20 13:01:18', 'uno', '2023-12-30 02:38:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 152, '2023-06-14 10:45:27', 'uno', '2023-02-24 10:49:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-523 - Sanitary Facilities', 122, '2024-01-14 04:28:05', 'uno', '2024-01-21 18:11:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 94, '2023-11-30 23:13:41', 'uno', '2023-08-01 07:59:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-140 - Vehicle Service Equipment', 117, '2023-04-21 04:56:44', 'uno', '2023-08-07 04:32:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-511 - Temporary Electricity', 170, '2023-03-03 14:47:32', 'uno', '2023-02-10 05:30:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-825 - Wood Fences and Gates', 118, '2023-06-29 15:52:27', 'uno', '2023-09-10 06:35:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-100 - Structural Metals', 61, '2023-02-20 05:11:07', 'uno', '2023-10-12 04:11:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 175, '2023-07-06 11:32:16', 'uno', '2023-04-10 19:35:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-880 - Scales', 67, '2023-04-03 02:33:52', 'uno', '2023-08-21 02:40:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-110 - Cathodic Protection', 76, '2023-03-25 21:11:09', 'uno', '2023-02-13 09:08:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-800 - Scaffolding', 30, '2023-04-27 23:48:58', 'uno', '2023-11-21 05:48:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-120 - Pre-Engineered Structures', 175, '2024-01-02 10:55:06', 'uno', '2023-04-15 11:47:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-740 - Flexible Pavement Asphalt Pavement', 78, '2023-04-05 07:22:50', 'uno', '2023-06-07 09:49:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-100 - Doors', 12, '2023-09-11 05:38:45', 'uno', '2023-05-07 16:38:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-570 - Temporary Controls', 157, '2023-05-07 00:29:58', 'uno', '2023-08-14 01:47:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6 - Wood and Plastics', 69, '2023-08-03 23:44:05', 'uno', '2023-06-16 16:02:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-300 - Fire Protection Piping', 151, '2023-09-16 15:08:41', 'uno', '2023-12-27 08:50:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-800 - Toilet, Bath, and Laundry Specialties', 26, '2024-01-12 21:05:22', 'uno', '2024-01-10 07:01:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-600 - Laboratory Equipment', 51, '2023-08-28 12:34:52', 'uno', '2023-06-27 10:22:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 11, '2023-02-14 16:19:54', 'uno', '2024-01-28 08:50:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 132, '2023-04-13 22:13:24', 'uno', '2023-04-17 23:04:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 15, '2023-05-14 07:23:35', 'uno', '2023-05-11 08:44:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-800 - Building Automation and Control', 59, '2023-06-15 07:34:52', 'uno', '2023-05-16 02:59:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 66, '2023-06-19 04:56:00', 'uno', '2023-06-08 21:01:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-130 - Audio-Visual Equipment', 56, '2024-01-30 14:29:29', 'uno', '2024-01-03 08:58:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-230 - Digester Covers and Appurtenances', 58, '2023-08-27 07:12:28', 'uno', '2023-05-28 17:12:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-625 - Retaining Wall Drainage Piping', 127, '2023-06-07 07:35:46', 'uno', '2023-05-01 11:13:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 35, '2023-08-18 13:34:14', 'uno', '2024-01-03 10:07:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-540 - Septic Tank', 40, '2023-05-04 17:08:28', 'uno', '2023-09-28 07:14:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-165 - Aquatic Park Facilities', 183, '2023-11-24 19:54:16', 'uno', '2023-10-13 07:24:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-050 - Concrete Subcontractor', 182, '2023-04-18 18:19:09', 'uno', '2023-03-04 20:15:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-800 - Toilet, Bath, and Laundry Specialties', 118, '2023-05-30 12:29:57', 'uno', '2024-01-02 17:39:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-540 - Septic Tank', 34, '2023-05-25 06:04:08', 'uno', '2023-06-10 12:39:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-100 - Concrete Reinforcement', 13, '2024-01-01 16:46:55', 'uno', '2023-04-03 01:45:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-900 - HVAC Instruments and Controls', 195, '2023-07-21 13:47:50', 'uno', '2023-11-24 03:50:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-800 - Glazing', 121, '2023-07-24 05:19:44', 'uno', '2023-11-26 01:05:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-750 - Concrete Pads and Walks', 83, '2023-08-17 14:31:19', 'uno', '2023-04-14 16:45:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-050 - Basic Finish Materials and Methods', 87, '2023-04-22 02:43:44', 'uno', '2023-12-26 05:24:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-600 - Skylights', 75, '2023-05-14 09:23:02', 'uno', '2023-07-14 00:43:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-500 - Material Handling', 142, '2023-11-25 18:30:06', 'uno', '2023-06-25 13:42:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-540 - Septic Tank', 199, '2023-04-04 14:10:21', 'uno', '2024-01-19 00:40:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-165 - Aquatic Park Facilities', 78, '2023-02-07 22:26:30', 'uno', '2023-12-10 17:06:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-200 - Wood and Plastic Doors', 7, '2023-05-29 23:06:29', 'uno', '2023-05-16 08:05:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-915 - Mulch', 197, '2023-04-26 15:39:12', 'uno', '2023-07-13 06:51:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 41, '2024-01-19 08:03:46', 'uno', '2023-08-19 15:43:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-700 - Wall Finishes', 3, '2023-07-18 05:00:43', 'uno', '2024-01-05 08:10:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-950 - Testing, Adjusting, and Balancing', 137, '2023-08-28 23:48:35', 'uno', '2023-12-20 19:13:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-200 - Finish Carpentry', 166, '2023-10-16 00:34:00', 'uno', '2023-10-12 20:46:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 171, '2023-10-20 23:52:53', 'uno', '2023-04-27 11:08:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 9, '2023-10-30 15:47:44', 'uno', '2023-09-13 01:41:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-200 - Louvers and Vents', 56, '2023-04-02 01:40:27', 'uno', '2023-07-17 22:07:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10 - Specialties', 120, '2023-03-31 17:18:58', 'uno', '2023-08-25 02:30:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-311 - Final Grading', 191, '2024-01-20 15:33:34', 'uno', '2024-01-01 21:51:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-240 - Oxygenation Systems', 132, '2023-11-25 12:14:16', 'uno', '2023-11-13 23:34:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-600 - Multiple Seating', 62, '2023-09-24 13:36:35', 'uno', '2023-10-03 03:10:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-150 - Compartments and Cubicles', 170, '2023-12-24 22:02:57', 'uno', '2023-06-26 02:56:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-170 - Solid Waste Handling Equipment', 23, '2023-08-20 12:33:54', 'uno', '2023-04-02 02:13:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 97, '2023-12-01 06:10:01', 'uno', '2023-10-20 04:30:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 180, '2023-02-20 05:23:51', 'uno', '2023-09-16 04:28:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-260 - Wall and Corner Guards', 153, '2023-09-19 17:59:46', 'uno', '2023-12-05 18:40:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-900 - Fire Suppression', 76, '2023-05-16 03:56:24', 'uno', '2023-03-13 21:20:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-900 - Paints and Coatings', 46, '2023-11-07 12:43:44', 'uno', '2023-04-25 02:05:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-517 - Temporary Telephone', 150, '2023-10-11 13:18:03', 'uno', '2023-10-10 19:32:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-400 - Identification Devices', 63, '2023-06-11 17:22:42', 'uno', '2023-10-22 13:04:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-400 - Architectural Woodwork', 151, '2023-05-07 10:37:05', 'uno', '2023-02-21 01:40:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 91, '2023-04-06 03:49:23', 'uno', '2024-01-30 07:46:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-300 - Earthwork', 186, '2023-10-09 05:32:54', 'uno', '2023-10-23 23:45:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-500 - Structural Plastics', 8, '2023-10-11 21:46:22', 'uno', '2023-10-16 00:13:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-800 - Scaffolding', 53, '2023-04-16 13:45:43', 'uno', '2023-10-01 10:30:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12 - Furnishings', 53, '2023-05-23 16:15:05', 'uno', '2023-02-04 03:39:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 37, '2023-08-28 23:09:31', 'uno', '2023-03-26 13:29:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-190 - Site-Constructed Incinerators', 144, '2023-07-27 23:50:37', 'uno', '2024-01-25 20:10:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 117, '2024-01-24 07:08:46', 'uno', '2023-11-18 23:04:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 39, '2023-12-07 19:34:59', 'uno', '2023-05-06 23:00:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-800 - Fire and Smoke Protection', 146, '2023-02-20 01:09:56', 'uno', '2023-03-08 21:04:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-400 - Precast Concrete', 182, '2023-12-19 05:25:52', 'uno', '2023-05-29 20:04:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-200 - Site Preparation', 101, '2023-11-18 23:47:44', 'uno', '2023-07-14 03:58:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-050 - Concrete Subcontractor', 183, '2023-08-21 10:08:32', 'uno', '2023-08-18 18:56:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-260 - Wall and Corner Guards', 88, '2023-08-07 11:54:06', 'uno', '2023-03-24 15:35:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-850 - Detection and Alarm', 114, '2024-01-04 12:03:22', 'uno', '2023-06-04 14:33:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-600 - Hoists and Cables', 106, '2023-04-17 19:12:47', 'uno', '2023-04-23 00:05:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-900 - Paints and Coatings', 18, '2023-05-03 21:20:20', 'uno', '2023-09-24 08:23:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-400 - Architectural Woodwork', 141, '2023-08-06 19:04:29', 'uno', '2024-01-12 11:25:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 46, '2023-03-20 16:00:28', 'uno', '2023-05-05 14:38:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-300 - Transmission and Distribution', 35, '2023-08-26 04:19:23', 'uno', '2023-09-12 10:40:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-400 - Food Service Equipment', 154, '2023-08-27 22:49:13', 'uno', '2023-09-29 15:24:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-700 - Security Access and Surveillance', 105, '2023-07-19 01:36:45', 'uno', '2023-12-12 19:37:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-010 - Contingency', 123, '2023-03-26 00:55:46', 'uno', '2023-02-17 17:12:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 90, '2023-03-19 07:18:54', 'uno', '2023-12-17 15:59:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 63, '2023-02-27 18:09:00', 'uno', '2023-06-22 23:42:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-900 - Glazed Curtain Wall', 1, '2023-07-08 19:35:06', 'uno', '2024-01-17 12:23:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11 - Equipment', 148, '2023-09-19 16:14:21', 'uno', '2024-01-21 11:25:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-500 - Ceilings', 195, '2024-01-08 16:35:57', 'uno', '2023-05-26 14:26:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 25, '2023-12-25 18:26:40', 'uno', '2023-11-25 03:59:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-900 - Furnishings Restoration and Repair', 27, '2023-06-20 22:22:42', 'uno', '2023-05-23 07:24:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-625 - Retaining Wall Drainage Piping', 188, '2023-04-21 11:23:02', 'uno', '2023-12-13 05:35:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-600 - Product Requirements (Scope of Work)', 121, '2023-11-16 15:10:50', 'uno', '2023-07-17 21:41:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-770 - Curb and Gutters', 3, '2023-09-09 11:15:53', 'uno', '2023-05-06 06:14:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-100 - Dumbwaiters', 143, '2023-03-25 04:49:58', 'uno', '2023-10-07 06:28:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-100 - Electrical', 51, '2023-03-04 21:14:40', 'uno', '2023-04-03 18:15:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-100 - Mercantile Equipment', 98, '2023-06-06 18:50:15', 'uno', '2023-10-16 09:14:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 140, '2023-10-07 01:53:44', 'uno', '2023-11-20 09:26:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-900 - Paints and Coatings', 6, '2023-02-11 01:40:37', 'uno', '2023-05-23 04:10:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-160 - Loading Dock Equipment', 157, '2023-10-03 00:51:33', 'uno', '2023-05-03 05:27:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 136, '2023-02-19 20:51:58', 'uno', '2023-08-17 10:48:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-300 - Earthwork', 144, '2023-10-21 23:19:36', 'uno', '2023-04-05 07:24:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-900 - Landscaping', 163, '2023-12-03 19:23:48', 'uno', '2023-08-05 19:58:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-900 - Exhibit Equipment', 162, '2023-08-29 16:15:05', 'uno', '2024-01-04 10:24:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 56, '2023-11-01 05:18:07', 'uno', '2023-09-03 21:36:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-310 - Grading', 107, '2023-06-05 17:06:28', 'uno', '2023-03-11 16:20:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-870 - Agricultural Equipment', 155, '2023-07-28 01:42:52', 'uno', '2023-05-03 03:44:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-050 - Basic Mechanical Materials and Methods', 190, '2024-01-13 17:30:29', 'uno', '2023-12-09 00:46:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-520 - Construction Facilities', 132, '2023-05-04 00:33:31', 'uno', '2024-01-26 16:15:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-800 - Acoustical Treatment', 102, '2023-09-27 19:39:11', 'uno', '2023-04-15 21:19:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-680 - Office Equipment', 81, '2023-09-08 10:25:29', 'uno', '2023-06-15 08:43:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-700 - Systems Furniture', 13, '2023-06-15 00:47:40', 'uno', '2023-09-29 18:22:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-800 - Fire and Smoke Protection', 157, '2023-06-15 08:07:08', 'uno', '2023-05-07 00:28:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-750 - Telephone Specialties', 50, '2023-12-15 01:38:27', 'uno', '2023-11-19 22:24:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-310 - Grading', 91, '2023-05-23 16:36:34', 'uno', '2023-07-06 23:34:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-700 - Wall Finishes', 175, '2023-03-31 04:42:25', 'uno', '2023-09-29 19:21:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-700 - Exterior Protection', 51, '2023-08-03 14:28:08', 'uno', '2023-05-05 17:11:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-800 - Scaffolding', 163, '2023-02-22 06:21:50', 'uno', '2023-04-27 03:01:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-050 - Basic Electrical Materials and Methods', 129, '2023-12-27 02:30:31', 'uno', '2024-01-18 05:06:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-500 - Recording Instrumentation', 60, '2023-09-14 08:41:32', 'uno', '2023-10-14 18:06:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-700 - Execution Requirements', 187, '2023-03-26 21:08:52', 'uno', '2023-08-12 12:23:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-100 - Mercantile Equipment', 109, '2023-05-17 14:46:52', 'uno', '2023-10-16 16:20:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-100 - Mercantile Equipment', 142, '2024-01-24 16:54:04', 'uno', '2023-12-30 12:10:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 53, '2023-10-24 14:44:10', 'uno', '2023-07-05 22:56:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-550 - Postal Specialties', 10, '2023-06-03 11:35:29', 'uno', '2023-04-13 16:15:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-060 - Theater and Stage Equipment', 26, '2023-02-23 15:49:01', 'uno', '2023-12-17 17:27:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-800 - Expansion Control', 200, '2023-08-14 14:00:24', 'uno', '2023-06-05 20:39:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-500 - Lighting', 194, '2023-05-02 03:09:58', 'uno', '2023-10-04 09:42:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-870 - Agricultural Equipment', 100, '2023-07-10 02:27:18', 'uno', '2023-02-09 00:03:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 153, '2023-05-05 22:12:58', 'uno', '2023-02-24 05:41:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-680 - Carpet', 134, '2023-11-14 12:41:28', 'uno', '2023-05-23 07:17:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 91, '2023-11-06 09:20:45', 'uno', '2023-02-28 15:14:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-050 - Fabrics', 116, '2023-04-27 15:55:13', 'uno', '2023-07-06 22:25:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-900 - Exhibit Equipment', 88, '2023-07-01 01:39:21', 'uno', '2023-12-28 16:08:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-170 - Solid Waste Handling Equipment', 186, '2023-08-24 00:14:21', 'uno', '2023-05-12 04:43:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-100 - Mercantile Equipment', 33, '2023-05-07 02:15:23', 'uno', '2023-05-19 00:25:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-080 - Sound, Vibration, and Seismic Control', 40, '2023-05-25 12:30:57', 'uno', '2023-11-19 16:01:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 107, '2023-10-16 11:39:46', 'uno', '2024-01-02 00:01:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-150 - Parking Control Equipment', 8, '2023-09-17 08:59:26', 'uno', '2023-09-28 23:16:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-020 - Security and Vault Equipment', 133, '2023-07-04 15:49:51', 'uno', '2023-05-01 12:34:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-350 - Flagpoles', 22, '2023-04-30 18:00:43', 'uno', '2023-06-06 10:38:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-780 - Clay Unit Pavers', 149, '2023-06-12 21:01:45', 'uno', '2023-08-20 13:00:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-400 - Roofing and Siding Panels', 131, '2023-07-03 16:41:14', 'uno', '2023-06-21 10:42:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-780 - Mortuary Equipment', 199, '2023-09-29 00:32:13', 'uno', '2023-06-17 06:21:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-310 - Expansion Joints', 62, '2023-08-22 13:52:56', 'uno', '2023-07-17 12:21:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-150 - Swimming Pools', 156, '2023-06-17 04:12:05', 'uno', '2023-10-08 16:04:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-300 - Shingles, Roof Tiles, and Roof Coverings', 88, '2024-02-02 21:25:04', 'uno', '2023-05-07 04:30:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-100 - Visual Display Boards', 155, '2023-10-08 04:01:23', 'uno', '2023-09-24 19:15:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-400 - Identification Devices', 71, '2023-11-15 20:56:17', 'uno', '2024-01-08 05:03:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-050 - Basic Thermal and Moisture Protection Materials and Methods', 187, '2023-10-02 02:30:29', 'uno', '2023-08-22 19:30:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-781 - Asphalt Pavers', 186, '2023-10-12 13:41:04', 'uno', '2023-08-01 18:56:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-700 - Medical Equipment', 118, '2023-12-11 12:10:20', 'uno', '2023-04-06 11:35:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-200 - Site Preparation', 43, '2023-05-10 14:37:13', 'uno', '2023-08-16 11:40:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-560 - Temporary Barriers and Enclosures', 41, '2023-03-26 05:35:11', 'uno', '2023-08-12 02:23:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-020 - Building Modules', 85, '2023-02-09 20:17:41', 'uno', '2023-10-27 11:37:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 47, '2023-04-20 11:42:04', 'uno', '2024-01-22 06:37:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-760 - Protecting Installed Construction', 178, '2023-05-22 17:34:56', 'uno', '2023-06-14 21:23:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-900 - Transportation', 48, '2023-05-24 20:01:54', 'uno', '2023-11-06 00:16:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-260 - Sludge Conditioning Systems', 195, '2023-05-26 21:32:06', 'uno', '2023-02-13 12:41:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-300 - Fireplaces and Stoves', 185, '2023-03-23 19:24:00', 'uno', '2023-08-10 04:36:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-050 - Basic Thermal and Moisture Protection Materials and Methods', 159, '2023-10-08 02:50:02', 'uno', '2023-11-15 13:36:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-400 - Measurement and Control Instrumentation', 149, '2023-03-12 18:13:59', 'uno', '2023-07-26 07:13:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-050 - Basic Electrical Materials and Methods', 56, '2023-06-25 16:35:31', 'uno', '2023-05-20 06:58:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-782 - Brick Pavers', 80, '2023-08-19 01:44:45', 'uno', '2023-11-10 05:08:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-800 - Site Amenities', 12, '2023-04-09 07:31:38', 'uno', '2023-03-16 07:28:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-190 - Site-Constructed Incinerators', 112, '2023-11-15 22:02:47', 'uno', '2023-12-27 02:32:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-002 - Instructions', 93, '2023-07-14 00:06:40', 'uno', '2024-01-14 00:15:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-580 - Project Identification', 18, '2023-02-22 09:13:10', 'uno', '2023-06-15 16:47:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-550 - Postal Specialties', 89, '2023-02-09 09:14:45', 'uno', '2023-12-03 23:14:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-800 - Fire and Smoke Protection', 138, '2024-01-21 11:43:10', 'uno', '2023-04-03 18:01:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-800 - Sound and Video', 98, '2023-03-01 03:14:25', 'uno', '2023-11-03 20:20:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-880 - Scales', 72, '2023-05-08 22:07:01', 'uno', '2023-02-23 13:50:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3 - Concrete', 112, '2023-02-06 08:54:16', 'uno', '2023-08-26 01:49:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-550 - Postal Specialties', 25, '2023-11-15 21:48:12', 'uno', '2023-10-18 11:42:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-700 - Security Access and Surveillance', 193, '2023-04-05 03:01:30', 'uno', '2023-10-25 18:49:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-935 - Plant Maintenance', 155, '2023-09-01 16:33:19', 'uno', '2023-06-19 08:01:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-400 - Roofing and Siding Panels', 11, '2023-06-10 02:24:10', 'uno', '2023-11-25 18:21:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-813 - Lawn Sprinkling and Irrigation', 193, '2024-01-07 12:15:17', 'uno', '2023-07-14 01:13:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 30, '2023-04-10 16:36:35', 'uno', '2023-11-04 14:10:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-815 - Fountains', 22, '2024-01-07 10:25:19', 'uno', '2023-12-26 06:47:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-800 - Scaffolding', 97, '2023-09-06 01:26:48', 'uno', '2023-04-26 17:13:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16 - Electrical', 8, '2023-11-26 04:41:00', 'uno', '2023-02-10 06:58:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-750 - Concrete Pads and Walks', 157, '2023-11-22 00:21:03', 'uno', '2023-11-25 03:28:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-300 - Shingles, Roof Tiles, and Roof Coverings', 31, '2023-07-31 11:35:57', 'uno', '2023-06-02 06:50:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-400 - Food Service Equipment', 156, '2023-03-16 22:38:08', 'uno', '2023-03-23 18:48:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-002 - Instructions', 19, '2023-06-14 03:17:52', 'uno', '2023-09-27 12:58:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-220 - Site Demolition', 36, '2023-10-09 19:06:55', 'uno', '2024-01-24 05:06:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-210 - Cast-In-Place Concrete', 155, '2023-08-26 12:47:51', 'uno', '2023-10-02 17:47:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-815 - Fountains', 166, '2023-12-14 14:02:55', 'uno', '2023-02-11 02:40:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-250 - Service Walls', 200, '2023-05-22 08:12:49', 'uno', '2023-05-26 23:27:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-500 - Material Handling', 51, '2023-07-11 21:59:06', 'uno', '2023-09-03 04:04:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-100 - Art', 89, '2023-07-01 13:40:23', 'uno', '2023-03-03 20:27:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-300 - Shingles, Roof Tiles, and Roof Coverings', 192, '2023-05-08 19:04:08', 'uno', '2023-05-04 14:16:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-800 - Air Distribution', 77, '2023-06-23 03:29:46', 'uno', '2023-02-16 03:30:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 105, '2023-07-16 07:47:04', 'uno', '2023-09-02 12:21:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-150 - Parking Control Equipment', 153, '2023-08-12 13:19:26', 'uno', '2023-03-21 00:43:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 122, '2023-11-01 21:18:11', 'uno', '2023-05-31 15:05:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-200 - Thermal Protection - Insulation', 119, '2023-12-15 17:42:18', 'uno', '2023-11-15 21:41:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 68, '2024-02-02 00:28:17', 'uno', '2023-04-02 04:41:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-050 - Basic Mechanical Materials and Methods', 32, '2024-01-24 03:44:03', 'uno', '2023-11-06 18:09:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-500 - Temporary Facilities and Controls', 25, '2023-05-18 10:53:20', 'uno', '2023-07-20 12:52:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-300 - Fluid Waste Treatment and Disposal Equipment', 162, '2023-04-08 00:09:14', 'uno', '2023-05-07 12:20:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-520 - Construction Facilities', 65, '2024-01-06 17:19:07', 'uno', '2023-03-24 23:54:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-660 - Observatory Equipment', 200, '2023-06-05 22:39:38', 'uno', '2023-04-01 22:11:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-700 - Execution Requirements', 89, '2023-07-07 11:35:20', 'uno', '2023-12-31 06:20:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-570 - Temporary Controls', 137, '2023-06-29 08:05:26', 'uno', '2023-07-22 23:53:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-900 - Fire Suppression', 142, '2023-05-04 23:55:18', 'uno', '2023-09-03 03:55:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-500 - Lighting', 54, '2023-11-22 10:17:07', 'uno', '2023-09-25 01:53:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-950 - Testing, Adjusting, and Balancing', 6, '2023-05-24 04:27:04', 'uno', '2023-02-11 20:26:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-600 - Flashing and Sheet Metal', 175, '2023-02-08 01:57:05', 'uno', '2023-10-02 16:36:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-904 - Hazardous Materials Removal and Disposal', 153, '2023-03-10 18:19:25', 'uno', '2023-10-01 07:33:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-120 - Vending Equipment', 136, '2023-05-05 01:25:18', 'uno', '2023-09-18 06:26:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-800 - Masonry Assemblies', 25, '2023-10-19 06:14:51', 'uno', '2023-12-06 00:23:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-350 - Concrete Finishing', 115, '2023-04-27 07:09:08', 'uno', '2023-07-26 21:52:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-100 - Doors', 10, '2023-04-11 20:15:11', 'uno', '2023-08-14 09:36:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-311 - Final Grading', 13, '2023-07-01 19:01:57', 'uno', '2023-10-07 17:39:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-200 - Louvers and Vents', 183, '2024-01-29 05:54:59', 'uno', '2023-09-20 11:24:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-170 - Solid Waste Handling Equipment', 48, '2023-06-06 15:26:43', 'uno', '2024-01-25 06:37:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 164, '2023-07-16 09:29:11', 'uno', '2023-11-14 08:40:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5 - Metals', 20, '2023-02-27 16:05:50', 'uno', '2023-09-24 06:02:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-924 - Sodding', 75, '2023-03-24 06:44:14', 'uno', '2023-06-19 16:49:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-514 - Temporary Heating, Cooling and Ventilation', 45, '2023-05-11 07:26:18', 'uno', '2023-06-23 16:14:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 134, '2023-02-08 15:45:32', 'uno', '2023-11-22 16:32:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-900 - Glazed Curtain Wall', 60, '2023-07-02 12:13:03', 'uno', '2023-05-22 19:10:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4 - Masonry', 104, '2023-04-03 10:01:23', 'uno', '2023-10-09 02:55:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-090 - Radiation Protection', 197, '2023-03-09 11:26:27', 'uno', '2024-01-03 12:03:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-813 - Lawn Sprinkling and Irrigation', 81, '2023-06-27 08:41:25', 'uno', '2023-07-16 22:17:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-800 - Acoustical Treatment', 135, '2023-06-30 11:24:18', 'uno', '2023-07-21 18:35:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 134, '2023-06-09 07:54:43', 'uno', '2023-05-05 21:33:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-900 - Furnishings Restoration and Repair', 54, '2023-10-30 04:57:51', 'uno', '2024-01-31 06:09:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-311 - Final Grading', 142, '2023-08-21 18:50:46', 'uno', '2023-03-14 15:57:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-400 - Low-Voltage Distribution', 167, '2023-06-27 03:51:04', 'uno', '2023-10-28 18:02:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-820 - Bathroom Accessories', 18, '2023-04-02 22:10:14', 'uno', '2023-04-13 18:41:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-002 - Instructions', 13, '2023-07-04 04:18:59', 'uno', '2024-01-25 00:12:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-500 - Cementitious Decks and Underlayments', 65, '2024-01-06 17:29:57', 'uno', '2023-02-04 01:09:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-900 - Fire Suppression', 185, '2023-06-12 07:17:53', 'uno', '2023-05-08 17:23:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11 - Equipment', 197, '2023-12-05 18:56:11', 'uno', '2023-04-30 23:06:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 97, '2023-08-09 11:15:02', 'uno', '2023-09-06 02:27:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-680 - Carpet', 27, '2023-08-29 05:59:12', 'uno', '2023-11-19 07:53:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-100 - Doors', 46, '2023-07-19 05:06:43', 'uno', '2023-04-02 03:51:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-520 - Construction Facilities', 166, '2023-02-13 08:31:26', 'uno', '2024-01-16 23:01:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-014 - Project Executive', 91, '2023-12-01 19:43:16', 'uno', '2023-12-23 12:46:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-200 - Site Preparation', 98, '2023-04-24 03:40:22', 'uno', '2023-05-26 16:14:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-400 - Entrances and Storefronts', 89, '2023-12-10 05:52:57', 'uno', '2024-01-29 10:48:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-311 - Final Grading', 82, '2023-09-21 06:35:40', 'uno', '2023-12-17 08:18:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16 - Electrical', 169, '2023-07-12 14:54:19', 'uno', '2023-07-31 04:41:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-680 - Office Equipment', 141, '2023-10-28 05:30:50', 'uno', '2023-04-10 18:05:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-932 - PLants and Bulbs', 52, '2023-12-12 13:31:23', 'uno', '2024-01-13 23:01:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4 - Masonry', 74, '2023-07-30 02:20:38', 'uno', '2023-04-26 12:36:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-110 - Cathodic Protection', 81, '2023-07-12 04:39:24', 'uno', '2024-01-04 10:10:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-340 - Manufactured Exterior Specialties', 145, '2023-06-18 17:07:36', 'uno', '2023-09-23 09:18:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-800 - Interior Plants and Planters', 113, '2023-03-28 18:48:50', 'uno', '2024-01-06 15:09:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-100 - Art', 78, '2023-07-12 17:43:59', 'uno', '2023-08-26 12:27:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-822 - Ornamental Metal Fences and Gates', 9, '2023-12-27 23:10:36', 'uno', '2024-01-12 22:04:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-250 - Shoring and Underpinning', 46, '2023-08-24 14:02:37', 'uno', '2023-06-04 04:00:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-010 - Air-Supported Structures', 197, '2024-01-27 22:00:46', 'uno', '2023-07-02 12:21:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-020 - Building Modules', 16, '2023-07-20 05:00:21', 'uno', '2023-05-06 22:08:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-621 - Foundatation Drainage Piping', 29, '2023-05-13 18:33:41', 'uno', '2024-01-26 11:42:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6 - Wood and Plastics', 9, '2023-05-24 15:52:11', 'uno', '2023-12-16 21:55:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-100 - Rough Carpentry', 45, '2023-11-02 20:37:20', 'uno', '2023-09-30 09:30:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-280 - Hydraulic Gates and Valves', 170, '2023-12-15 22:58:16', 'uno', '2023-12-12 16:07:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-820 - Bathroom Accessories', 30, '2023-06-08 14:58:24', 'uno', '2024-01-11 03:06:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2 - Site Construction', 138, '2023-11-29 01:15:31', 'uno', '2023-12-08 04:29:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 26, '2023-08-15 17:56:54', 'uno', '2023-07-16 09:54:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-060 - Theater and Stage Equipment', 31, '2023-05-22 06:02:58', 'uno', '2023-10-01 03:27:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-070 - Instrumental Equipment', 30, '2024-01-30 14:32:10', 'uno', '2023-09-15 22:43:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-010 - Maintenance Equipment', 11, '2023-05-14 11:49:51', 'uno', '2023-02-22 21:06:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-300 - Fire Protection Piping', 163, '2023-03-23 04:16:52', 'uno', '2023-12-01 14:40:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-900 - Wood and Plastic Restoration and Cleaning', 47, '2023-12-10 05:35:03', 'uno', '2023-10-14 06:36:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-330 - Poured Concrete Basement Walls', 142, '2023-04-13 19:13:02', 'uno', '2024-01-09 22:10:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-080 - Sound, Vibration, and Seismic Control', 192, '2023-05-05 17:41:35', 'uno', '2023-12-07 12:19:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-300 - Metal Deck', 4, '2023-09-30 07:13:55', 'uno', '2023-09-09 03:04:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-020 - Security and Vault Equipment', 148, '2023-08-14 10:54:53', 'uno', '2023-11-09 07:16:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15 - Mechanical', 143, '2023-11-15 03:31:40', 'uno', '2023-04-01 01:21:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-210 - Cast-In-Place Concrete', 119, '2023-04-27 19:53:40', 'uno', '2023-07-29 17:43:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-500 - Industrial and Process Equipment', 54, '2023-03-15 02:49:21', 'uno', '2023-09-25 15:43:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-110 - Cathodic Protection', 45, '2024-01-23 23:20:02', 'uno', '2023-10-25 07:13:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-100 - Concrete Reinforcement', 109, '2023-08-24 03:12:45', 'uno', '2023-12-02 06:01:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-830 - Retaining Walls', 110, '2024-01-17 23:11:28', 'uno', '2023-07-23 04:53:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 183, '2023-11-10 02:50:19', 'uno', '2023-04-18 04:52:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-300 - Specialty Doors', 31, '2024-01-02 05:55:47', 'uno', '2023-04-14 03:43:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-820 - Fences and Gates', 108, '2023-12-04 21:56:11', 'uno', '2023-08-30 13:26:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-780 - Mortuary Equipment', 70, '2023-03-24 14:25:38', 'uno', '2023-07-15 02:03:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-020 - Insurance', 89, '2023-03-28 22:34:55', 'uno', '2023-06-20 05:06:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-700 - Communications', 102, '2023-09-11 02:12:36', 'uno', '2023-03-14 13:12:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-560 - Temporary Barriers and Enclosures', 92, '2023-02-23 03:00:01', 'uno', '2023-06-14 23:33:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-915 - Mulch', 38, '2023-10-22 11:45:49', 'uno', '2023-03-22 02:07:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-040 - Ecclesiastical Equipment', 37, '2023-09-28 11:05:37', 'uno', '2023-09-20 01:21:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-750 - Concrete Pads and Walks', 36, '2024-01-18 03:08:57', 'uno', '2023-02-04 03:47:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 155, '2023-05-13 08:02:18', 'uno', '2023-06-29 01:38:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-100 - Art', 71, '2023-03-13 09:05:55', 'uno', '2023-12-24 01:03:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-260 - Sludge Conditioning Systems', 121, '2023-05-10 03:27:53', 'uno', '2023-12-03 00:03:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-100 - Structural Metals', 172, '2023-06-27 15:19:34', 'uno', '2023-03-26 03:42:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 54, '2023-03-15 02:10:46', 'uno', '2023-05-06 11:11:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-712 - Local Conditions', 157, '2023-04-21 23:19:11', 'uno', '2023-11-13 09:40:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-240 - Grilles and Screens', 168, '2023-07-06 20:20:57', 'uno', '2023-12-18 03:59:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-760 - Protecting Installed Construction', 169, '2023-05-12 16:37:04', 'uno', '2023-12-12 11:55:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-900 - HVAC Instruments and Controls', 187, '2023-09-13 03:19:20', 'uno', '2024-01-15 14:07:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-850 - Bridges/Footbridges', 103, '2023-07-10 08:29:18', 'uno', '2023-05-24 10:41:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-560 - Temporary Barriers and Enclosures', 126, '2023-08-06 12:44:15', 'uno', '2023-10-24 13:32:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-660 - Observatory Equipment', 85, '2023-05-21 15:25:24', 'uno', '2024-01-22 15:11:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-700 - Ornamental Metal', 68, '2023-07-13 05:37:58', 'uno', '2023-11-21 23:10:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-150 - Compartments and Cubicles', 163, '2023-07-25 12:28:35', 'uno', '2023-04-15 09:19:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-550 - Vehicular Access and Parking', 83, '2023-05-30 07:15:19', 'uno', '2023-06-11 08:26:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 183, '2023-12-07 08:56:56', 'uno', '2023-04-26 05:03:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-480 - Athletic, Recreational, and Therapeutic Equipment', 63, '2023-05-26 21:06:31', 'uno', '2023-04-23 22:12:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-700 - Systems Furniture', 23, '2023-07-04 10:44:57', 'uno', '2023-12-17 18:10:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 102, '2023-10-02 16:56:09', 'uno', '2024-01-23 12:20:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-900 - Wood and Plastic Restoration and Cleaning', 113, '2023-07-13 11:44:33', 'uno', '2024-01-18 10:09:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-800 - Sound and Video', 121, '2023-10-30 19:34:40', 'uno', '2023-08-26 23:10:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-500 - Lighting', 57, '2023-08-11 14:55:16', 'uno', '2024-02-02 02:18:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 130, '2023-10-28 07:13:03', 'uno', '2023-05-11 00:30:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-500 - Recording Instrumentation', 14, '2023-03-30 18:35:23', 'uno', '2023-11-29 12:20:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-050 - Basic Thermal and Moisture Protection Materials and Methods', 128, '2023-02-06 17:42:51', 'uno', '2023-11-27 09:21:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-200 - Thermal Protection - Insulation', 40, '2024-01-02 17:44:52', 'uno', '2023-08-28 07:21:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-515 - Temporary Lighting', 189, '2023-08-05 12:59:42', 'uno', '2023-06-01 06:52:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-621 - Foundatation Drainage Piping', 48, '2023-02-21 15:00:13', 'uno', '2023-10-19 15:46:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-400 - Cold-Formed Metal Framing', 194, '2023-07-30 03:42:46', 'uno', '2023-03-12 13:46:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16 - Electrical', 30, '2023-10-25 12:30:34', 'uno', '2023-04-16 00:30:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-780 - Clay Unit Pavers', 1, '2023-07-17 02:25:14', 'uno', '2024-01-24 02:04:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2 - Site Construction', 184, '2023-02-24 20:35:54', 'uno', '2023-02-16 16:55:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-050 - Basic Metal Materials and Methods', 109, '2023-08-05 06:40:52', 'uno', '2023-07-17 03:02:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17 - Markup and Contingency', 154, '2024-01-06 23:28:38', 'uno', '2023-10-22 19:43:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-560 - Temporary Barriers and Enclosures', 142, '2023-02-19 23:27:59', 'uno', '2023-12-23 20:58:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-165 - Aquatic Park Facilities', 181, '2023-10-31 10:23:13', 'uno', '2023-07-09 09:08:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-165 - Aquatic Park Facilities', 198, '2024-01-06 06:55:13', 'uno', '2024-01-01 12:37:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-600 - Plastic Fabrications', 160, '2023-02-18 22:12:02', 'uno', '2023-09-09 21:07:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-060 - Theater and Stage Equipment', 64, '2023-12-05 14:14:03', 'uno', '2023-07-18 11:47:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-130 - Audio-Visual Equipment', 159, '2023-03-02 21:42:15', 'uno', '2023-11-19 10:35:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-150 - Swimming Pools', 194, '2023-05-30 03:20:42', 'uno', '2023-03-11 10:36:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-030 - Teller and Service Equipment', 85, '2024-01-14 19:04:42', 'uno', '2023-07-23 06:47:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-450 - Pedestrian Control Devices', 152, '2023-10-25 22:25:02', 'uno', '2024-01-06 13:56:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-050 - Basic Wood and Plastic Materials and Methods', 164, '2023-04-22 08:40:18', 'uno', '2024-01-26 16:45:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-000 - General', 101, '2023-09-15 11:21:23', 'uno', '2023-02-27 21:06:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-621 - Foundatation Drainage Piping', 130, '2023-04-29 17:40:52', 'uno', '2023-03-18 10:43:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-165 - Aquatic Park Facilities', 47, '2023-07-24 08:20:07', 'uno', '2023-10-25 10:38:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-330 - Poured Concrete Basement Walls', 150, '2023-02-15 05:41:40', 'uno', '2023-12-27 23:52:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-800 - Acoustical Treatment', 67, '2023-11-01 22:45:33', 'uno', '2023-04-09 05:27:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-450 - Pedestrian Control Devices', 135, '2023-05-04 05:30:29', 'uno', '2023-08-03 22:36:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-800 - Scaffolding', 104, '2023-06-18 08:16:05', 'uno', '2023-12-22 10:05:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-520 - Fire Protection Specialties', 163, '2023-06-24 19:14:06', 'uno', '2023-07-26 18:46:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-400 - Identification Devices', 12, '2023-10-09 17:00:55', 'uno', '2023-05-07 00:52:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-700 - Exterior Protection', 157, '2023-09-15 07:01:43', 'uno', '2023-10-04 01:27:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-825 - Wood Fences and Gates', 29, '2024-01-20 22:44:10', 'uno', '2023-09-12 20:48:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-400 - Roofing and Siding Panels', 3, '2024-01-21 16:15:48', 'uno', '2023-05-16 06:36:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-750 - Telephone Specialties', 120, '2023-05-06 05:50:58', 'uno', '2023-09-23 10:54:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-900 - HVAC Instruments and Controls', 179, '2023-06-24 12:31:36', 'uno', '2023-10-26 06:44:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-880 - Scales', 109, '2023-03-16 08:39:53', 'uno', '2023-10-25 07:55:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-700 - Turntables', 181, '2023-11-13 03:29:34', 'uno', '2024-01-28 00:48:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-900 - HVAC Instruments and Controls', 129, '2023-05-21 18:29:25', 'uno', '2024-01-16 00:57:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-400 - Measurement and Control Instrumentation', 103, '2024-01-29 09:51:39', 'uno', '2023-03-05 14:16:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 96, '2023-09-22 21:23:44', 'uno', '2023-06-19 09:09:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-460 - Unit Kitchens', 78, '2023-10-20 02:38:13', 'uno', '2023-05-25 20:12:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 185, '2023-09-24 11:59:04', 'uno', '2023-08-31 11:31:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-100 - Lightning Protection', 87, '2023-08-12 02:44:59', 'uno', '2023-02-21 07:04:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-400 - Plumbing Fixtures and Equipment', 23, '2023-03-28 23:25:12', 'uno', '2023-10-16 20:15:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-185 - Kennels and Animal Shelters', 187, '2023-07-14 00:34:03', 'uno', '2023-06-20 07:57:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-050 - Basic Wood and Plastic Materials and Methods', 90, '2023-05-11 21:33:05', 'uno', '2023-05-03 15:06:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-518 - Temporary Water', 119, '2024-01-16 14:06:44', 'uno', '2023-07-29 16:12:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 145, '2023-06-29 04:57:00', 'uno', '2023-06-16 20:25:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-900 - Joint Sealers', 91, '2023-04-19 22:00:01', 'uno', '2023-03-21 03:45:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-700 - Hardware', 101, '2023-03-06 23:54:22', 'uno', '2023-10-30 00:20:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 189, '2024-01-07 08:06:41', 'uno', '2023-09-10 02:49:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-200 - Storage Tanks', 180, '2023-04-23 13:39:00', 'uno', '2023-08-03 01:18:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-850 - Bridges/Footbridges', 76, '2024-01-26 14:50:25', 'uno', '2024-01-07 21:05:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-340 - Manufactured Exterior Specialties', 130, '2023-04-20 08:34:56', 'uno', '2023-06-07 07:54:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-900 - Furnishings Restoration and Repair', 66, '2023-02-24 06:01:31', 'uno', '2023-09-22 23:26:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-800 - Glazing', 160, '2023-07-31 12:13:16', 'uno', '2023-11-18 15:13:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-280 - Hydraulic Gates and Valves', 99, '2023-07-15 17:32:39', 'uno', '2023-07-10 03:47:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-110 - Commercial Laundry and Dry Cleaning Equipment', 166, '2024-01-05 20:07:30', 'uno', '2023-07-31 07:16:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-900 - Metal Restoration and Cleaning', 172, '2023-07-01 15:41:33', 'uno', '2023-07-01 09:17:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-800 - Site Amenities', 168, '2023-06-14 20:37:33', 'uno', '2023-02-06 17:59:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-542 - Construction Scaffolding and Platforms', 198, '2023-12-13 15:28:45', 'uno', '2023-02-21 07:10:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-350 - Concrete Finishing', 82, '2023-09-23 22:04:02', 'uno', '2023-08-31 19:34:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-250 - Service Walls', 4, '2023-07-01 16:25:06', 'uno', '2023-06-19 02:44:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 111, '2023-08-19 06:31:08', 'uno', '2023-04-07 06:29:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-800 - Expansion Control', 67, '2023-12-07 22:27:01', 'uno', '2023-10-09 11:52:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-130 - Audio-Visual Equipment', 156, '2023-06-05 22:43:53', 'uno', '2023-06-02 17:26:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-540 - Construction Aids', 82, '2023-11-27 04:56:30', 'uno', '2023-03-25 08:31:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-600 - Flashing and Sheet Metal', 86, '2023-07-30 14:53:21', 'uno', '2024-01-12 00:16:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10 - Specialties', 84, '2023-08-29 17:11:07', 'uno', '2023-03-11 14:09:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-050 - Basic Metal Materials and Methods', 183, '2023-03-15 13:06:55', 'uno', '2023-07-23 17:58:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-800 - Site Amenities', 98, '2023-03-08 20:58:59', 'uno', '2023-03-20 16:56:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-515 - Temporary Lighting', 40, '2023-07-11 22:23:29', 'uno', '2023-02-04 22:38:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-200 - Wood and Plastic Doors', 18, '2023-08-29 05:33:04', 'uno', '2023-11-03 16:03:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-800 - Air Distribution', 144, '2023-10-24 20:47:17', 'uno', '2024-02-01 03:52:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-362 - Termite Control', 79, '2023-06-29 15:21:17', 'uno', '2023-04-10 22:26:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-450 - Pedestrian Control Devices', 36, '2023-05-10 05:03:30', 'uno', '2023-02-19 08:29:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-100 - Plumbing', 171, '2023-09-12 01:56:12', 'uno', '2023-03-10 04:59:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 140, '2023-11-18 19:56:42', 'uno', '2023-10-02 01:40:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-600 - Skylights', 53, '2023-08-17 12:56:09', 'uno', '2023-12-03 17:42:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-400 - Entrances and Storefronts', 31, '2023-05-10 07:46:35', 'uno', '2023-03-05 17:36:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-260 - Wall and Corner Guards', 189, '2023-06-27 23:15:44', 'uno', '2023-11-13 23:28:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-070 - Instrumental Equipment', 20, '2023-09-16 15:12:31', 'uno', '2023-04-14 19:39:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-310 - Expansion Joints', 23, '2023-10-25 08:24:30', 'uno', '2023-11-02 10:28:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-012 - Superintendent', 85, '2023-02-09 18:13:12', 'uno', '2024-01-12 13:46:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-311 - Final Grading', 25, '2023-11-17 13:36:26', 'uno', '2023-03-01 20:23:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-250 - Gypsum Wallboard', 57, '2023-09-09 11:19:19', 'uno', '2023-10-18 07:00:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-800 - Fire and Smoke Protection', 196, '2023-08-12 02:07:06', 'uno', '2023-09-21 20:27:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-813 - Lawn Sprinkling and Irrigation', 171, '2023-07-29 02:04:23', 'uno', '2023-06-26 17:03:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-520 - Fire Protection Specialties', 56, '2023-04-11 14:45:44', 'uno', '2024-01-02 18:44:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-600 - Hoists and Cables', 123, '2024-01-17 09:10:42', 'uno', '2023-08-04 11:01:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-800 - Air Distribution', 43, '2023-02-04 00:26:51', 'uno', '2023-11-06 10:26:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-540 - Septic Tank', 47, '2023-06-17 11:11:26', 'uno', '2023-03-23 17:52:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-300 - Fireplaces and Stoves', 107, '2023-05-15 01:39:15', 'uno', '2023-10-17 15:34:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-050 - Basic Wood and Plastic Materials and Methods', 182, '2023-10-22 17:40:24', 'uno', '2023-11-02 20:37:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-750 - Concrete Pads and Walks', 106, '2023-12-14 12:12:39', 'uno', '2023-12-26 21:23:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 93, '2023-11-24 20:30:59', 'uno', '2023-09-07 18:46:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-010 - Contingency', 3, '2023-10-03 07:46:09', 'uno', '2023-02-24 19:58:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-850 - Detection and Alarm', 154, '2023-12-24 12:26:28', 'uno', '2023-09-16 16:25:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-050 - Basic Metal Materials and Methods', 151, '2023-10-25 17:20:59', 'uno', '2023-04-05 11:56:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-400 - Identification Devices', 62, '2023-11-29 21:02:47', 'uno', '2023-05-26 15:26:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10 - Specialties', 35, '2024-01-14 18:46:48', 'uno', '2023-06-27 12:28:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-600 - Grouts', 155, '2023-11-11 18:22:30', 'uno', '2023-07-29 18:56:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-900 - Paints and Coatings', 30, '2023-05-21 01:06:00', 'uno', '2023-08-12 14:31:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1 - General Requirements', 121, '2023-04-29 11:58:55', 'uno', '2023-06-13 07:49:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-160 - Loading Dock Equipment', 160, '2023-11-19 12:04:34', 'uno', '2023-04-24 02:34:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-050 - Basic Electrical Materials and Methods', 138, '2023-03-03 15:58:46', 'uno', '2023-07-14 19:12:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-800 - Toilet, Bath, and Laundry Specialties', 31, '2024-02-02 22:08:16', 'uno', '2023-02-26 15:13:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-200 - Electrical Power', 13, '2023-02-14 21:05:08', 'uno', '2024-01-05 17:07:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-100 - Concrete Reinforcement', 60, '2023-08-25 04:05:46', 'uno', '2023-02-11 13:01:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-050 - Basic Finish Materials and Methods', 36, '2024-01-28 14:47:40', 'uno', '2024-01-12 16:14:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-900 - Glazed Curtain Wall', 8, '2023-08-10 19:59:16', 'uno', '2023-09-09 05:56:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-300 - Transmission and Distribution', 24, '2023-09-19 21:55:53', 'uno', '2023-09-23 08:48:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 101, '2023-10-26 19:19:33', 'uno', '2023-04-04 20:00:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-400 - Identification Devices', 54, '2023-09-22 19:29:31', 'uno', '2023-07-05 01:37:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-080 - Registration Equipment', 56, '2023-08-31 22:44:48', 'uno', '2023-04-12 12:00:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-100 - Plumbing', 148, '2023-06-09 01:48:12', 'uno', '2024-01-28 22:39:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-050 - Basic Mechanical Materials and Methods', 12, '2023-05-25 01:49:45', 'uno', '2023-05-09 21:42:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-600 - Hoists and Cables', 117, '2024-01-01 12:38:10', 'uno', '2023-09-10 22:53:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-480 - Athletic, Recreational, and Therapeutic Equipment', 174, '2023-06-23 01:00:51', 'uno', '2023-04-24 19:20:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-500 - Lighting', 163, '2023-12-06 13:00:42', 'uno', '2023-09-12 10:59:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-800 - Acoustical Treatment', 187, '2023-04-09 18:38:56', 'uno', '2023-11-20 06:29:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-700 - Exterior Protection', 50, '2023-12-13 08:45:20', 'uno', '2023-09-01 12:38:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-400 - Entrances and Storefronts', 23, '2023-05-04 19:26:40', 'uno', '2023-10-05 20:44:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 41, '2023-05-27 01:14:24', 'uno', '2023-03-08 07:39:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-500 - Refractories', 33, '2023-03-02 20:37:32', 'uno', '2023-04-28 16:42:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-400 - Low-Voltage Distribution', 156, '2023-02-20 15:05:55', 'uno', '2023-05-01 01:30:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-100 - Visual Display Boards', 136, '2023-10-23 18:28:40', 'uno', '2023-07-30 12:46:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-050 - Basic Mechanical Materials and Methods', 104, '2023-08-14 05:13:12', 'uno', '2023-09-13 08:17:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-500 - Industrial and Process Equipment', 8, '2023-09-29 22:56:47', 'uno', '2023-02-16 10:34:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-700 - Communications', 193, '2023-11-24 11:04:21', 'uno', '2023-02-22 12:54:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-782 - Brick Pavers', 182, '2023-02-09 00:03:10', 'uno', '2023-10-16 12:02:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-230 - Site Clearing', 152, '2023-04-24 05:11:33', 'uno', '2024-01-06 14:41:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 119, '2023-10-28 04:25:33', 'uno', '2023-02-07 00:39:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-200 - Wood and Plastic Doors', 65, '2023-07-29 18:27:50', 'uno', '2023-11-11 07:17:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-230 - Anchor Bolts', 154, '2023-08-13 07:04:21', 'uno', '2023-05-31 03:15:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-020 - Security and Vault Equipment', 107, '2023-02-22 05:44:14', 'uno', '2023-12-26 12:14:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-700 - Medical Equipment', 13, '2023-10-16 08:56:49', 'uno', '2023-10-03 02:57:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-700 - Hardware', 135, '2023-04-15 03:51:17', 'uno', '2023-12-18 08:39:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-100 - Damproofing and Waterproofing', 140, '2023-05-25 11:44:08', 'uno', '2023-02-11 10:29:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-080 - Sound, Vibration, and Seismic Control', 195, '2023-07-03 07:35:30', 'uno', '2023-09-24 04:55:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-400 - Low-Voltage Distribution', 76, '2023-12-24 06:21:31', 'uno', '2023-08-10 04:33:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-500 - Ceilings', 135, '2023-07-03 07:12:02', 'uno', '2023-10-14 08:31:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-150 - Swimming Pools', 21, '2023-10-19 14:43:01', 'uno', '2023-09-28 17:21:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-300 - Manufactured Casework', 115, '2023-04-27 01:18:49', 'uno', '2023-12-11 04:51:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-500 - Structural Plastics', 5, '2023-04-03 03:39:48', 'uno', '2023-06-07 10:03:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 35, '2023-07-26 12:22:13', 'uno', '2023-04-15 04:41:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-900 - Wood and Plastic Restoration and Cleaning', 104, '2023-10-19 18:25:26', 'uno', '2023-07-06 04:24:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-080 - Sound, Vibration, and Seismic Control', 77, '2023-10-07 01:47:17', 'uno', '2023-08-04 05:52:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-500 - Lighting', 70, '2023-11-27 05:30:11', 'uno', '2023-11-16 12:24:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-300 - Escalators and Moving Walks', 58, '2023-05-21 03:53:41', 'uno', '2023-05-05 05:12:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-311 - Final Grading', 8, '2023-02-09 18:48:13', 'uno', '2023-02-13 07:09:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-680 - Carpet', 123, '2023-03-20 12:47:05', 'uno', '2024-01-02 15:37:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-760 - Protecting Installed Construction', 131, '2023-03-26 12:26:28', 'uno', '2023-06-28 12:03:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 41, '2023-07-01 03:54:42', 'uno', '2023-04-07 03:31:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 101, '2023-05-24 20:25:40', 'uno', '2023-03-28 03:33:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-020 - Insurance', 50, '2023-09-06 07:40:03', 'uno', '2023-06-27 16:14:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-170 - Tubs and Pools', 71, '2023-09-11 09:16:39', 'uno', '2023-12-17 12:22:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-660 - Observatory Equipment', 156, '2023-11-01 08:55:33', 'uno', '2023-05-17 08:02:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-900 - Transportation', 178, '2023-10-01 16:42:51', 'uno', '2023-07-22 07:46:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-310 - Grading', 4, '2023-11-13 09:51:44', 'uno', '2023-09-22 00:40:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-781 - Asphalt Pavers', 31, '2023-02-24 07:58:36', 'uno', '2023-03-22 18:18:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 31, '2023-08-28 18:41:06', 'uno', '2023-07-06 22:52:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-300 - Shingles, Roof Tiles, and Roof Coverings', 191, '2023-03-25 10:55:37', 'uno', '2023-09-15 00:39:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-040 - Ecclesiastical Equipment', 139, '2023-03-10 08:27:59', 'uno', '2023-03-12 11:18:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-200 - Storage Tanks', 135, '2023-07-08 23:27:43', 'uno', '2023-10-22 08:40:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 83, '2023-07-27 23:02:17', 'uno', '2023-09-21 12:11:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-824 - Wire Fences and Gates', 191, '2023-04-22 09:43:04', 'uno', '2023-04-19 13:21:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-570 - Temporary Controls', 24, '2023-06-09 17:25:38', 'uno', '2023-10-17 22:46:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-500 - Material Handling', 28, '2023-05-01 02:44:22', 'uno', '2023-07-01 22:06:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-400 - Measurement and Control Instrumentation', 3, '2023-06-07 23:33:35', 'uno', '2023-02-23 14:49:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 69, '2023-06-20 04:05:36', 'uno', '2023-10-14 20:50:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-170 - Solid Waste Handling Equipment', 72, '2023-05-08 12:15:03', 'uno', '2023-02-13 19:03:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-870 - Sculpture/Ornamental', 186, '2023-07-22 11:18:34', 'uno', '2024-01-24 02:11:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-220 - Site Demolition', 183, '2023-09-10 12:02:03', 'uno', '2023-03-20 17:21:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-782 - Brick Pavers', 17, '2023-02-04 04:58:06', 'uno', '2023-08-20 03:05:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-783 - Interlocking Concrete Unit Paving', 17, '2023-12-03 03:32:00', 'uno', '2024-01-06 16:47:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-600 - Plastic Fabrications', 17, '2023-02-25 20:42:20', 'uno', '2024-01-20 23:51:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-050 - Basic Masonry Materials and Methods', 149, '2023-10-03 07:40:05', 'uno', '2023-06-27 08:31:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-790 - Athletic Surfacing', 117, '2023-12-26 04:56:51', 'uno', '2023-12-20 03:04:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-200 - Metal Joists', 114, '2023-02-07 14:36:55', 'uno', '2023-09-13 09:32:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-450 - Pedestrian Control Devices', 130, '2023-12-19 13:28:37', 'uno', '2023-04-01 18:04:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-100 - Dumbwaiters', 45, '2024-01-21 13:46:50', 'uno', '2023-05-26 06:55:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-540 - Septic Tank', 140, '2023-03-12 05:48:09', 'uno', '2023-10-12 00:02:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-320 - Slab Foundations', 31, '2024-01-07 03:30:20', 'uno', '2023-07-14 14:38:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-230 - Anchor Bolts', 11, '2023-08-15 21:52:57', 'uno', '2023-08-07 20:11:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-400 - Precast Concrete', 128, '2023-08-08 03:26:06', 'uno', '2023-11-02 10:19:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-020 - Insurance', 186, '2023-07-09 18:28:29', 'uno', '2023-02-09 22:06:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 17, '2023-10-14 21:54:54', 'uno', '2023-11-03 00:33:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-500 - Recording Instrumentation', 35, '2023-02-12 13:11:22', 'uno', '2023-04-05 07:18:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-320 - Excavation and Fill', 58, '2023-11-16 16:58:36', 'uno', '2023-09-29 02:18:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-795 - Porous Paving', 2, '2023-05-28 03:48:07', 'uno', '2023-05-31 10:58:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 132, '2024-01-10 17:41:32', 'uno', '2023-05-15 18:15:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-900 - Joint Sealers', 155, '2023-08-24 02:53:51', 'uno', '2023-07-15 05:30:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-170 - Tubs and Pools', 150, '2024-01-31 12:16:23', 'uno', '2023-05-13 08:04:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-010 - Air-Supported Structures', 32, '2023-12-01 01:12:44', 'uno', '2023-05-23 08:39:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-030 - Bond', 182, '2023-04-16 09:47:27', 'uno', '2023-06-12 03:13:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-315 - Excavation', 60, '2023-03-12 18:47:29', 'uno', '2023-11-02 21:52:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 71, '2023-10-13 06:10:07', 'uno', '2023-07-29 01:47:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-625 - Retaining Wall Drainage Piping', 83, '2023-04-05 08:47:30', 'uno', '2023-03-20 01:33:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-100 - Electrical', 80, '2023-08-26 04:04:40', 'uno', '2023-05-18 13:50:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-825 - Wood Fences and Gates', 169, '2023-05-03 14:55:37', 'uno', '2023-10-16 19:02:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-800 - Air Distribution', 73, '2023-03-18 05:55:07', 'uno', '2023-05-03 14:00:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-280 - Hydraulic Gates and Valves', 151, '2023-04-18 05:41:40', 'uno', '2023-10-31 07:42:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-200 - Water Supply and Treatment Equipment', 1, '2023-10-03 05:02:42', 'uno', '2023-03-16 09:25:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 182, '2023-07-18 11:41:00', 'uno', '2023-10-14 14:31:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-600 - Skylights', 114, '2023-10-26 05:14:27', 'uno', '2023-11-09 08:30:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-500 - Metal Fabrications', 52, '2024-01-29 00:11:20', 'uno', '2023-03-17 06:48:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-700 - Communications', 108, '2023-07-27 20:56:22', 'uno', '2023-11-08 07:35:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-518 - Temporary Water', 99, '2023-06-19 19:03:41', 'uno', '2023-02-08 20:46:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-230 - Site Clearing', 163, '2023-02-11 13:59:22', 'uno', '2023-11-01 06:31:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-510 - Temporary Utilities', 165, '2023-11-08 23:19:44', 'uno', '2023-05-23 16:22:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14 - Conveying Systems', 164, '2023-08-26 10:27:11', 'uno', '2024-01-22 22:10:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-200 - Elevators', 101, '2023-07-07 00:45:54', 'uno', '2024-01-02 15:06:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-400 - Cold-Formed Metal Framing', 81, '2023-02-05 13:24:16', 'uno', '2023-05-09 21:59:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-800 - Glazing', 104, '2023-06-17 18:30:56', 'uno', '2023-12-18 11:09:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6 - Wood and Plastics', 110, '2023-02-26 02:29:23', 'uno', '2023-07-06 16:59:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-900 - HVAC Instruments and Controls', 165, '2023-04-18 15:40:25', 'uno', '2023-11-18 08:01:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 158, '2023-09-21 05:34:15', 'uno', '2023-09-08 15:27:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-750 - Telephone Specialties', 123, '2023-04-14 14:56:54', 'uno', '2023-11-12 01:47:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-919 - Topsoil', 35, '2023-08-03 15:31:55', 'uno', '2023-06-04 03:38:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 37, '2023-10-03 13:53:08', 'uno', '2023-04-17 10:17:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 45, '2023-10-23 20:38:06', 'uno', '2023-12-31 05:36:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4 - Masonry', 74, '2023-10-27 18:45:47', 'uno', '2023-11-01 11:51:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 72, '2023-04-12 23:40:18', 'uno', '2023-10-12 00:24:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-540 - Cementitious Underlayments', 17, '2023-10-21 21:50:15', 'uno', '2023-04-07 21:58:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-340 - Manufactured Exterior Specialties', 22, '2023-12-16 22:21:28', 'uno', '2023-06-13 01:21:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-500 - Cementitious Decks and Underlayments', 39, '2023-06-09 20:29:43', 'uno', '2023-10-07 03:03:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-917 - Soil Preparation', 106, '2023-03-19 16:03:56', 'uno', '2023-02-07 10:15:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-650 - Planetarium Equipment', 45, '2023-09-01 20:00:09', 'uno', '2023-11-28 04:45:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-750 - Telephone Specialties', 167, '2023-11-27 03:47:47', 'uno', '2023-09-14 13:51:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-924 - Sodding', 150, '2023-05-02 01:14:07', 'uno', '2023-09-03 16:28:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-050 - Fabrics', 179, '2023-03-30 09:41:18', 'uno', '2023-10-24 00:05:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-100 - Concrete Reinforcement', 67, '2023-08-29 14:31:15', 'uno', '2023-06-06 23:09:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-400 - Precast Concrete', 141, '2023-11-20 02:46:32', 'uno', '2023-04-26 20:03:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-010 - Contingency', 83, '2023-09-23 17:44:55', 'uno', '2023-04-10 09:44:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-300 - Transmission and Distribution', 132, '2023-02-09 07:54:18', 'uno', '2023-10-23 22:46:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 100, '2023-11-25 05:23:21', 'uno', '2023-02-11 18:30:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 198, '2023-02-10 07:27:21', 'uno', '2023-09-20 22:53:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-260 - Excavation Support and Protection', 75, '2023-03-14 12:08:22', 'uno', '2023-03-21 03:56:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-100 - Dumbwaiters', 129, '2023-04-29 21:01:16', 'uno', '2023-02-16 05:25:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-350 - Flagpoles', 198, '2023-06-18 18:14:24', 'uno', '2023-07-27 17:50:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-700 - Hardware', 69, '2023-04-12 10:14:54', 'uno', '2023-02-06 20:05:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-936 - Fertilizer', 166, '2023-07-17 18:07:54', 'uno', '2023-12-13 12:29:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-200 - Storage Tanks', 80, '2023-09-24 10:40:10', 'uno', '2023-12-11 00:50:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-781 - Asphalt Pavers', 159, '2023-07-06 20:11:02', 'uno', '2023-09-18 19:12:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-783 - Interlocking Concrete Unit Paving', 13, '2023-07-03 02:15:51', 'uno', '2023-05-24 20:51:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-500 - Structural Plastics', 116, '2023-12-18 08:31:21', 'uno', '2023-09-21 12:45:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-400 - Stone', 7, '2023-06-11 05:03:56', 'uno', '2023-09-28 06:01:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-850 - Detection and Alarm', 13, '2023-10-25 01:16:56', 'uno', '2023-09-28 11:53:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-010 - Air-Supported Structures', 181, '2023-02-27 23:20:19', 'uno', '2023-03-26 20:24:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 64, '2023-09-03 04:49:48', 'uno', '2024-02-02 00:44:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 97, '2023-12-10 10:52:20', 'uno', '2023-02-11 12:32:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-800 - Acoustical Treatment', 18, '2023-06-20 10:29:42', 'uno', '2023-10-19 03:32:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-000 - Purpose', 129, '2024-01-17 18:09:49', 'uno', '2023-06-08 16:29:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-260 - Wall and Corner Guards', 3, '2023-09-14 21:06:28', 'uno', '2024-01-21 07:53:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-100 - Plumbing', 73, '2024-01-12 13:05:48', 'uno', '2024-01-28 12:23:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-783 - Interlocking Concrete Unit Paving', 184, '2023-03-10 19:28:12', 'uno', '2023-05-07 20:39:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-795 - Porous Paving', 130, '2024-01-10 10:44:01', 'uno', '2023-03-01 23:04:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-781 - Asphalt Pavers', 87, '2023-11-10 10:07:18', 'uno', '2023-10-25 17:28:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-230 - Anchor Bolts', 7, '2023-12-29 18:37:35', 'uno', '2024-01-02 08:20:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-110 - Cathodic Protection', 45, '2023-09-08 20:15:08', 'uno', '2023-02-06 00:25:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-600 - Corrosion-Resistant Masonry', 133, '2023-09-04 22:07:29', 'uno', '2023-05-27 05:48:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-880 - Scales', 77, '2023-11-14 03:39:22', 'uno', '2023-03-02 04:53:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-523 - Sanitary Facilities', 161, '2023-05-17 22:08:27', 'uno', '2023-07-20 03:07:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-400 - Roofing and Siding Panels', 62, '2023-11-02 03:53:31', 'uno', '2023-08-24 05:28:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-780 - Clay Unit Pavers', 34, '2023-05-06 08:40:40', 'uno', '2023-04-13 14:40:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-050 - Library Equipment', 118, '2023-06-22 16:14:40', 'uno', '2023-03-17 14:03:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-400 - Precast Concrete', 28, '2023-02-16 01:23:04', 'uno', '2023-10-29 23:01:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 24, '2023-07-30 06:03:43', 'uno', '2023-05-23 22:38:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-010 - Maintenance Equipment', 200, '2023-11-06 05:15:42', 'uno', '2023-08-24 03:59:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-300 - Footings', 110, '2023-05-16 06:48:38', 'uno', '2023-04-13 06:37:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-230 - Site Clearing', 90, '2023-12-21 01:45:45', 'uno', '2023-12-04 16:43:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-310 - Grading', 117, '2024-01-29 05:35:27', 'uno', '2023-05-18 17:35:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 116, '2023-02-06 12:56:28', 'uno', '2023-07-18 10:31:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-185 - Kennels and Animal Shelters', 198, '2023-08-31 06:00:40', 'uno', '2023-08-23 14:41:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-060 - Theater and Stage Equipment', 101, '2024-01-14 09:19:13', 'uno', '2023-07-21 03:59:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-150 - Swimming Pools', 107, '2024-01-06 14:08:49', 'uno', '2023-10-29 01:20:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-800 - Masonry Assemblies', 70, '2023-02-10 06:33:20', 'uno', '2023-08-11 02:43:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-450 - Pedestrian Control Devices', 7, '2023-04-26 22:26:19', 'uno', '2023-09-29 12:22:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-230 - Site Clearing', 45, '2024-01-18 10:42:08', 'uno', '2023-04-06 16:59:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5 - Metals', 143, '2023-11-15 05:29:34', 'uno', '2023-03-15 02:05:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-800 - Masonry Assemblies', 134, '2024-01-15 22:51:51', 'uno', '2023-06-22 14:04:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-110 - Commercial Laundry and Dry Cleaning Equipment', 75, '2023-03-21 08:45:23', 'uno', '2023-08-27 19:32:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-300 - Specialty Doors', 138, '2023-10-10 07:17:53', 'uno', '2023-12-09 23:38:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-904 - Hazardous Materials Removal and Disposal', 84, '2023-10-26 05:21:05', 'uno', '2023-06-03 20:00:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-050 - Basic Masonry Materials and Methods', 23, '2023-02-21 08:25:03', 'uno', '2023-09-15 22:21:10', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-080 - Sound, Vibration, and Seismic Control', 110, '2024-01-15 00:38:03', 'uno', '2023-04-21 07:27:22', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-824 - Wire Fences and Gates', 197, '2023-04-10 04:30:28', 'uno', '2023-05-04 17:15:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-300 - Tile', 144, '2023-04-15 14:46:24', 'uno', '2023-03-27 10:33:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-020 - Building Modules', 119, '2023-04-30 16:41:43', 'uno', '2023-03-04 18:57:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-050 - Basic Door and Window Materials and Methods', 64, '2024-01-20 10:48:32', 'uno', '2023-07-30 05:37:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 41, '2023-04-06 17:56:49', 'uno', '2023-10-15 04:34:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-200 - Elevators', 60, '2023-07-10 17:51:16', 'uno', '2023-09-05 11:23:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 131, '2023-08-23 01:32:25', 'uno', '2023-09-30 11:32:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 137, '2023-12-03 16:59:31', 'uno', '2023-08-02 04:14:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-542 - Construction Scaffolding and Platforms', 155, '2023-09-15 16:48:37', 'uno', '2023-07-15 09:53:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-150 - Compartments and Cubicles', 9, '2023-10-01 03:11:45', 'uno', '2024-01-16 20:50:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-917 - Soil Preparation', 108, '2024-01-16 23:17:11', 'uno', '2023-10-07 16:51:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-630 - Product Substitution Procedures', 99, '2024-01-15 00:35:10', 'uno', '2023-12-19 06:36:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-000 - General', 31, '2024-01-02 09:19:00', 'uno', '2023-02-13 13:52:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-795 - Porous Paving', 170, '2023-03-09 18:41:40', 'uno', '2023-08-11 17:22:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-500 - Industrial and Process Equipment', 169, '2023-10-26 00:25:00', 'uno', '2023-06-19 18:45:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-870 - Sculpture/Ornamental', 198, '2023-07-15 22:41:18', 'uno', '2023-02-21 10:31:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-316 - Backfilling', 130, '2023-04-27 07:48:48', 'uno', '2023-05-25 21:22:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-010 - Air-Supported Structures', 23, '2023-10-09 07:05:18', 'uno', '2023-09-14 01:43:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-700 - Communications', 151, '2023-06-13 02:00:38', 'uno', '2023-06-14 16:02:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-700 - Wall Finishes', 91, '2023-05-16 20:04:27', 'uno', '2023-11-06 22:50:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-700 - Security Access and Surveillance', 111, '2023-06-08 21:30:51', 'uno', '2023-04-07 19:29:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-220 - Filter Underdrains and Media', 191, '2023-08-01 19:51:31', 'uno', '2023-03-29 17:02:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-700 - Wall Finishes', 110, '2023-09-20 23:32:45', 'uno', '2024-01-06 00:24:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-362 - Termite Control', 33, '2023-08-09 10:05:17', 'uno', '2023-03-15 04:19:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-600 - Solar and Wind Energy Equipment', 136, '2023-03-03 00:39:17', 'uno', '2024-01-17 15:32:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-010 - Maintenance Equipment', 154, '2023-12-27 04:23:00', 'uno', '2023-08-02 11:16:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-700 - Medical Equipment', 68, '2023-07-15 11:41:13', 'uno', '2023-03-30 18:58:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-200 - Louvers and Vents', 133, '2023-03-24 07:50:01', 'uno', '2023-03-28 09:43:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 97, '2024-01-27 22:56:27', 'uno', '2023-08-06 15:09:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-050 - Basic Thermal and Moisture Protection Materials and Methods', 104, '2024-01-02 02:57:05', 'uno', '2024-01-08 22:01:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-700 - Systems Furniture', 26, '2023-10-07 02:36:53', 'uno', '2023-06-17 08:48:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-600 - Flashing and Sheet Metal', 49, '2024-01-01 10:30:25', 'uno', '2023-08-01 08:03:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-784 - Stone Unit Pavers', 142, '2023-12-02 08:10:59', 'uno', '2023-03-03 01:10:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4 - Masonry', 3, '2023-04-23 00:39:53', 'uno', '2023-02-28 17:34:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 35, '2023-09-05 10:17:58', 'uno', '2023-11-28 16:13:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-850 - Navigation Equipment', 129, '2023-03-16 20:27:47', 'uno', '2023-09-23 12:37:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-100 - Visual Display Boards', 185, '2023-02-20 04:54:05', 'uno', '2023-07-03 02:10:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2 - Site Construction', 51, '2023-06-18 17:34:01', 'uno', '2023-04-08 11:03:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7 - Thermal and Moisture Protection', 187, '2023-07-08 07:47:54', 'uno', '2023-06-09 14:48:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-315 - Excavation', 23, '2024-01-23 02:40:31', 'uno', '2023-07-22 02:35:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-040 - Ecclesiastical Equipment', 189, '2023-10-31 00:00:46', 'uno', '2023-05-14 08:11:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-400 - Terrazzo', 72, '2023-03-12 00:46:28', 'uno', '2023-09-19 17:15:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 157, '2023-12-24 17:21:24', 'uno', '2023-08-19 11:03:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-030 - Bond', 71, '2024-01-16 15:48:22', 'uno', '2023-08-12 00:29:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-200 - Metal Joists', 197, '2023-08-24 18:29:12', 'uno', '2023-06-30 16:23:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-542 - Construction Scaffolding and Platforms', 196, '2023-10-07 14:53:27', 'uno', '2023-02-05 01:12:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-600 - Solar and Wind Energy Equipment', 20, '2023-12-19 08:11:53', 'uno', '2023-12-20 19:49:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-050 - Concrete Subcontractor', 160, '2023-04-12 23:17:21', 'uno', '2023-02-09 10:59:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-010 - Contingency', 38, '2023-06-04 06:52:04', 'uno', '2024-01-29 11:11:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-630 - Product Substitution Procedures', 59, '2024-01-16 02:35:36', 'uno', '2023-04-03 15:54:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-050 - Fabrics', 51, '2023-02-13 12:47:01', 'uno', '2023-11-22 17:13:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-700 - Ornamental Metal', 133, '2023-03-15 14:25:40', 'uno', '2023-06-14 05:55:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11 - Equipment', 75, '2023-10-26 23:46:18', 'uno', '2023-08-09 19:39:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-600 - Flooring', 178, '2024-01-26 08:24:31', 'uno', '2023-04-02 07:21:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8 - Doors and Windows', 150, '2023-12-14 03:27:23', 'uno', '2023-09-29 14:26:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-220 - Filter Underdrains and Media', 120, '2023-05-08 14:06:11', 'uno', '2023-06-03 20:09:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-370 - Erosion and Sedimentation Control', 57, '2023-07-21 10:56:18', 'uno', '2023-02-19 00:54:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-050 - Basic Finish Materials and Methods', 98, '2023-08-02 07:23:47', 'uno', '2023-07-15 00:33:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-000 - General', 91, '2023-10-14 01:33:59', 'uno', '2024-01-21 05:47:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-500 - Temporary Facilities and Controls', 198, '2023-06-19 02:59:33', 'uno', '2023-08-31 21:57:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 50, '2023-12-04 15:17:43', 'uno', '2023-08-29 18:11:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 193, '2023-06-13 12:58:49', 'uno', '2023-05-31 13:38:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16 - Electrical', 187, '2023-10-07 08:21:15', 'uno', '2023-07-14 12:10:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-050 - Basic Electrical Materials and Methods', 51, '2023-08-02 08:02:36', 'uno', '2023-10-17 08:34:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-600 - Multiple Seating', 129, '2023-11-23 03:27:33', 'uno', '2023-05-26 22:57:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-813 - Lawn Sprinkling and Irrigation', 155, '2024-01-22 14:23:39', 'uno', '2024-01-27 01:34:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 20, '2023-12-26 04:47:26', 'uno', '2023-03-28 07:36:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 39, '2023-07-25 01:15:30', 'uno', '2023-07-27 08:04:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-712 - Local Conditions', 191, '2023-09-27 08:44:45', 'uno', '2023-06-12 01:59:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7 - Thermal and Moisture Protection', 78, '2023-09-23 11:11:13', 'uno', '2024-01-10 06:19:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-523 - Sanitary Facilities', 200, '2023-05-04 14:03:57', 'uno', '2023-03-16 18:03:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-350 - Concrete Finishing', 169, '2023-05-30 11:38:23', 'uno', '2023-10-30 01:17:29', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-850 - Navigation Equipment', 198, '2023-09-18 18:35:00', 'uno', '2023-08-21 12:36:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-080 - Registration Equipment', 63, '2024-01-16 12:30:56', 'uno', '2023-07-05 19:25:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-280 - Hydraulic Gates and Valves', 191, '2023-08-12 13:59:24', 'uno', '2023-03-14 19:53:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1 - General Requirements', 60, '2024-01-04 09:12:26', 'uno', '2023-09-10 03:36:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-580 - Project Identification', 51, '2024-01-28 22:27:57', 'uno', '2023-07-06 10:39:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11 - Equipment', 73, '2023-10-01 11:46:55', 'uno', '2023-08-27 15:26:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-790 - Athletic Surfacing', 92, '2023-08-09 06:10:12', 'uno', '2023-03-10 00:27:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-400 - Architectural Woodwork', 95, '2023-07-06 14:09:52', 'uno', '2023-11-02 07:43:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-315 - Excavation', 165, '2023-11-25 15:32:45', 'uno', '2023-12-18 15:11:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-700 - Simulated Masonry', 166, '2023-07-02 04:46:53', 'uno', '2023-11-08 06:29:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-400 - Lifts', 39, '2023-06-05 05:38:51', 'uno', '2023-06-26 20:32:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-200 - Site Preparation', 72, '2023-10-20 20:06:51', 'uno', '2024-01-06 12:28:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-795 - Porous Paving', 59, '2023-05-09 09:25:45', 'uno', '2023-08-15 20:13:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-600 - Corrosion-Resistant Masonry', 98, '2023-07-27 03:50:29', 'uno', '2023-08-24 05:59:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-600 - Plastic Fabrications', 153, '2023-11-24 10:54:23', 'uno', '2023-11-21 00:13:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-300 - Specialty Doors', 53, '2023-04-21 08:32:03', 'uno', '2023-08-10 06:20:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-260 - Excavation Support and Protection', 86, '2023-08-25 21:51:17', 'uno', '2023-09-06 22:14:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-932 - PLants and Bulbs', 174, '2023-08-28 14:20:41', 'uno', '2023-04-27 06:19:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-020 - Insurance', 74, '2023-12-30 22:58:38', 'uno', '2023-08-11 07:59:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-160 - Aquariums', 185, '2023-11-30 08:58:59', 'uno', '2023-08-14 18:17:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 139, '2023-02-09 05:57:11', 'uno', '2023-07-14 22:45:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-500 - Metal Fabrications', 121, '2023-09-17 03:35:25', 'uno', '2023-08-14 08:45:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 38, '2023-05-18 17:11:24', 'uno', '2023-05-06 00:03:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-300 - Earthwork', 17, '2023-05-01 05:58:05', 'uno', '2023-09-25 10:03:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9 - Finishes', 45, '2023-12-15 21:35:35', 'uno', '2023-05-16 20:29:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-460 - Unit Kitchens', 70, '2023-09-24 13:42:49', 'uno', '2023-04-26 05:24:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-200 - Storage Tanks', 53, '2023-12-18 19:07:17', 'uno', '2023-09-14 08:20:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 56, '2023-08-01 14:43:04', 'uno', '2023-08-28 19:27:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-220 - Site Demolition', 199, '2023-02-23 13:33:55', 'uno', '2023-05-10 15:58:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-700 - Execution Requirements', 168, '2023-07-15 22:03:16', 'uno', '2023-07-22 02:25:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 23, '2023-11-18 09:13:02', 'uno', '2023-10-09 02:35:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-400 - Entrances and Storefronts', 94, '2023-05-09 01:53:58', 'uno', '2023-08-08 12:06:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-600 - Refrigeration Equipment', 111, '2023-07-30 00:14:32', 'uno', '2023-06-01 00:00:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-580 - Project Identification', 58, '2023-12-02 22:43:52', 'uno', '2023-04-29 10:20:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 14, '2023-11-24 20:49:09', 'uno', '2023-09-10 22:24:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 29, '2023-12-09 00:53:10', 'uno', '2024-01-22 06:34:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-700 - Heating, Venting and Air Conditioning', 191, '2023-03-27 20:59:10', 'uno', '2023-08-29 15:39:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 9, '2024-01-11 00:02:48', 'uno', '2023-07-25 11:43:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-813 - Lawn Sprinkling and Irrigation', 70, '2023-03-06 05:11:41', 'uno', '2023-04-12 03:25:16', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-850 - Bridges/Footbridges', 137, '2023-05-01 03:32:21', 'uno', '2023-05-13 10:15:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-011 - Project Engineer', 109, '2024-01-29 10:50:12', 'uno', '2023-07-06 13:09:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5 - Metals', 197, '2023-02-23 10:11:31', 'uno', '2023-07-01 22:39:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-290 - Pest Control', 42, '2023-08-31 13:59:44', 'uno', '2023-03-23 11:59:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-540 - Construction Aids', 157, '2023-08-06 20:57:19', 'uno', '2023-06-15 19:00:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-740 - Flexible Pavement Asphalt Pavement', 65, '2023-09-22 18:54:31', 'uno', '2023-04-25 19:48:50', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 32, '2023-10-31 14:53:15', 'uno', '2023-08-28 05:44:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-630 - Product Substitution Procedures', 173, '2023-08-07 13:23:52', 'uno', '2023-09-27 07:17:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-290 - Pest Control', 123, '2023-02-28 21:34:31', 'uno', '2023-06-13 22:51:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-712 - Local Conditions', 51, '2023-02-23 14:40:24', 'uno', '2023-11-05 04:35:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-050 - Basic Thermal and Moisture Protection Materials and Methods', 169, '2024-01-07 03:01:52', 'uno', '2023-09-25 10:20:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-030 - Teller and Service Equipment', 166, '2023-02-05 19:52:15', 'uno', '2023-06-20 17:46:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17 - Markup and Contingency', 130, '2023-04-22 07:39:34', 'uno', '2023-04-27 17:35:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-500 - Utility Services', 33, '2023-03-22 04:39:18', 'uno', '2023-10-30 01:48:25', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 116, '2023-08-28 15:47:05', 'uno', '2024-01-21 22:19:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12 - Furnishings', 122, '2023-10-18 15:22:57', 'uno', '2023-03-26 21:28:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-100 - Doors', 117, '2023-03-28 11:53:18', 'uno', '2023-08-02 23:38:28', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-175 - Ice Rinks', 42, '2023-08-04 21:17:10', 'uno', '2023-04-14 13:06:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-185 - Kennels and Animal Shelters', 114, '2023-12-28 05:32:08', 'uno', '2023-02-04 14:31:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-400 - Food Service Equipment', 60, '2023-04-21 09:57:03', 'uno', '2023-04-11 15:57:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-830 - Retaining Walls', 140, '2023-04-04 17:28:24', 'uno', '2024-01-26 02:46:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-784 - Stone Unit Pavers', 131, '2023-10-12 12:01:44', 'uno', '2024-01-22 16:14:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-900 - Metal Restoration and Cleaning', 136, '2023-03-29 08:46:46', 'uno', '2023-06-27 18:19:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-000 - Purpose', 23, '2023-09-16 09:09:47', 'uno', '2023-02-28 08:10:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-500 - Windows', 141, '2023-02-23 13:30:30', 'uno', '2023-04-25 23:18:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-280 - Hazardous Material Remediation', 193, '2023-12-17 05:18:18', 'uno', '2023-10-11 20:09:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-900 - Glazed Curtain Wall', 155, '2023-06-07 13:11:12', 'uno', '2023-04-21 18:10:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-100 - Visual Display Boards', 188, '2023-12-23 06:57:28', 'uno', '2023-10-08 07:42:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3 - Concrete', 9, '2024-01-29 01:02:19', 'uno', '2023-11-12 19:36:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-600 - Grouts', 129, '2024-01-15 02:36:40', 'uno', '2024-01-15 09:51:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 161, '2023-09-19 23:16:25', 'uno', '2023-02-19 05:23:53', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2 - Site Construction', 82, '2023-04-04 04:51:58', 'uno', '2023-04-24 01:44:34', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-900 - Wood and Plastic Restoration and Cleaning', 70, '2023-09-04 15:35:39', 'uno', '2023-04-14 00:33:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-700 - Roof Specialties and Accessories', 192, '2023-09-21 11:52:04', 'uno', '2023-05-30 16:33:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-700 - Systems Furniture', 135, '2023-07-16 07:21:37', 'uno', '2023-04-25 21:23:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-600 - Hydraulic Fabrications', 135, '2023-09-27 13:10:18', 'uno', '2023-02-14 21:16:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-160 - Aquariums', 118, '2023-07-23 17:30:34', 'uno', '2023-03-03 02:42:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17-010 - Contingency', 162, '2023-10-22 00:38:39', 'uno', '2023-07-26 02:45:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-500 - Membrane Roofing', 120, '2023-11-05 04:52:05', 'uno', '2023-05-26 13:49:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-500 - Heat-Generation Equipment', 193, '2023-09-29 15:17:38', 'uno', '2023-07-11 06:51:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-300 - Escalators and Moving Walks', 149, '2023-09-18 14:51:28', 'uno', '2023-09-27 20:10:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 97, '2023-12-31 00:54:37', 'uno', '2023-02-04 18:07:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-700 - Turntables', 104, '2023-03-30 06:26:41', 'uno', '2023-04-15 19:08:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6-500 - Structural Plastics', 178, '2024-01-24 03:03:25', 'uno', '2023-06-26 10:35:38', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-680 - Carpet', 128, '2023-05-03 15:50:18', 'uno', '2023-04-04 08:42:07', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-130 - Audio-Visual Equipment', 176, '2023-04-13 14:56:25', 'uno', '2023-11-01 02:04:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('12-600 - Multiple Seating', 88, '2023-06-19 04:35:03', 'uno', '2023-11-06 01:54:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-050 - Basic Metal Materials and Methods', 144, '2023-07-10 04:59:54', 'uno', '2024-02-02 22:29:36', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-930 - Exterior Plants', 38, '2023-05-15 08:10:27', 'uno', '2023-10-05 19:11:39', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-821 - Chain Link Fences', 77, '2023-02-10 10:19:19', 'uno', '2024-01-11 12:12:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3 - Concrete', 149, '2023-05-02 18:31:45', 'uno', '2023-08-01 22:14:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-903 - Hazardous Materials Abatement', 59, '2023-02-23 13:57:47', 'uno', '2023-12-02 22:04:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-450 - Pedestrian Control Devices', 117, '2023-08-12 22:22:51', 'uno', '2023-06-02 10:41:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-800 - Building Automation and Control', 26, '2023-06-29 10:53:07', 'uno', '2023-09-23 18:23:13', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-812 - Drip Irrigation', 115, '2023-05-02 06:21:29', 'uno', '2023-04-10 11:57:21', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-220 - Filter Underdrains and Media', 31, '2023-11-21 10:11:19', 'uno', '2023-12-18 11:14:26', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-320 - Slab Foundations', 175, '2023-09-03 15:30:35', 'uno', '2023-05-08 01:29:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 199, '2023-08-07 06:51:31', 'uno', '2023-05-12 04:27:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-400 - Food Service Equipment', 128, '2023-04-02 15:47:00', 'uno', '2023-10-17 11:16:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-300 - Fireplaces and Stoves', 199, '2023-04-02 16:02:47', 'uno', '2023-12-08 13:55:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 185, '2023-10-01 20:56:19', 'uno', '2023-06-13 19:02:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7 - Thermal and Moisture Protection', 40, '2023-12-26 15:04:07', 'uno', '2023-03-08 19:14:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-900 - Masonry Restoration and Cleaning', 96, '2023-05-27 18:21:54', 'uno', '2023-08-19 12:35:17', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-823 - PVC Fences and Gates', 23, '2024-01-02 22:57:56', 'uno', '2023-06-22 22:31:54', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-002 - Instructions', 192, '2023-11-16 22:24:16', 'uno', '2023-11-26 04:41:44', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-250 - Shoring and Underpinning', 114, '2023-02-25 21:49:46', 'uno', '2023-12-11 04:04:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-923 - Seeding and Soil Supplements', 114, '2024-02-01 19:22:11', 'uno', '2023-02-23 10:22:23', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-110 - Commercial Laundry and Dry Cleaning Equipment', 123, '2023-04-20 07:29:50', 'uno', '2023-02-21 12:17:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-600 - Flooring', 53, '2023-04-29 20:12:49', 'uno', '2023-05-15 19:37:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-200 - Site Preparation', 81, '2023-06-30 16:24:53', 'uno', '2023-09-18 10:16:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-300 - Specialty Doors', 196, '2023-10-28 13:53:39', 'uno', '2023-12-04 04:40:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('6 - Wood and Plastics', 194, '2024-01-25 14:33:11', 'uno', '2023-06-03 21:41:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-400 - Food Service Equipment', 170, '2023-05-16 05:39:28', 'uno', '2023-10-12 22:18:19', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-100 - Electrical', 182, '2023-07-15 03:55:53', 'uno', '2023-09-30 03:38:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-630 - Product Substitution Procedures', 186, '2023-04-12 00:16:47', 'uno', '2023-11-24 22:24:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-800 - Glazing', 25, '2023-10-23 10:57:00', 'uno', '2023-03-09 17:46:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-500 - Metal Fabrications', 24, '2023-04-09 02:16:07', 'uno', '2023-07-01 10:59:18', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-400 - Roofing and Siding Panels', 45, '2023-02-06 14:11:43', 'uno', '2023-11-12 08:03:05', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-500 - Temporary Facilities and Controls', 185, '2023-04-29 07:33:16', 'uno', '2023-09-29 19:37:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-660 - Observatory Equipment', 10, '2023-12-24 01:08:02', 'uno', '2024-01-17 02:48:32', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-230 - Site Clearing', 92, '2023-05-16 23:34:47', 'uno', '2023-05-19 00:45:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-932 - PLants and Bulbs', 42, '2023-08-04 19:26:47', 'uno', '2023-04-20 03:40:35', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-230 - Anchor Bolts', 40, '2023-10-10 19:19:21', 'uno', '2023-07-14 04:07:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-670 - Storage Shelving', 59, '2023-07-11 06:38:17', 'uno', '2023-03-16 10:57:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('16-800 - Sound and Video', 180, '2023-04-07 00:50:37', 'uno', '2023-07-14 13:44:58', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15 - Mechanical', 143, '2023-04-18 11:44:52', 'uno', '2024-01-18 16:53:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-010 - Air-Supported Structures', 124, '2023-04-23 15:30:04', 'uno', '2023-10-27 13:15:24', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-317 - Select Borrow', 156, '2023-10-06 02:44:40', 'uno', '2023-04-24 19:03:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-110 - Commercial Laundry and Dry Cleaning Equipment', 132, '2023-11-25 05:53:31', 'uno', '2023-07-14 09:51:08', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-750 - Telephone Specialties', 168, '2023-09-25 10:21:46', 'uno', '2023-05-09 08:55:02', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-110 - Cathodic Protection', 148, '2023-11-14 07:25:31', 'uno', '2023-10-24 04:53:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-260 - Sludge Conditioning Systems', 142, '2023-04-27 08:24:46', 'uno', '2023-09-18 09:12:20', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-100 - Concrete Reinforcement', 134, '2023-09-26 10:28:11', 'uno', '2024-01-01 15:36:01', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-470 - Darkroom Equipment', 116, '2023-04-05 09:47:16', 'uno', '2023-03-01 07:11:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-050 - Concrete Subcontractor', 9, '2023-08-28 20:50:29', 'uno', '2023-12-19 11:24:42', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-190 - Detention Equipment', 192, '2023-08-01 18:51:17', 'uno', '2023-07-28 00:46:56', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-600 - Refrigeration Equipment', 144, '2023-06-10 23:19:33', 'uno', '2023-07-03 15:22:37', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-330 - Poured Concrete Basement Walls', 74, '2023-08-15 08:16:14', 'uno', '2023-12-18 07:01:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-800 - Glazing', 108, '2023-10-28 03:40:44', 'uno', '2023-02-28 05:38:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-700 - Security Access and Surveillance', 155, '2024-01-06 03:28:05', 'uno', '2024-02-02 13:37:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-500 - Refractories', 30, '2023-09-10 05:50:20', 'uno', '2023-09-29 10:13:30', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-500 - Cementitious Decks and Underlayments', 188, '2023-11-22 07:32:33', 'uno', '2023-08-26 22:28:47', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 76, '2023-05-31 17:35:46', 'uno', '2023-08-24 06:11:41', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-600 - Laboratory Equipment', 188, '2023-05-11 05:02:56', 'uno', '2023-06-15 13:37:03', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('11-030 - Teller and Service Equipment', 46, '2023-06-22 23:54:14', 'uno', '2023-04-16 23:55:15', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-200 - Louvers and Vents', 150, '2023-08-27 11:11:04', 'uno', '2023-10-06 12:44:59', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-600 - Flooring', 154, '2023-03-14 21:55:36', 'uno', '2023-09-11 06:51:48', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('15-100 - Plumbing', 128, '2023-10-02 11:36:53', 'uno', '2024-01-16 05:25:57', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('5-100 - Structural Metals', 124, '2023-02-15 21:53:00', 'uno', '2023-09-15 17:36:09', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('3-350 - Concrete Finishing', 58, '2023-08-16 08:32:22', 'uno', '2023-05-19 19:22:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-550 - Transportation Control Instrumentation', 82, '2023-10-03 20:36:32', 'uno', '2024-01-13 09:50:27', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-317 - Select Borrow', 76, '2023-08-01 04:37:13', 'uno', '2023-09-09 00:17:49', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17 - Markup and Contingency', 189, '2023-12-03 12:19:43', 'uno', '2024-01-27 02:58:06', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-110 - Cathodic Protection', 54, '2023-02-06 01:31:48', 'uno', '2023-11-07 16:45:46', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13 - Special Construction', 107, '2023-10-14 06:11:14', 'uno', '2023-04-18 18:48:11', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-700 - Hardware', 92, '2024-02-01 00:21:12', 'uno', '2023-09-22 18:09:52', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13 - Special Construction', 99, '2023-07-15 12:17:25', 'uno', '2023-05-08 06:43:45', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-012 - Superintendent', 18, '2023-09-02 12:26:21', 'uno', '2023-06-22 12:20:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-300 - Escalators and Moving Walks', 125, '2024-01-31 20:53:35', 'uno', '2024-01-15 14:57:14', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('17 - Markup and Contingency', 70, '2023-05-01 12:59:46', 'uno', '2023-03-16 02:48:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-200 - Thermal Protection - Insulation', 108, '2023-07-04 02:57:06', 'uno', '2023-04-23 22:27:55', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('7-200 - Thermal Protection - Insulation', 64, '2023-12-21 08:49:05', 'uno', '2024-01-18 21:52:51', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('8-400 - Entrances and Storefronts', 101, '2023-06-30 03:30:55', 'uno', '2023-12-09 07:06:12', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('10-500 - Lockers', 158, '2023-10-29 11:48:52', 'uno', '2023-10-08 19:58:33', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('2-830 - Retaining Walls', 78, '2023-04-03 08:01:55', 'uno', '2023-07-17 09:44:43', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('13-500 - Recording Instrumentation', 61, '2024-01-06 00:16:34', 'uno', '2023-09-25 07:51:00', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('14-800 - Scaffolding', 128, '2023-10-07 11:43:33', 'uno', '2023-06-27 15:52:04', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('9-600 - Flooring', 49, '2023-03-06 23:38:53', 'uno', '2024-01-09 04:40:40', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('1-517 - Temporary Telephone', 77, '2023-08-16 18:29:50', 'uno', '2023-03-01 10:37:31', 'uno');
-insert into ARTICLE_COMMENT (content, article_id, created_at, created_by, modified_at, modified_by) values ('4-050 - Basic Masonry Materials and Methods', 43, '2023-07-24 00:29:32', 'uno', '2023-09-07 18:24:59', 'uno');
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '#pink', 'Kamilah', 'Murial', '2021-05-30 23:53:46', '2021-03-10 08:48:50'),
+(1, 'Morbi ut odio.', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.
+
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '#purple', 'Arv', 'Keelby', '2021-05-06 11:51:24', '2021-05-23 08:34:54'),
+(1, 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '#purple', 'Adams', 'Thalia', '2021-08-13 08:32:22', '2021-04-02 02:58:19'),
+(1, 'Fusce posuere felis sed lacus.', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '#mauv', 'Johny', 'Constantin', '2021-09-05 04:28:16', '2021-10-31 17:46:08'),
+(1, 'Aliquam erat volutpat.', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '#green', 'Karlene', 'Marmaduke', '2022-01-25 16:10:23', '2021-11-08 08:47:03'),
+(1, 'Donec ut mauris eget massa tempor convallis.', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#maroon', 'Alonso', 'Eustacia', '2022-01-26 06:33:42', '2021-12-08 11:27:30'),
+(1, 'Nullam molestie nibh in lectus.', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '#orange', 'Dedra', 'Wilek', '2021-05-04 19:51:29', '2021-10-09 16:52:09'),
+(1, 'Sed ante.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '#teal', 'Doe', 'Jodi', '2021-10-23 23:45:21', '2021-08-05 14:19:36'),
+(1, 'In hac habitasse platea dictumst.', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '#khaki', 'Fitz', 'Jemmie', '2021-01-10 21:03:03', '2021-04-15 05:02:39'),
+(1, 'Vivamus in felis eu sapien cursus vestibulum.', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#puce', 'Grace', 'Bryn', '2021-09-28 07:01:29', '2021-09-01 13:54:55'),
+(1, 'Morbi a ipsum.', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '#orange', 'Lalo', 'Lorrie', '2022-01-26 03:40:15', '2021-07-18 05:30:34'),
+(1, 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '#purple', 'Jane', 'Tresa', '2021-07-22 22:25:07', '2021-05-16 14:20:27'),
+(1, 'Duis at velit eu est congue elementum.', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '#maroon', 'Cookie', 'Rosalia', '2021-02-20 10:06:13', '2021-10-10 06:05:30'),
+(1, 'In hac habitasse platea dictumst.', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', null, 'Gerti', 'Everard', '2021-08-17 15:14:51', '2021-10-01 13:01:41'),
+(1, 'Nulla suscipit ligula in lacus.', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '#khaki', 'Adolf', 'Tiff', '2021-12-03 03:44:00', '2021-07-12 00:20:12'),
+(1, 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.', null, 'Vivyanne', 'Humbert', '2021-08-11 04:04:05', '2021-09-05 17:15:51'),
+(1, 'Donec semper sapien a libero.', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', null, 'Ki', 'Ophelia', '2021-12-21 13:27:54', '2021-05-07 08:06:52'),
+(1, 'Quisque id justo sit amet sapien dignissim vestibulum.', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '#goldenrod', 'Jackelyn', 'Vlad', '2021-06-29 13:00:35', '2021-05-11 00:47:43'),
+(1, 'Morbi quis tortor id nulla ultrices aliquet.', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '#yellow', 'Jesus', 'Peri', '2021-06-18 20:56:37', '2021-07-05 18:44:15'),
+(1, 'In sagittis dui vel nisl.', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '#orange', 'Abbot', 'Carolann', '2021-06-16 12:20:50', '2021-01-26 02:34:46'),
+(1, 'Integer non velit.', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.', '#fuscia', 'Shae', 'Rhody', '2021-01-14 23:22:59', '2022-01-31 12:02:00'),
+(1, 'Quisque id justo sit amet sapien dignissim vestibulum.', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '#puce', 'Dominik', 'Enos', '2021-12-17 17:42:09', '2021-06-28 19:55:49'),
+(1, 'Nullam varius.', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.', null, 'Sheila-kathryn', 'Lil', '2021-06-11 13:47:12', '2021-11-30 13:45:21'),
+(1, 'Sed ante.', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '#teal', 'Moina', 'Coletta', '2021-09-01 00:39:21', '2021-06-20 13:09:41'),
+(1, 'Morbi non lectus.', 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.', '#fuscia', 'Niel', 'Alexio', '2021-04-13 02:59:34', '2021-01-26 00:43:20'),
+(1, 'Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '#maroon', 'Gannie', 'Alicea', '2021-05-18 21:27:32', '2021-04-26 23:42:00'),
+(1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '#teal', 'Burg', 'Saudra', '2022-01-09 16:49:14', '2021-01-30 05:24:22'),
+(1, 'Nulla justo.', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '#turquoise', 'Monah', 'Alexandro', '2021-08-25 08:42:32', '2021-06-24 17:50:44'),
+(1, 'Pellentesque viverra pede ac diam.', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '#fuscia', 'Tadeas', 'Lynnelle', '2021-04-16 16:05:00', '2021-11-18 17:42:45'),
+(1, 'Curabitur gravida nisi at nibh.', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', null, 'Clim', 'Carin', '2021-11-14 22:48:52', '2021-01-15 04:11:23'),
+(1, 'Duis aliquam convallis nunc.', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '#blue', 'Vonnie', 'Amery', '2021-07-07 06:30:56', '2021-06-21 07:33:19'),
+(1, 'Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
+
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '#yellow', 'Billi', 'Laure', '2021-10-22 11:07:01', '2022-01-24 21:15:02'),
+(1, 'Donec semper sapien a libero.', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '#pink', 'Terese', 'Dalli', '2021-07-04 02:06:12', '2021-10-27 03:27:56'),
+(1, 'Phasellus in felis.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '#goldenrod', 'Arlen', 'Francoise', '2021-03-06 10:32:19', '2021-09-16 12:49:52'),
+(1, 'Etiam vel augue.', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '#blue', 'Roderich', 'Daphna', '2021-07-29 05:37:58', '2021-09-09 14:57:16'),
+(1, 'In hac habitasse platea dictumst.', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.', null, 'Jeremy', 'Allx', '2021-03-29 02:31:37', '2021-10-04 04:51:02'),
+(1, 'Nunc purus.', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '#purple', 'Neely', 'Hubey', '2021-12-09 23:08:51', '2022-01-19 22:52:00'),
+(1, 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.', 'Fusce consequat. Nulla nisl. Nunc nisl.
+
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.', '#green', 'Kasper', 'Nealy', '2021-01-06 11:57:12', '2021-09-22 23:51:12'),
+(1, 'Curabitur at ipsum ac tellus semper interdum.', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', null, 'Herminia', 'Alexandra', '2022-01-24 16:01:31', '2021-09-04 09:45:28'),
+(1, 'Morbi non lectus.', 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '#turquoise', 'Dionne', 'Arvy', '2021-04-07 19:45:14', '2021-05-04 04:31:17'),
+(1, 'Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', null, 'Armin', 'Hetti', '2021-12-13 04:47:57', '2021-11-21 10:40:03'),
+(1, 'Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', '#fuscia', 'Eamon', 'Alberta', '2021-01-14 18:42:07', '2021-08-08 01:49:02'),
+(1, 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.', '#violet', 'Udale', 'Steffane', '2021-01-09 05:17:28', '2022-01-07 13:29:29'),
+(1, 'Ut tellus.', 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', null, 'Jackie', 'Emelda', '2021-11-20 09:06:53', '2021-06-29 21:11:43'),
+(1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '#red', 'Judye', 'Hulda', '2022-01-31 02:12:17', '2021-11-13 04:25:33'),
+(1, 'Donec quis orci eget orci vehicula condimentum.', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.', null, 'Hana', 'Anabel', '2021-05-19 15:38:50', '2021-09-18 12:45:53'),
+(1, 'Pellentesque eget nunc.', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '#purple', 'Gil', 'Gerri', '2021-07-13 02:04:06', '2021-04-28 03:43:55'),
+(1, 'Nam dui.', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '#crimson', 'Peyton', 'Leena', '2021-01-09 14:46:57', '2021-10-20 07:05:55'),
+(1, 'Morbi a ipsum.', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.', '#indigo', 'Pepillo', 'Bride', '2021-07-23 15:14:41', '2021-07-29 20:10:02'),
+(1, 'Aenean auctor gravida sem.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '#khaki', 'Tull', 'Tracee', '2021-03-01 23:36:57', '2021-04-20 05:54:22'),
+(1, 'Morbi quis tortor id nulla ultrices aliquet.', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', null, 'Gregorius', 'Marlane', '2021-08-16 16:20:12', '2021-09-28 15:21:22'),
+(1, 'Nulla nisl.', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '#turquoise', 'Cindi', 'Cary', '2021-09-29 02:56:11', '2021-04-26 00:16:31'),
+(1, 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', null, 'Rachel', 'Maurise', '2021-11-05 23:17:06', '2021-06-02 11:12:17'),
+(1, 'Morbi non quam nec dui luctus rutrum.', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '#pink', 'Muriel', 'Ki', '2021-06-29 18:05:20', '2021-11-14 19:30:51'),
+(1, 'Phasellus in felis.', 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '#orange', 'Emanuele', 'Frank', '2021-01-13 10:45:47', '2022-01-07 02:08:42'),
+(1, 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', null, 'Arlen', 'Kelley', '2021-01-18 04:14:36', '2021-01-12 15:49:40'),
+(1, 'Nunc nisl.', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '#orange', 'Brant', 'Rycca', '2021-10-24 18:34:37', '2021-09-24 11:55:07'),
+(1, 'Nulla justo.', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '#pink', 'Glenn', 'Isaiah', '2021-12-27 21:37:13', '2021-06-21 11:23:36'),
+(1, 'Praesent lectus.', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#crimson', 'Doro', 'Adah', '2021-04-15 20:39:03', '2021-07-29 20:08:20'),
+(1, 'Etiam pretium iaculis justo.', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '#crimson', 'Coletta', 'Magdalene', '2021-11-14 13:15:09', '2021-10-13 16:51:20'),
+(1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.', '#teal', 'Miltie', 'Krissy', '2021-11-29 14:30:18', '2021-06-28 06:23:31'),
+(1, 'Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.', 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', null, 'Alvan', 'Stu', '2021-02-07 15:13:30', '2021-03-20 08:42:35'),
+(1, 'Maecenas tincidunt lacus at velit.', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '#violet', 'Lurleen', 'Sly', '2021-10-12 02:16:28', '2021-03-28 22:35:10'),
+(1, 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '#violet', 'Gus', 'Roy', '2021-04-30 18:14:12', '2021-08-07 12:28:47'),
+(1, 'Nulla facilisi.', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '#violet', 'Alfons', 'Meredith', '2021-11-30 09:26:07', '2021-05-25 03:28:14'),
+(1, 'Nunc nisl.', 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
+
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '#turquoise', 'Alaine', 'Kaile', '2021-05-19 04:01:38', '2022-01-20 20:21:15'),
+(1, 'Praesent blandit lacinia erat.', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+
+Sed ante. Vivamus tortor. Duis mattis egestas metus.', '#puce', 'Bancroft', 'Brittne', '2021-11-07 20:25:38', '2021-07-15 23:44:30'),
+(1, 'Quisque porta volutpat erat.', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#fuscia', 'Sibyl', 'Felicia', '2021-07-23 03:14:59', '2021-09-23 12:59:16'),
+(1, 'In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', null, 'Nikos', 'Brooks', '2021-05-26 23:29:09', '2021-10-30 22:20:34'),
+(1, 'Proin eu mi.', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.', '#puce', 'Christa', 'Avrom', '2021-01-03 15:19:52', '2021-07-26 09:56:42'),
+(1, 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#pink', 'Kassey', 'Abbi', '2021-10-23 18:21:35', '2021-08-12 08:13:10'),
+(1, 'Fusce posuere felis sed lacus.', 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '#fuscia', 'Thebault', 'Adi', '2021-04-23 16:56:09', '2022-01-14 06:35:51'),
+(1, 'Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+
+Phasellus in felis. Donec semper sapien a libero. Nam dui.', '#red', 'Claire', 'Alyson', '2021-06-05 04:03:52', '2021-04-21 16:51:40'),
+(1, 'Proin eu mi.', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', null, 'Rodrick', 'Judd', '2021-09-15 04:12:40', '2021-07-16 08:11:59'),
+(1, 'Cras in purus eu magna vulputate luctus.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.', '#turquoise', 'Heidi', 'Madlen', '2021-09-28 19:02:55', '2021-07-10 16:49:00'),
+(1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '#blue', 'Yasmeen', 'Edie', '2021-12-29 02:35:31', '2021-09-28 00:32:13'),
+(1, 'Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '#pink', 'Abbot', 'Nicoline', '2022-01-30 03:12:36', '2021-06-05 04:08:51'),
+(1, 'Nulla suscipit ligula in lacus.', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', null, 'Guthry', 'Darla', '2021-05-17 21:21:38', '2021-12-25 10:06:03'),
+(1, 'Maecenas rhoncus aliquam lacus.', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', null, 'Andris', 'Leigh', '2021-02-16 03:49:50', '2021-01-23 08:55:39'),
+(1, 'Vestibulum ac est lacinia nisi venenatis tristique.', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '#purple', 'Alika', 'Egbert', '2021-03-25 21:56:32', '2021-08-06 09:25:55'),
+(1, 'In congue.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '#violet', 'Rosaleen', 'Laurel', '2021-05-31 02:31:10', '2021-05-25 07:40:17'),
+(1, 'Nam tristique tortor eu pede.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.', '#turquoise', 'Rosie', 'Jeddy', '2021-04-21 13:04:12', '2021-12-21 21:27:10'),
+(1, 'In sagittis dui vel nisl.', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '#purple', 'Hermann', 'Dynah', '2021-08-11 15:17:07', '2021-07-26 14:59:15'),
+(1, 'Ut tellus.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.', '#crimson', 'Blanch', 'Florinda', '2021-04-07 02:11:09', '2021-03-11 07:18:08'),
+(1, 'Pellentesque at nulla.', 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', '#teal', 'Gleda', 'Ellary', '2021-02-09 04:55:31', '2021-06-03 13:44:00'),
+(1, 'Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '#red', 'Joete', 'Tedmund', '2021-02-24 21:47:59', '2021-03-26 22:36:33'),
+(1, 'Suspendisse potenti.', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', null, 'Jamie', 'Alexa', '2021-08-06 04:32:39', '2021-02-19 12:04:36'),
+(1, 'Nulla suscipit ligula in lacus.', 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '#violet', 'Doris', 'Mendel', '2021-09-17 11:09:35', '2021-05-08 09:41:26'),
+(1, 'Nulla ac enim.', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', null, 'Bartie', 'Tess', '2021-11-23 16:40:31', '2021-02-14 18:25:25'),
+(1, 'Morbi ut odio.', 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '#khaki', 'Sile', 'Bertram', '2021-07-05 03:55:44', '2021-04-26 06:11:20'),
+(1, 'Proin interdum mauris non ligula pellentesque ultrices.', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '#orange', 'Stillman', 'Robinett', '2021-01-28 08:36:31', '2022-01-22 04:26:21'),
+(1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '#purple', 'Teresa', 'Geordie', '2021-10-01 23:56:53', '2021-03-14 14:48:32'),
+(1, 'Vivamus in felis eu sapien cursus vestibulum.', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.', '#turquoise', 'Silvie', 'Ely', '2021-06-25 15:27:52', '2021-07-11 22:35:10'),
+(1, 'Sed ante.', 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '#turquoise', 'Marline', 'Avigdor', '2021-10-28 11:05:02', '2022-01-01 22:59:45'),
+(1, 'Morbi non quam nec dui luctus rutrum.', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.', '#fuscia', 'Bella', 'Redd', '2021-07-25 10:58:10', '2022-01-03 06:44:01'),
+(1, 'Donec ut mauris eget massa tempor convallis.', 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '#maroon', 'Rubie', 'Gallard', '2021-04-17 00:00:13', '2021-01-01 16:09:42'),
+(1, 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '#yellow', 'Meghan', 'Bone', '2021-10-01 06:58:34', '2021-08-06 07:47:53'),
+(1, 'Integer non velit.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '#orange', 'Meris', 'Griffin', '2021-04-19 01:54:16', '2021-04-23 08:04:24'),
+(1, 'Donec dapibus.', 'In congue. Etiam justo. Etiam pretium iaculis justo.
+
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '#violet', 'Amy', 'Tann', '2021-05-06 13:30:44', '2021-12-04 03:54:16'),
+(1, 'Duis at velit eu est congue elementum.', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '#crimson', 'Colan', 'Anthe', '2021-11-27 23:07:19', '2021-04-21 19:58:19'),
+(1, 'Etiam justo.', 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+
+In congue. Etiam justo. Etiam pretium iaculis justo.', null, 'Honor', 'Fayina', '2021-05-14 16:02:48', '2022-01-07 21:17:52'),
+(1, 'Pellentesque eget nunc.', 'Sed ante. Vivamus tortor. Duis mattis egestas metus.
+
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '#puce', 'Brooke', 'Demetris', '2021-11-14 19:35:48', '2021-09-27 23:55:31'),
+(1, 'Curabitur gravida nisi at nibh.', 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '#red', 'Regina', 'Son', '2021-09-05 08:18:57', '2021-08-29 18:59:01'),
+(1, 'Sed sagittis.', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '#khaki', 'Matelda', 'Alla', '2021-09-08 21:13:52', '2021-07-02 08:49:38'),
+(1, 'Morbi porttitor lorem id ligula.', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '#turquoise', 'Brock', 'Ludwig', '2021-06-26 11:28:38', '2021-07-24 17:24:01'),
+(1, 'Fusce consequat.', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#red', 'Kat', 'Zelig', '2021-09-24 11:37:56', '2021-07-12 13:57:43'),
+(1, 'Maecenas ut massa quis augue luctus tincidunt.', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#blue', 'Thaddus', 'Merna', '2021-05-23 13:06:03', '2021-03-24 08:32:10'),
+(1, 'Pellentesque viverra pede ac diam.', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', null, 'Ronnie', 'Brittaney', '2021-12-26 19:23:32', '2021-09-05 19:27:21'),
+(1, 'In quis justo.', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', null, 'Byron', 'Randy', '2021-08-18 13:40:37', '2021-12-28 08:34:19'),
+(1, 'Fusce consequat.', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', null, 'Neron', 'Christa', '2021-05-24 18:32:45', '2021-01-01 16:15:57'),
+(1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '#yellow', 'Merilee', 'Dolli', '2021-04-20 00:10:42', '2021-03-27 16:42:26'),
+(1, 'Proin at turpis a pede posuere nonummy.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '#indigo', 'Caron', 'Valle', '2021-11-23 23:38:55', '2021-03-23 16:50:35'),
+(1, 'Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '#mauv', 'Delbert', 'Cammy', '2021-06-03 08:38:23', '2021-07-16 21:36:19'),
+(1, 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.', 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '#crimson', 'Konstantin', 'Sarine', '2021-12-21 13:46:23', '2021-12-27 03:46:03'),
+(1, 'Nunc purus.', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', null, 'Krysta', 'Euphemia', '2021-05-03 23:53:27', '2021-04-16 15:39:57'),
+(1, 'Etiam pretium iaculis justo.', 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.', '#turquoise', 'Oliver', 'Clint', '2021-06-12 07:00:00', '2021-06-14 11:33:22'),
+(1, 'In quis justo.', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '#red', 'Vito', 'Bird', '2021-06-20 08:39:02', '2021-05-06 03:06:08'),
+(1, 'In sagittis dui vel nisl.', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', null, 'Errick', 'Shirlee', '2021-08-18 08:08:42', '2021-11-04 15:44:08'),
+(1, 'Integer ac leo.', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '#puce', 'Benjamin', 'Arlie', '2021-11-23 02:21:46', '2021-02-13 07:35:14'),
+(1, 'Morbi non quam nec dui luctus rutrum.', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.', '#yellow', 'Tessy', 'Nan', '2021-10-07 20:30:36', '2021-03-06 01:51:12'),
+(1, 'Nulla justo.', 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', null, 'Babette', 'Dudley', '2021-02-05 15:19:07', '2021-04-01 14:46:59'),
+(1, 'Aenean lectus.', 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '#yellow', 'Hoyt', 'Austina', '2021-06-26 18:20:38', '2021-02-20 16:09:49'),
+(1, 'Ut tellus.', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.', null, 'Wilmer', 'Ingra', '2021-07-19 14:18:17', '2022-01-23 17:29:54')
+;
+
+-- 1000 댓글
+insert into article_comment (article_id, user_account_id, content, created_at, modified_at, created_by, modified_by) values
+(49, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-03-02 22:40:04', '2021-04-27 15:38:09', 'Lind', 'Orv'),
+(108, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-06-08 04:36:02', '2022-01-25 15:35:42', 'Trstram', 'Loy'),
+(31, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2021-04-10 00:47:10', '2021-02-06 20:58:04', 'Duff', 'Early'),
+(120, 1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', '2021-08-21 08:39:39', '2021-11-17 22:47:35', 'Sydney', 'Boony'),
+(123, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-06-17 10:57:29', '2021-05-13 12:28:47', 'Burk', 'Markus'),
+(39, 1, 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '2022-01-15 11:37:12', '2021-02-19 17:42:22', 'Calvin', 'Garreth'),
+(30, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2021-11-23 18:29:30', '2021-03-09 00:57:27', 'Kain', 'Bruno'),
+(57, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-03-19 18:39:02', '2021-03-16 17:47:17', 'Kippie', 'Alexio'),
+(41, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-03-21 16:34:30', '2021-03-17 15:18:55', 'Frannie', 'Horacio'),
+(100, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-02-24 16:53:08', '2021-05-09 06:00:58', 'Osborn', 'Pren'),
+(48, 1, 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '2021-03-29 08:26:41', '2021-11-22 20:55:26', 'Dorie', 'Georgie'),
+(122, 1, 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.', '2021-06-12 07:38:25', '2021-03-03 07:14:43', 'Obed', 'Chrissy'),
+(87, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-05-11 08:47:16', '2021-04-13 00:47:50', 'Reinhard', 'Robbert'),
+(100, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2022-01-18 23:33:51', '2022-01-14 12:38:23', 'Clim', 'Chester'),
+(22, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-09-18 10:27:37', '2021-09-29 20:31:09', 'Odie', 'Britt'),
+(97, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-12-14 01:55:52', '2021-11-02 15:12:00', 'Ulises', 'Denney'),
+(103, 1, 'Fusce consequat. Nulla nisl. Nunc nisl.', '2021-04-03 11:44:04', '2022-01-05 21:01:34', 'Kendricks', 'Aubert'),
+(25, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-05-25 09:46:40', '2021-10-10 18:46:59', 'Dal', 'Maxy'),
+(91, 1, 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '2021-04-29 23:36:48', '2021-12-03 12:08:48', 'Vaclav', 'Patric'),
+(18, 1, 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.', '2021-09-26 00:29:13', '2021-07-10 01:44:07', 'Carl', 'Riley'),
+(89, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-12-11 05:07:10', '2021-05-31 15:26:03', 'Dex', 'Wallas'),
+(107, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-10-31 11:33:44', '2021-03-04 15:19:35', 'Lutero', 'Hussein'),
+(90, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-08-17 14:52:58', '2021-11-24 16:28:01', 'Garvy', 'Gris'),
+(121, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-02-17 16:50:19', '2021-01-31 09:21:51', 'Shayne', 'Stafford'),
+(91, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-06-23 10:06:39', '2021-10-27 22:04:41', 'Haze', 'Giraldo'),
+(32, 1, 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.', '2021-10-21 19:41:56', '2021-03-12 02:47:38', 'Cobbie', 'Thornton'),
+(47, 1, 'Fusce consequat. Nulla nisl. Nunc nisl.', '2021-05-02 07:45:04', '2021-06-26 13:36:44', 'Humfried', 'Bram'),
+(92, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-10-22 04:46:24', '2021-07-06 02:25:34', 'Luis', 'Chicky'),
+(76, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2021-12-30 18:39:24', '2021-10-13 03:58:46', 'Derwin', 'Zacherie'),
+(31, 1, 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '2021-11-07 02:25:31', '2021-11-30 11:15:34', 'Boris', 'Egbert'),
+(29, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-11-27 19:03:53', '2021-02-16 07:42:30', 'Gabriel', 'Gary'),
+(115, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-12-30 17:50:07', '2021-10-13 11:06:50', 'Gilles', 'Derrek'),
+(106, 1, 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '2021-06-10 02:26:59', '2021-12-17 18:00:38', 'Jodie', 'Whitney'),
+(5, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-04-16 12:44:52', '2022-01-19 17:32:59', 'Palmer', 'Orton'),
+(115, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-09-09 05:12:56', '2021-07-31 05:07:35', 'Mahmoud', 'Urson'),
+(112, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-01-31 06:52:27', '2021-02-07 17:19:58', 'Dunn', 'Monti'),
+(119, 1, 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.', '2021-03-20 10:06:32', '2021-07-28 14:45:35', 'Franz', 'Tris'),
+(66, 1, 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '2021-09-11 09:32:59', '2021-03-17 01:22:39', 'Tony', 'Ikey'),
+(36, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-03-04 17:43:07', '2021-10-08 16:20:32', 'Rees', 'Hubey'),
+(104, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-07-11 18:23:15', '2021-06-09 13:23:03', 'Hall', 'Rollie'),
+(63, 1, 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', '2021-06-26 18:57:48', '2021-06-30 23:24:08', 'Keir', 'Ky'),
+(99, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-10-03 02:36:13', '2021-11-27 11:12:43', 'Georgi', 'Thane'),
+(17, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-07-19 19:04:40', '2021-06-30 19:59:12', 'Oliver', 'Jarrad'),
+(33, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-03-19 04:18:04', '2021-11-28 06:15:06', 'Elvin', 'Sunny'),
+(102, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-11-28 18:39:57', '2021-06-24 11:01:37', 'Fax', 'Jayme'),
+(28, 1, 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '2021-08-03 06:01:12', '2021-03-12 08:58:02', 'Eldon', 'Emory'),
+(37, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-05-31 02:48:41', '2021-10-21 23:00:17', 'Northrup', 'Bart'),
+(75, 1, 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', '2021-03-11 21:47:46', '2021-04-19 14:10:05', 'Timmie', 'Roma'),
+(70, 1, 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '2021-10-30 16:41:56', '2021-09-06 14:43:59', 'Maximo', 'Eziechiele'),
+(53, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-06-09 22:28:41', '2022-01-20 12:47:05', 'Myrvyn', 'Faulkner'),
+(33, 1, 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '2021-11-18 08:10:04', '2021-10-15 12:18:35', 'Milty', 'Gordie'),
+(41, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-05-05 07:39:10', '2021-03-17 04:48:00', 'Guillaume', 'Holt'),
+(103, 1, 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '2021-07-16 03:33:44', '2021-12-27 03:33:26', 'Cyrille', 'Ruprecht'),
+(7, 1, 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.', '2022-01-04 16:06:48', '2021-06-11 14:41:17', 'Jervis', 'Base'),
+(26, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2022-01-09 16:07:10', '2021-07-25 22:44:28', 'Nikolos', 'Stanly'),
+(8, 1, 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '2021-02-14 01:02:43', '2022-01-10 03:11:26', 'Stefano', 'Hillel'),
+(58, 1, 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '2021-02-27 03:57:38', '2021-10-16 02:36:54', 'Flinn', 'Pembroke'),
+(87, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-06-17 04:52:04', '2021-09-29 05:08:41', 'Tome', 'Nat'),
+(11, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-06-20 03:31:09', '2021-08-09 08:07:50', 'Garrick', 'Bailey'),
+(103, 1, 'Sed ante. Vivamus tortor. Duis mattis egestas metus.', '2022-01-15 03:35:49', '2021-08-19 05:46:11', 'Fonz', 'Mohandas'),
+(119, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-10-19 22:27:28', '2021-03-18 00:32:07', 'Swen', 'My'),
+(33, 1, 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', '2022-01-23 21:02:14', '2021-07-22 18:04:02', 'Klement', 'Giordano'),
+(118, 1, 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.', '2021-12-25 15:45:04', '2021-07-25 01:53:41', 'Alister', 'Gavan'),
+(87, 1, 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '2021-03-13 11:05:05', '2021-04-24 11:01:30', 'Scotty', 'Pascal'),
+(95, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-08-21 20:13:53', '2021-05-28 10:09:16', 'Clevey', 'Bailey'),
+(48, 1, 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '2021-12-28 19:03:27', '2021-07-19 05:47:56', 'Grantham', 'Hadrian'),
+(27, 1, 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '2021-09-08 06:14:44', '2021-03-08 01:09:46', 'Gardner', 'Zolly'),
+(93, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-11-17 23:36:20', '2021-04-14 08:16:21', 'Jerome', 'Dev'),
+(11, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-06-13 21:19:56', '2021-10-29 10:51:51', 'Lincoln', 'Erwin'),
+(68, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-08-30 18:51:16', '2021-04-04 13:02:51', 'Sky', 'Lindon'),
+(103, 1, 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '2021-05-25 13:40:27', '2021-07-08 18:29:16', 'Bary', 'Arri'),
+(109, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-06-13 00:58:44', '2021-11-02 14:32:58', 'Rafael', 'Ivor'),
+(86, 1, 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '2022-01-25 01:28:11', '2021-04-17 01:10:19', 'Mathe', 'Mattie'),
+(70, 1, 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.', '2021-04-12 21:18:27', '2021-07-01 12:03:21', 'Geoffrey', 'Tadeo'),
+(37, 1, 'Fusce consequat. Nulla nisl. Nunc nisl.', '2021-06-21 12:34:50', '2021-03-09 11:05:09', 'Powell', 'Winifield'),
+(82, 1, 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '2021-10-31 08:16:23', '2021-03-23 18:55:47', 'Winifield', 'Rolando'),
+(69, 1, 'Sed ante. Vivamus tortor. Duis mattis egestas metus.', '2021-03-29 13:14:38', '2021-03-23 01:58:27', 'Giordano', 'Averell'),
+(23, 1, 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.', '2021-05-20 07:38:20', '2021-08-05 13:35:48', 'Lammond', 'Martie'),
+(53, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-02-02 22:43:50', '2021-03-21 01:18:12', 'Tades', 'Jedidiah'),
+(21, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-05-29 06:29:02', '2021-10-13 02:23:19', 'Germayne', 'Jermayne'),
+(94, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-06-02 12:21:13', '2021-09-03 15:17:13', 'Gregory', 'Woodrow'),
+(9, 1, 'Sed ante. Vivamus tortor. Duis mattis egestas metus.', '2021-06-07 05:33:53', '2021-04-26 03:00:50', 'Theodore', 'Godwin'),
+(74, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-11-22 01:27:42', '2021-12-07 13:24:52', 'Richy', 'Garvin'),
+(93, 1, 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '2021-11-29 14:10:08', '2021-12-21 15:41:28', 'Skipp', 'Broderick'),
+(66, 1, 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '2021-07-18 13:45:38', '2021-09-07 10:37:11', 'Kaine', 'Rooney'),
+(46, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-09-08 17:42:59', '2021-08-28 15:12:30', 'Humfrid', 'Steffen'),
+(26, 1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', '2022-01-22 19:23:45', '2021-04-19 07:53:02', 'Jamie', 'Reinaldos'),
+(2, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-02-23 17:42:56', '2021-10-09 08:03:13', 'Glynn', 'Truman'),
+(15, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-10-12 14:19:16', '2021-09-11 22:13:27', 'Maddy', 'Tynan'),
+(96, 1, 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '2021-12-27 11:42:15', '2022-01-19 14:11:02', 'Merill', 'Kermit'),
+(118, 1, 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '2021-07-30 23:57:48', '2021-11-13 11:45:31', 'Llewellyn', 'Welch'),
+(118, 1, 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.', '2021-07-21 15:39:09', '2021-10-24 12:13:07', 'Augustine', 'Cash'),
+(82, 1, 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.', '2021-04-10 22:46:57', '2021-10-07 06:49:09', 'Jermain', 'Felice'),
+(17, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-02-10 12:15:50', '2021-02-08 21:36:20', 'Ned', 'Marlow'),
+(118, 1, 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.', '2021-04-28 19:26:22', '2021-04-01 16:32:22', 'Griswold', 'Brion'),
+(37, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-04-23 15:49:37', '2021-12-14 18:20:38', 'Lemuel', 'Karel'),
+(60, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-08-14 16:26:15', '2021-07-05 14:35:38', 'Yance', 'Henderson'),
+(114, 1, 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '2021-05-20 19:07:27', '2022-01-26 17:02:57', 'Munroe', 'Olvan'),
+(20, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-08-30 20:30:28', '2021-09-11 10:18:50', 'Salim', 'Keene'),
+(51, 1, 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.', '2021-03-08 12:55:54', '2021-07-12 23:56:12', 'Rustie', 'Lorne'),
+(50, 1, 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.', '2021-10-13 17:57:44', '2021-05-10 21:31:48', 'Lorry', 'Alex'),
+(43, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2021-04-02 01:37:13', '2021-09-16 05:24:04', 'Leonidas', 'Fulton'),
+(115, 1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', '2021-11-11 04:39:17', '2021-11-03 15:21:42', 'Marietta', 'Brnaba'),
+(97, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-01-31 06:45:18', '2021-03-10 22:17:41', 'Obie', 'Allard'),
+(8, 1, 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '2021-08-25 23:41:07', '2021-04-19 09:14:12', 'Dru', 'Osborn'),
+(11, 1, 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '2021-11-28 19:55:06', '2021-09-22 19:59:06', 'Iain', 'Job'),
+(43, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-09-29 14:30:08', '2021-04-05 17:41:49', 'Rikki', 'Hymie'),
+(31, 1, 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '2021-10-05 20:08:45', '2021-10-31 14:59:42', 'Em', 'Aldric'),
+(88, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-03-27 00:02:27', '2021-12-17 06:02:34', 'Burty', 'Martainn'),
+(56, 1, 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '2021-12-22 12:41:15', '2021-04-14 03:12:08', 'Garvin', 'Esra'),
+(9, 1, 'Fusce consequat. Nulla nisl. Nunc nisl.', '2021-05-29 13:08:55', '2021-08-01 08:38:29', 'Siward', 'Garey'),
+(31, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-12-15 19:49:25', '2022-01-27 19:49:47', 'Fran', 'Cece'),
+(1, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-03-02 11:57:54', '2021-05-09 12:36:08', 'Torry', 'Rolando'),
+(110, 1, 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.', '2021-07-27 01:40:15', '2021-06-25 16:54:44', 'Kevin', 'Chico'),
+(78, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-03-30 22:33:45', '2021-03-13 12:40:17', 'Xavier', 'Nicol'),
+(73, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-11-26 19:26:39', '2021-04-14 20:32:25', 'Grannie', 'Cobbie'),
+(20, 1, 'Fusce consequat. Nulla nisl. Nunc nisl.', '2021-06-30 06:56:10', '2021-02-25 03:34:01', 'Haskell', 'Terence'),
+(99, 1, 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '2021-07-27 20:53:45', '2021-03-13 15:29:58', 'Nealy', 'Doyle'),
+(58, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-08-04 21:54:34', '2021-05-17 14:36:46', 'Sibyl', 'Consalve'),
+(33, 1, 'Sed ante. Vivamus tortor. Duis mattis egestas metus.', '2021-08-12 10:07:09', '2021-02-14 00:36:15', 'Arvy', 'Tymothy'),
+(111, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-09-16 06:12:57', '2021-09-04 15:51:30', 'Morten', 'Gerhard'),
+(83, 1, 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '2021-12-16 10:24:39', '2021-02-25 21:15:30', 'Sheridan', 'Cash'),
+(13, 1, 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.', '2021-09-25 16:26:15', '2021-09-04 06:36:17', 'Heath', 'Irwinn'),
+(47, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-02-15 09:00:36', '2021-12-02 02:50:19', 'Bordy', 'Kliment'),
+(37, 1, 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.', '2021-08-08 15:11:06', '2021-05-31 22:32:58', 'Graeme', 'Cody'),
+(19, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-01-29 18:57:18', '2021-10-01 12:57:33', 'Ram', 'Gino'),
+(9, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-12-31 02:29:25', '2021-02-04 09:29:05', 'Umberto', 'Timotheus'),
+(3, 1, 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.', '2021-09-01 13:11:45', '2021-10-28 14:30:23', 'Juan', 'Forest'),
+(97, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-12-19 15:39:54', '2021-07-10 04:11:12', 'Urbanus', 'Noach'),
+(88, 1, 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '2021-11-12 11:38:06', '2021-12-13 15:21:53', 'Zack', 'Jammal'),
+(20, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-10-20 18:22:32', '2021-07-10 16:15:54', 'Norrie', 'Barny'),
+(93, 1, 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.', '2021-09-08 08:49:05', '2021-02-27 04:15:27', 'Donn', 'Adan'),
+(61, 1, 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.', '2021-06-24 16:06:45', '2021-10-31 08:38:22', 'Paxton', 'Stevy'),
+(73, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-03-11 20:20:34', '2021-04-19 22:24:56', 'Carolus', 'Niven'),
+(60, 1, 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '2021-10-12 16:46:55', '2021-05-08 14:42:18', 'Cameron', 'Beniamino'),
+(41, 1, 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.', '2021-03-16 05:38:39', '2021-02-26 21:41:53', 'Flint', 'Artur'),
+(116, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-08-15 22:55:29', '2021-09-22 03:03:29', 'Efren', 'Carrol'),
+(113, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-06-13 10:25:18', '2021-10-27 10:34:16', 'Nevins', 'Caspar'),
+(86, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-04-12 11:14:15', '2021-02-13 09:33:29', 'Carrol', 'Isac'),
+(122, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-11-30 20:48:06', '2021-02-19 12:25:33', 'Dagny', 'Silvain'),
+(42, 1, 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '2021-09-29 09:08:16', '2021-01-29 16:01:20', 'Thurstan', 'Vidovic'),
+(3, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-02-10 03:27:32', '2021-11-07 23:23:44', 'Jerrold', 'Mac'),
+(92, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-09-24 15:03:04', '2021-03-09 13:36:02', 'Tommie', 'Uriel'),
+(3, 1, 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '2021-03-18 14:50:37', '2021-04-25 15:04:11', 'Desi', 'Patrizius'),
+(24, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-04-26 17:14:34', '2021-07-04 04:58:06', 'Frederigo', 'Heath'),
+(62, 1, 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '2021-07-30 17:36:48', '2021-02-22 02:50:31', 'Conroy', 'Ralf'),
+(49, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-06-30 07:55:25', '2021-05-01 04:31:05', 'Carolus', 'Kiley'),
+(11, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-11-30 02:55:08', '2021-12-17 10:25:02', 'Killian', 'Ewell'),
+(3, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-10-17 05:31:12', '2021-12-19 13:25:46', 'Gary', 'Korey'),
+(89, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-05-16 00:33:39', '2021-04-21 11:16:34', 'Jeth', 'Shem'),
+(104, 1, 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '2021-04-11 19:12:30', '2021-07-28 21:58:46', 'Archambault', 'Elwyn'),
+(120, 1, 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.', '2021-11-09 07:48:20', '2021-05-25 01:18:53', 'Owen', 'Aldrich'),
+(119, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-12-11 18:39:03', '2021-05-29 15:07:40', 'Fleming', 'Kaine'),
+(71, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-09-22 10:07:58', '2021-06-29 20:27:29', 'Gianni', 'Leroi'),
+(45, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-06-03 15:54:44', '2022-01-21 14:50:05', 'Saundra', 'Timofei'),
+(78, 1, 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '2021-05-19 04:22:01', '2021-02-23 20:41:21', 'Raphael', 'Earl'),
+(29, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-02-14 18:22:02', '2021-03-16 18:55:35', 'Thorstein', 'Boycie'),
+(14, 1, 'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.', '2021-12-12 21:27:12', '2022-01-13 21:51:23', 'Haywood', 'Orland'),
+(36, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-12-04 23:26:12', '2021-06-24 00:39:21', 'Arley', 'Bealle'),
+(16, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-10-20 22:49:39', '2021-09-16 21:40:00', 'Gerik', 'Tom'),
+(30, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-04-22 18:41:14', '2021-02-14 23:42:46', 'Kimbell', 'Avigdor'),
+(119, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-11-05 20:30:44', '2021-08-23 04:17:55', 'Manny', 'Roth'),
+(49, 1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', '2021-03-30 20:19:39', '2021-11-11 18:15:08', 'Clare', 'Frants'),
+(53, 1, 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', '2021-07-25 16:59:57', '2021-12-26 16:40:39', 'Verge', 'Uriel'),
+(58, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-10-24 00:02:07', '2021-05-14 21:38:51', 'Tobe', 'Padraig'),
+(97, 1, 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '2021-03-15 03:17:22', '2021-03-09 07:40:08', 'Tommy', 'Stanton'),
+(58, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-02-17 15:44:23', '2021-05-12 19:09:44', 'Addy', 'Georas'),
+(18, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2022-01-14 07:16:57', '2022-01-18 13:43:16', 'Salem', 'Franklin'),
+(48, 1, 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.', '2021-03-25 20:09:14', '2021-06-05 06:26:54', 'Wang', 'Gunner'),
+(1, 1, 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '2021-10-28 04:52:36', '2021-12-25 06:43:01', 'Brendan', 'Rouvin'),
+(102, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2021-06-13 23:00:54', '2021-03-02 16:25:07', 'Bran', 'Chet'),
+(105, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-07-23 01:10:10', '2021-10-09 04:58:11', 'My', 'Conny'),
+(1, 1, 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '2021-06-15 07:11:35', '2021-11-10 07:57:55', 'Raimondo', 'Lou'),
+(87, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-04-12 09:26:39', '2021-02-05 04:29:18', 'Curry', 'Gian'),
+(113, 1, 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.', '2021-04-14 23:17:12', '2021-12-21 20:18:49', 'Raleigh', 'Marlon'),
+(74, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-10-26 17:58:35', '2022-01-27 11:45:17', 'Lauren', 'Hoebart'),
+(28, 1, 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '2021-05-17 07:57:54', '2021-03-16 07:48:16', 'Tonnie', 'Borden'),
+(47, 1, 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.', '2021-07-30 20:29:36', '2021-12-29 07:52:24', 'Galvin', 'Olenolin'),
+(104, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-07-16 13:21:55', '2021-02-18 15:51:26', 'Burty', 'Nicky'),
+(121, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-02-02 04:12:07', '2021-12-07 02:32:36', 'Ashton', 'Galvin'),
+(12, 1, 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '2021-10-18 21:01:27', '2021-10-02 00:45:14', 'Pacorro', 'Johan'),
+(62, 1, 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '2021-02-26 12:57:07', '2021-05-28 13:25:39', 'Chip', 'Lazaro'),
+(3, 1, 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.', '2021-08-09 03:26:07', '2021-11-24 20:01:46', 'Odey', 'Alasdair'),
+(111, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-09-11 06:11:36', '2021-02-08 18:50:27', 'Francis', 'Clywd'),
+(15, 1, 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.', '2021-10-28 03:52:43', '2021-05-07 04:46:57', 'Ambros', 'Allistir'),
+(63, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-02-26 11:44:06', '2021-04-04 10:50:51', 'Godwin', 'Darn'),
+(64, 1, 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '2021-09-18 01:26:49', '2021-10-18 22:02:35', 'Saw', 'Hersch'),
+(75, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-05-07 22:15:22', '2021-04-09 04:53:46', 'Jonas', 'Walther'),
+(115, 1, 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', '2022-01-09 09:24:31', '2021-11-23 05:50:30', 'Maison', 'Rutledge'),
+(66, 1, 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '2021-04-29 15:50:03', '2021-10-09 05:24:40', 'Warde', 'Ezra'),
+(113, 1, 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '2021-11-27 02:08:50', '2021-09-17 23:44:27', 'Beale', 'John'),
+(22, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-12-07 04:27:25', '2021-08-01 16:35:36', 'Stephanus', 'Woodie'),
+(101, 1, 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.', '2022-01-09 23:00:02', '2021-02-03 16:50:34', 'Kendrick', 'Stevie'),
+(74, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-11-13 17:40:36', '2021-05-24 19:48:38', 'Renato', 'Lazar'),
+(117, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-04-07 23:37:24', '2021-07-31 23:54:24', 'Clim', 'Kerwin'),
+(109, 1, 'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.', '2021-06-01 10:19:17', '2021-05-05 01:35:40', 'Merry', 'Alejoa'),
+(35, 1, 'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.', '2021-07-26 04:44:47', '2021-08-04 20:39:24', 'Hank', 'Bronnie'),
+(58, 1, 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.', '2021-06-05 17:56:40', '2021-12-16 06:08:45', 'Pembroke', 'Rudolfo'),
+(94, 1, 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '2021-07-27 15:28:41', '2021-02-03 15:56:24', 'Skye', 'Travus'),
+(110, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-05-13 08:24:45', '2021-11-05 10:30:53', 'Anatole', 'Josh'),
+(38, 1, 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '2022-01-03 09:28:12', '2021-06-15 10:09:44', 'Wolfy', 'Denver'),
+(112, 1, 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.', '2021-10-28 06:09:00', '2021-04-18 09:32:47', 'Ave', 'Samson'),
+(55, 1, 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '2021-03-30 07:04:00', '2021-06-11 23:16:21', 'Merrick', 'Taddeo'),
+(38, 1, 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '2021-05-12 15:07:01', '2021-03-01 11:26:25', 'Lamar', 'Denver'),
+(57, 1, 'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.', '2021-07-19 19:58:41', '2022-01-09 10:16:22', 'Marc', 'Dudley'),
+(110, 1, 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '2021-10-10 12:35:10', '2021-06-08 16:03:44', 'Cirilo', 'Hewie'),
+(16, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-09-15 20:31:58', '2021-09-10 04:08:45', 'Parnell', 'Justen'),
+(77, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-10-10 05:06:58', '2021-03-07 18:41:41', 'Wait', 'Jefferey'),
+(80, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-11-29 14:56:54', '2021-08-11 08:38:14', 'Oliver', 'Gordan'),
+(93, 1, 'Sed ante. Vivamus tortor. Duis mattis egestas metus.', '2021-08-08 12:08:41', '2021-02-21 14:20:28', 'Boy', 'Erhard'),
+(21, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-02-02 10:37:42', '2021-07-07 09:13:50', 'Kingsley', 'Cristiano'),
+(121, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-05-01 16:02:15', '2021-03-16 04:57:53', 'Jack', 'Emerson'),
+(81, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-10-06 07:22:15', '2021-04-13 18:38:19', 'Shadow', 'Olivero'),
+(115, 1, 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '2021-08-21 18:30:28', '2022-01-27 04:56:23', 'Torrance', 'Jay'),
+(71, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-07-14 22:27:52', '2021-12-20 14:06:44', 'Griz', 'Rice'),
+(10, 1, 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.', '2021-09-22 03:34:12', '2021-08-02 23:30:33', 'Johnathan', 'Gasper'),
+(83, 1, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', '2021-11-09 09:44:05', '2021-09-27 16:32:41', 'Krishnah', 'Gauthier'),
+(65, 1, 'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.', '2021-06-05 10:03:50', '2021-04-03 21:14:02', 'Padraig', 'Hagan'),
+(65, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-02-08 03:59:27', '2022-01-05 18:54:29', 'Marven', 'Cesaro'),
+(40, 1, 'Fusce consequat. Nulla nisl. Nunc nisl.', '2021-09-10 06:18:43', '2022-01-05 12:44:51', 'Iggy', 'Giffer'),
+(40, 1, 'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.', '2021-11-24 21:14:01', '2021-07-24 00:45:50', 'Tanner', 'Alasdair'),
+(53, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-04-30 20:09:55', '2021-07-19 23:40:23', 'Germain', 'Raffaello'),
+(35, 1, 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '2021-09-23 19:49:04', '2021-07-17 12:46:19', 'Pat', 'Lynn'),
+(108, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-02-26 17:41:27', '2021-06-19 13:50:02', 'Ancell', 'Zack'),
+(123, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-04-02 23:38:41', '2021-05-25 09:51:50', 'Augustus', 'Noak'),
+(10, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-08-04 16:14:43', '2021-05-14 16:24:37', 'Verne', 'Jae'),
+(70, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-11-06 06:46:35', '2022-01-10 16:32:48', 'Guillermo', 'Donavon'),
+(66, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2022-01-14 20:49:05', '2021-02-17 00:51:12', 'Ermin', 'Eugenius'),
+(60, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-10-31 12:14:52', '2021-12-16 14:05:55', 'Beniamino', 'Lucius'),
+(86, 1, 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.', '2021-05-14 17:45:54', '2021-11-04 17:25:01', 'Roman', 'Pippo'),
+(46, 1, 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.', '2021-12-30 18:54:39', '2021-10-27 17:51:06', 'Laird', 'Rooney'),
+(109, 1, 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '2021-02-15 22:55:20', '2021-05-19 06:29:30', 'Harwell', 'Hamish'),
+(29, 1, 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '2021-03-03 14:41:45', '2021-08-21 19:45:03', 'Farrell', 'Putnam'),
+(4, 1, 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.', '2021-05-07 23:41:49', '2021-07-20 15:05:46', 'Cullan', 'Brenden'),
+(72, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2022-01-21 09:58:07', '2021-09-30 10:22:58', 'Reinhard', 'Gustav'),
+(103, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-06-21 04:54:38', '2021-02-04 14:03:34', 'Redford', 'Odey'),
+(3, 1, 'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.', '2021-07-03 22:53:01', '2021-12-17 02:16:19', 'Onofredo', 'Burnard'),
+(47, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-04-14 07:12:05', '2022-01-25 09:31:18', 'Ludwig', 'Bink'),
+(108, 1, 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', '2021-01-29 06:11:21', '2021-11-28 10:36:30', 'Brose', 'Dory'),
+(18, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-07-11 22:57:32', '2021-12-29 13:13:47', 'Jorgan', 'Tully'),
+(122, 1, 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '2021-07-07 11:28:36', '2022-01-11 22:25:11', 'Noak', 'Randi'),
+(10, 1, 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.', '2021-01-28 04:18:05', '2021-03-15 00:49:20', 'Robers', 'Lucien'),
+(100, 1, 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.', '2021-10-21 10:15:11', '2021-07-15 02:29:24', 'Ellwood', 'Haley'),
+(109, 1, 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.', '2021-09-20 02:30:44', '2021-02-23 21:10:19', 'Rand', 'Farr'),
+(7, 1, 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '2021-03-30 03:51:17', '2021-03-12 03:31:28', 'Benn', 'Felicio'),
+(3, 1, 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '2021-09-28 17:14:00', '2021-11-10 07:58:33', 'Bram', 'Reamonn'),
+(19, 1, 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2021-11-21 02:15:09', '2021-09-26 07:25:00', 'Tobiah', 'Elvyn'),
+(29, 1, 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '2021-06-17 22:45:24', '2021-02-22 00:27:48', 'Tuckie', 'Alano'),
+(38, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-03-08 06:05:41', '2021-08-23 14:39:11', 'Torrey', 'Lincoln'),
+(89, 1, 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', '2021-05-02 07:48:14', '2021-04-21 23:59:10', 'Sheppard', 'Mordy'),
+(37, 1, 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '2021-09-23 10:38:38', '2021-09-28 17:28:23', 'Alasteir', 'Rodolph'),
+(96, 1, 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '2021-12-13 02:05:08', '2021-08-13 20:19:31', 'Curcio', 'Frankie'),
+(9, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-08-03 08:05:59', '2021-07-18 13:07:29', 'Randal', 'Lowrance'),
+(95, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-05-23 16:26:14', '2022-01-27 15:13:11', 'Corbin', 'Gardy'),
+(41, 1, 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.', '2021-04-12 18:28:56', '2021-09-16 06:18:28', 'Sammie', 'Jerrold'),
+(80, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-02-20 22:12:07', '2021-05-20 15:04:18', 'Abram', 'Foster'),
+(46, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-02-05 14:12:10', '2021-04-21 22:37:57', 'Rusty', 'Martin'),
+(117, 1, 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.', '2021-08-30 23:52:53', '2021-04-13 04:02:26', 'Mohammed', 'Roman'),
+(117, 1, 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.', '2021-11-28 01:58:02', '2021-12-21 11:52:52', 'Tomas', 'Lorry'),
+(102, 1, 'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.', '2021-02-07 07:54:20', '2022-01-26 07:40:14', 'Laurence', 'Obediah'),
+(105, 1, 'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.', '2021-12-07 21:09:27', '2021-02-25 05:08:10', 'Doyle', 'Manolo'),
+(31, 1, 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.', '2021-06-08 17:54:29', '2021-04-09 21:42:54', 'Alfons', 'Merrel'),
+(104, 1, 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.', '2021-02-15 00:43:19', '2021-05-11 00:01:36', 'Barris', 'Thayne'),
+(6, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-08-23 18:08:15', '2021-02-14 18:46:55', 'Chester', 'Raimund'),
+(23, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-08-22 05:10:51', '2021-11-14 05:48:36', 'Gunner', 'Daryle'),
+(9, 1, 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '2021-07-08 21:49:32', '2021-10-16 05:19:59', 'Garey', 'Newton'),
+(61, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-02-16 21:02:31', '2021-03-14 09:32:46', 'Pryce', 'Ruggiero'),
+(60, 1, 'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.', '2021-07-01 14:11:02', '2022-01-05 14:35:41', 'Alphonse', 'Jimmie'),
+(66, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-07-21 22:00:47', '2021-04-15 01:34:52', 'Francesco', 'Sigismond'),
+(110, 1, 'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.', '2022-01-20 13:04:44', '2021-07-23 13:46:46', 'Lee', 'Hillie'),
+(49, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-08-17 22:15:55', '2021-08-14 18:08:06', 'Xerxes', 'Gavan'),
+(30, 1, 'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.', '2022-01-01 09:01:26', '2021-02-05 06:06:11', 'Nilson', 'Abramo'),
+(66, 1, 'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.', '2021-03-19 18:31:00', '2021-02-02 18:13:43', 'Efrem', 'Nappie'),
+(20, 1, 'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '2021-08-10 09:50:08', '2021-06-10 09:21:44', 'Killy', 'Link'),
+(60, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-07-01 11:17:44', '2021-06-12 14:47:11', 'Redd', 'Findlay'),
+(84, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-11-20 19:24:29', '2021-07-09 22:30:51', 'Jermaine', 'Giordano'),
+(16, 1, 'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.', '2021-03-31 15:02:53', '2022-01-27 10:41:22', 'Nevins', 'Tades'),
+(24, 1, 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.', '2021-12-14 16:08:30', '2021-07-27 17:14:42', 'Ford', 'Bert'),
+(118, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-04-06 13:22:24', '2021-03-22 21:55:23', 'Derward', 'Gilberto'),
+(80, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-11-11 14:40:19', '2021-03-18 04:28:34', 'Raynard', 'Harmon'),
+(15, 1, 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.', '2021-08-03 10:39:41', '2021-10-10 14:36:42', 'Link', 'Herculie'),
+(53, 1, 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.', '2021-10-16 21:35:19', '2021-02-03 11:50:26', 'Bruno', 'Morry'),
+(116, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-06-30 09:33:06', '2021-03-14 15:57:56', 'Ash', 'Kain'),
+(18, 1, 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.', '2021-12-17 04:35:08', '2021-12-03 02:48:23', 'Vance', 'Sherwood'),
+(39, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2022-01-24 11:08:07', '2021-03-10 17:24:44', 'Alexio', 'Zak'),
+(36, 1, 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.', '2021-10-26 14:32:13', '2021-12-09 16:40:34', 'Gustavus', 'Dennis'),
+(95, 1, 'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', '2022-01-04 18:07:58', '2021-06-09 11:32:21', 'Correy', 'Michale'),
+(83, 1, 'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.', '2021-08-26 19:21:23', '2021-08-18 00:16:06', 'Marsh', 'Jake'),
+(32, 1, 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.', '2021-04-06 03:33:13', '2021-02-08 18:06:28', 'Joey', 'Jeddy'),
+(97, 1, 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.', '2021-10-02 12:32:35', '2021-03-31 17:12:09', 'Ermin', 'Randy'),
+(101, 1, 'In congue. Etiam justo. Etiam pretium iaculis justo.', '2021-06-26 12:29:52', '2021-01-29 02:54:16', 'Archer', 'Denney'),
+(109, 1, 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.', '2021-05-01 12:24:18', '2021-05-30 21:29:42', 'Fransisco', 'Francisco'),
+(93, 1, 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.', '2021-02-22 10:56:34', '2021-09-02 15:20:32', 'Georgy', 'Wells'),
+(118, 1, 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', '2021-11-04 07:35:10', '2021-12-24 13:17:12', 'Oates', 'Clayborne'),
+(97, 1, 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', '2021-07-18 10:42:20', '2021-12-25 13:59:02', 'Richmound', 'Wilmar'),
+(6, 1, 'Phasellus in felis. Donec semper sapien a libero. Nam dui.', '2021-02-08 10:45:24', '2021-04-04 03:18:49', 'Rees', 'Kerk'),
+(106, 1, 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.', '2021-02-12 12:56:15', '2021-06-19 00:23:26', 'Kiley', 'Keenan'),
+(77, 1, 'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.', '2022-01-08 02:32:10', '2021-07-23 12:21:01', 'Harlen', 'Zacharia'),
+(56, 1, 'Sed ante. Vivamus tortor. Duis mattis egestas metus.', '2021-11-18 01:32:48', '2021-06-06 01:59:25', 'Vittorio', 'Milty'),
+(19, 1, 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '2021-05-07 23:57:29', '2021-04-03 21:55:11', 'Oliver', 'Graehme')
+;
