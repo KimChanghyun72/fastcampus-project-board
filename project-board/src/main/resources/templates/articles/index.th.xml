@@ -53,8 +53,9 @@
                     <attr sel="td.created-at" th:datetime="${article.createdAt}" th:text="${#temporals.format(article.createdAt, 'yyyy-MM-dd')}" />
                 </attr>
             </attr>
-
         </attr>
+
+        <attr sel="#write-article" th:href="@{/articles/form}" />
 
         <attr sel="#pagination">
             <attr sel="li[0]/a"
