@@ -1,6 +1,7 @@
 package com.fastcampus.projectboard.controller;
 
 import com.fastcampus.projectboard.config.SecurityConfig;
+import com.fastcampus.projectboard.domain.type.SearchType;
 import com.fastcampus.projectboard.dto.ArticleWithCommentsDto;
 import com.fastcampus.projectboard.dto.UserAccountDto;
 import com.fastcampus.projectboard.service.ArticleService;
@@ -67,6 +68,34 @@ class ArticleControllerTest {
 
         // Then
         then(articleService).should().searchArticles(eq(null), eq(null), any(Pageable.class));
+        then(paginationService).should().getPaginationBarNumbers(anyInt(), anyInt());
+    }
+
+
+    @DisplayName("[view][GET] 게시글 리스트(게시판) 페이지 - 검색어와 함께 호출")
+    @Test
+    public void givenSearchKeyword_whenSearchingArticlesView_thenReturnsArticlesView() throws Exception {
+        // Given
+        SearchType searchType = SearchType.TITLE;
+        String searchValue = "title";
+        given(articleService.searchArticles(eq(searchType), eq(searchValue), any(Pageable.class))).willReturn(Page.empty());
+        given(paginationService.getPaginationBarNumbers(anyInt(), anyInt())).willReturn(List.of(0, 1, 2, 3, 4));
+
+        // When
+        mvc.perform(get("/articles")
+                        .queryParam("searchType", searchType.name())
+                        .queryParam("searchValue", searchValue)
+                )
+                .andExpect(status().isOk())
+                .andExpect(content().contentTypeCompatibleWith(MediaType.TEXT_HTML))        // 유도리있게 한다는건가??
+                .andExpect(view().name("articles/index"))       // articles/index라는 이름의 view가 있는지 검사.
+                .andExpect(model().attributeExists("articles"))        // articles라는 속성이 model.attribute에 있는지 검사
+                .andExpect(model().attributeExists("searchTypes"))
+                .andExpect(model().attributeExists("paginationBarNumbers"));
+
+
+        // Then
+        then(articleService).should().searchArticles(eq(searchType), eq(searchValue), any(Pageable.class));
         then(paginationService).should().getPaginationBarNumbers(anyInt(), anyInt());
     }
 
@@ -148,6 +177,8 @@ class ArticleControllerTest {
         // Then
 
     }
+
+
 
     // fixture들.
     private ArticleWithCommentsDto createArticleWithCommentsDto() {
