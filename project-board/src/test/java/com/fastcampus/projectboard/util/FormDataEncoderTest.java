@@ -24,7 +24,7 @@ class FormDataEncoderTest {
         this.formDataEncoder = formDataEncoder;
     }
 
-    @DisplayName("객체를 넣으면, url encoding 된 form body data 형식의 문자열을 돌려준다.")
+    @DisplayName( "객체를 넣으면, url encoding 된 form body data 형식의 문자열을 돌려준다." )
     @Test
     void givenObject_whenEncoding_thenReturnsFormEncodedString() {
         // Given
