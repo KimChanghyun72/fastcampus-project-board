@@ -15,6 +15,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 @RequiredArgsConstructor
 @Transactional
@@ -29,7 +30,9 @@ public class ArticleCommentService {
 
     @Transactional(readOnly = true)
     public List<ArticleCommentDto> searchArticleComments(Long articleId) {
-        return List.of();
+        return articleCommentRepository.findByArticle_Id(articleId).stream()
+                .map(ArticleCommentDto::from)
+                .collect(Collectors.toList());
     }
 
     public void saveArticleComment(ArticleCommentDto dto) {
