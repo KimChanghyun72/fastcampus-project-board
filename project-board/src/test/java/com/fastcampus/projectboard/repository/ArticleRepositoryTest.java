@@ -2,6 +2,7 @@ package com.fastcampus.projectboard.repository;
 
 import com.fastcampus.projectboard.config.JpaConfig;
 import com.fastcampus.projectboard.domain.Article;
+import com.fastcampus.projectboard.domain.Hashtag;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -15,6 +16,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 import java.util.List;
 import java.util.Optional;
+import java.util.Set;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -74,14 +76,18 @@ class ArticleRepositoryTest {
     void givenTestData_whenUpdating_thenWorksFine() {
         // Given
         Article article = articleRepository.findById(1L).orElseThrow();
-        String updatingHashtag = "#springboot";
-        article.setHashtag(updatingHashtag);
+        Hashtag updatedHashtag = Hashtag.of("springboot");
+        article.clearHashtags();
+        article.addHashtags(Set.of(updatedHashtag));
 
         // When
         Article savedArticle = articleRepository.saveAndFlush(article);
 
         // Then
-        assertThat(savedArticle).hasFieldOrPropertyWithValue("hashtag", updatingHashtag);
+        assertThat(savedArticle.getHashtags())
+                .hasSize(1)
+                .extracting("hashtagName", String.class)
+                .containsExactly(updatedHashtag.getHashtagName());
     }
     @Disabled
     @DisplayName("delete 테스트")

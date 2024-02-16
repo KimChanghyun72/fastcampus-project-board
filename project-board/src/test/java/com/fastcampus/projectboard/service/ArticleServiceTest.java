@@ -156,14 +156,16 @@ class ArticleServiceTest {
     void givenNothing_whenCalling_thenReturnsHashtags() {
         // Given
         List<String> expectedHashtags = List.of("#java", "#spring", "#boot");
-        given(articleRepository.findAllDistinctHashtags()).willReturn(expectedHashtags);
+        //given(articleRepository.findAllDistinctHashtags()).willReturn(expectedHashtags);
+        given(hashtagRepository.findAllHashtagNames()).willReturn(expectedHashtags);
 
         // When
         List<String> actualHashtags = sut.getHashtags();
 
         // Then
         assertThat(actualHashtags).isEqualTo(expectedHashtags);
-        then(articleRepository).should().findAllDistinctHashtags();
+        then(hashtagRepository).should().findAllHashtagNames();
+        //then(articleRepository).should().findAllDistinctHashtags();
     }
 
     @DisplayName("게시글을 조회하면, 게시글을 반환한다.")
@@ -278,13 +280,19 @@ class ArticleServiceTest {
         // Given
         Long articleId = 1L;
         String userId = "uno";
-        willDoNothing().given(articleRepository).deleteById(articleId);
+        given(articleRepository.getReferenceById(articleId)).willReturn(createArticle());
+        willDoNothing().given(articleRepository).deleteByIdAndUserAccount_UserId(articleId, userId);
+        willDoNothing().given(articleRepository).flush();
+        willDoNothing().given(hashtagService).deleteHashtagWithoutArticles(any());
 
         // When
         sut.deleteArticle(1L, userId);
 
         // Then
-        then(articleRepository).should().deleteById(articleId);
+        then(articleRepository).should().getReferenceById(articleId);
+        then(articleRepository).should().deleteByIdAndUserAccount_UserId(articleId, userId);
+        then(articleRepository).should().flush();
+        then(hashtagService).should(times(2)).deleteHashtagWithoutArticles(any());
     }
 
     private UserAccount createUserAccount() {
