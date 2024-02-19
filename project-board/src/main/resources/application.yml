@@ -10,9 +10,12 @@ logging:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/board
-    username: chris
-    password: 1q2w3e4r
+    url: ${LOCAL_DB_URL}
+    username: ${LOCAL_DB_USERNAME}
+    password: ${LOCAL_DB_PASSWORD}
+    #url: jdbc:postgresql://localhost:5432/board
+    #username: chris
+    #password: 1q2w3e4r
 ##   mariaDB Connection info
 #    driver-class-name: org.mariadb.jdbc.Driver
 #    url: jdbc:mariadb://localhost:3306/bootex
