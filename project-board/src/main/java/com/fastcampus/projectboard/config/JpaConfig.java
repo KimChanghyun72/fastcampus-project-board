@@ -23,6 +23,7 @@ public class JpaConfig {
                 .map(Authentication::getPrincipal)
                 .map(BoardPrincipal.class::cast)
                 .map(BoardPrincipal::getUsername);
+        // 기존의 로직은 인증완료된 Principal에서 username을 가져와야 하기 때문에 회원가입할 때 유저정보를 입력 불가능.
     }
 
 }
