@@ -21,6 +21,8 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import java.util.UUID;
 
+import static org.springframework.security.config.Customizer.withDefaults;
+
 @Configuration
 public class SecurityConfig {
 

@@ -49,7 +49,7 @@ public class ArticleController {
     }
 
     @GetMapping("/{articleId}")
-    public String article(@PathVariable Long articleId, ModelMap map) {
+    public String article(@PathVariable("articleId") Long articleId, ModelMap map) {
         ArticleWithCommentsResponse article = ArticleWithCommentsResponse.from(articleService.getArticleWithComments(articleId));
         map.addAttribute("article", article);
         map.addAttribute("articleComments", article.articleCommentsResponse());
@@ -61,7 +61,7 @@ public class ArticleController {
 
     @GetMapping("/search-hashtag")
     public String searchHashtag(
-            @RequestParam(required = false) String searchValue,
+            @RequestParam(required = false, name = "searchValue") String searchValue,
             @PageableDefault(size = 10, sort = "createdAt", direction = Sort.Direction.DESC) Pageable pageable,
             ModelMap map) {
 
@@ -95,7 +95,7 @@ public class ArticleController {
     }
 
     @GetMapping("/{articleId}/form")
-    public String updateArticleForm(@PathVariable Long articleId, ModelMap map) {
+    public String updateArticleForm(@PathVariable("articleId") Long articleId, ModelMap map) {
         ArticleResponse article = ArticleResponse.from(articleService.getArticle(articleId));
 
         map.addAttribute("article", article);
@@ -106,7 +106,7 @@ public class ArticleController {
 
     @PostMapping("/{articleId}/form")
     public String updateArticle(
-            @PathVariable Long articleId, ArticleRequest articleRequest,
+            @PathVariable("articleId") Long articleId, ArticleRequest articleRequest,
             @AuthenticationPrincipal BoardPrincipal boardPrincipal
     ) {
         articleService.updateArticle(articleId, articleRequest.toDto(boardPrincipal.toDto()));
@@ -115,7 +115,7 @@ public class ArticleController {
 
     @PostMapping("/{articleId}/delete")
     public String deleteArticle(
-            @PathVariable Long articleId,
+            @PathVariable("articleId") Long articleId,
             @AuthenticationPrincipal BoardPrincipal boardPrincipal
             ) {
         // SecurityContextHolder.getContext().getAuthentication();
