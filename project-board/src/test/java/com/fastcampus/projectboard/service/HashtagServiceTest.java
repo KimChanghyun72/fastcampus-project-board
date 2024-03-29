@@ -36,7 +36,6 @@ class HashtagServiceTest {
     @DisplayName("본문을 파싱하면, 해시태그 이름들을 중복 없이 반환한다.")
     @MethodSource
     @ParameterizedTest(name = "[{index}] \"{0}\" => \"{1}\"")
-    @Test
     void givenContent_whenParsing_thenReturnsUniqueHashtagNames(String input, Set<String> expected) {
         // Given
 //        String input = "#java";

@@ -6,6 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.bind.ConstructorBinding;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.Component;
 import org.thymeleaf.spring6.templateresolver.SpringResourceTemplateResolver;
 
 @Configuration
@@ -21,10 +22,11 @@ public class ThymeleafConfig {
         return defaultTemplateResolver;
     }
 
-
+    /**
+     *  @ConstructorBinding 이거 들어가서 오류난건데 주석처리해도 오류가 나네?
+     */
     @RequiredArgsConstructor
     @Getter
-    //@ConstructorBinding
     @ConfigurationProperties("spring.thymeleaf3")
     public static class Thymeleaf3Properties {
         /**
@@ -32,5 +34,7 @@ public class ThymeleafConfig {
          */
         private final boolean decoupledLogic;
     }
+//    @ConfigurationProperties("spring.thymeleaf3")
+//    public record Thymeleaf3Properties(boolean decoupledLogic) {}
 
 }

@@ -32,8 +32,8 @@ public class ArticleController {
 
     @GetMapping
     public String articles(
-            @RequestParam(required = false) SearchType searchType,
-            @RequestParam(required = false) String searchValue,
+            @RequestParam(required = false, name = "searchType") SearchType searchType,
+            @RequestParam(required = false, name="searchValue") String searchValue,
             @PageableDefault(size = 10, sort = "createdAt", direction = Sort.Direction.DESC) Pageable pageable,
             ModelMap map
     ) {
