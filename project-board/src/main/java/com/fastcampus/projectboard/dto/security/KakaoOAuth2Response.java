@@ -2,6 +2,7 @@ package com.fastcampus.projectboard.dto.security;
 
 import org.springframework.context.annotation.Profile;
 
+import java.io.UnsupportedEncodingException;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
